@@ -1,10 +1,10 @@
 # Title
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | <br> |
 | Home | |
-| Sex |  |
+| Sex | |
 | Race | |
 | Born  | |
 | Died | |
@@ -13,7 +13,6 @@
 | - | - |
 | Parent(s) | |
 | Sibling(s) | |
-|  |  |
 
 | Statistics | |
 | - | - |

@@ -1,6 +1,6 @@
 # Orham
 
-| Geography |  |
+| Geography | |
 | - | - |
 | Type | Port city |
 | Region | [Ebrihan](../Land/caelus.md#ebrihan), [Caelus](../Land/caelus.md) |

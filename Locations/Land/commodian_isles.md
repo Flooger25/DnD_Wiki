@@ -2,12 +2,11 @@
 
 The Commodian Isles are a collection of islands in the heart of the south eastern sea.
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Type | Archipelago |
 | Region | [South Eastern Sea](../Planes/pulchra.md#south-eastern-corner) |
 | Area | 122,855 km<sup>2</sup> (47,435 mi<sup>2</sup>)  |
-|  |  |
 
 | Society | |
 | - | - |

@@ -1,6 +1,6 @@
 # Katarus
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | 38th Archmage of Meridia |
 | Sex | Male |

@@ -2,7 +2,7 @@
 
 ![](../Media/andurin.jpg)
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Andurin<br>The Second Wielder<br>The Holy Son<br>Anduin's Heir |
 | Home | Athal, [Caelus](../Locations/Land/caelus.md) |
@@ -15,7 +15,6 @@
 | - | - |
 | Parent(s) | [Anduin the Great](anduin_the_great.md) |
 | Sibling(s) | [Kisiri](kisiri.md) |
-|  |  |
 
 | Statistics | |
 | - | - |

@@ -2,7 +2,7 @@
 
 The Caelian Trilogy is a trilogy of three fast-paced and short adventures whose events primarily take place on the [Pulchran](../Locations/Planes/pulchra.md) continent of [Caelus](../Locations/Land/caelus.md) and some locations in [Meridia](../Locations/Land/meridia.md). The campaign's original design was exclusive to the first arc, [Rise of Ebrihan](#rise-of-ebrihan), but soon grew into a 3 arc trilogy expanding on the events of the first arc.
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Type | Adventure Series |
 | Arcs | [Rise of Ebrihan](#rise-of-ebrihan)<br>[Death of a Dragon](#death-of-a-dragon)<br>[Ascension of the Ancient](#ascension-of-the-ancient) |
@@ -11,19 +11,16 @@ The Caelian Trilogy is a trilogy of three fast-paced and short adventures whose 
 | Levels | RoE 2-5<br>DoD 6-9<br>AotA 10-17 |
 | Designed | March, 2019 - Nov, 2020 |
 | Status | **Completed** and introduced to lore by [13](../Characters/13/13.md)
-|  |  |
 
-| World Information |  |
+| World Information | |
 | - | - |
 | World | Pulchra |
 | Location(s) | Caelus<br>Meridia |
 | Timeline | 1326 PA - 1344 PA |
-|  |  |
 
-| Story Information |  |
+| Story Information | |
 | - | - |
 | Antagonists | [Oric Valdes](../Characters/oric_valdes.md)<br>Ravens<br>[Caelian Empire](../Factions/Nations/caelian_empire.md)<br>[Arch Witch Kisiri](../Characters/kisiri.md) |
-|  |  |
 
 ## Plot
 

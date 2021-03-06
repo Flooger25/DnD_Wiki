@@ -1,7 +1,7 @@
 # Aluuard Vidroth II
 
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | The Greedy King |
 | Sex | Male |

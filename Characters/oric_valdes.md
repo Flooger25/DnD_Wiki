@@ -1,6 +1,6 @@
 # Oric Valdes
 
-Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/fraemia.md), Imperator, and eventually the High Lord of the [Caelian Empire](../Factions/Nations/caelian_empire.md). He was born to war and blessed with divine strength. A powerful opponent, and ally, he was cunning, ruthless, and a political mastermind. If things ever got violent, he would be the last one standing.
+Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/fraemia.md), Imperator, and eventually the High Lord of the [Caelian Empire](../Factions/Nations/caelian_empire.md). He acted as one of the primary antagonists of the [Caelian Trilogy](../Campaigns/caelian_trilogy.md). Oric was born to war and blessed with divine strength. A powerful opponent, and ally, he was cunning, ruthless, and a political mastermind. If things ever got violent, he would be the last one standing.
 
 "I know what it's like to win and then to lose everything. After we pushed those swine of Orcs, Dwarves, and all others back from Ebrihan, the Necromancer had quite the final strike indeed. My home suffered a war its leaders, whose responsibility was to protect them, had started. Soon the King's empire will die like my homeland. The Rise of Ebrihan is nigh, and you cannot stop it."
 

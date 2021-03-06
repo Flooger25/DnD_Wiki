@@ -1,6 +1,6 @@
 # Kisiri
 
-Arch Witch Kisiri, also known as the Queen, the Daughter, and simply Kisiri, was an extremely powerful, mortal-born archlich who achieved the highest tier of power one could without formally ascending to godhood. As the daughter of [Anduin the Great](anduin_the_great.md), she was born with extraordinary power as a sorcerer and at an early age was able to surpass those who had studied and practiced in the arcane arts their whole lives. At one point, Kisiri was touched by "the darkness" and decided the world was for her taking. She slayed her father, destroyed his kingdom, and eventually dueled with her younger brother [Andurin](andurin.md) to the death.
+Arch Witch Kisiri, also known as the Queen, the Daughter, and simply Kisiri, was an extremely powerful, mortal-born archlich who achieved the highest tier of power one could without formally ascending to godhood, and was one of the primary antagonists of the [Caelian Trilogy](../Campaigns/caelian_trilogy.md). As the daughter of [Anduin the Great](anduin_the_great.md), she was born with extraordinary power as a sorcerer and at an early age was able to surpass those who had studied and practiced in the arcane arts their whole lives. At one point, Kisiri was touched by "the darkness" and decided the world was for her taking. She slayed her father, destroyed his kingdom, and eventually dueled with her younger brother [Andurin](andurin.md) to the death.
 
 She secretly had split her soul to achieve lichdom, however, and after her "death" moved between the planes as a ghastly figure for the following millennia. After the death of [High Lord Valdes](oric_valdes.md) by the hands of [13](13/13.md), enough of her soul was released to lead to her reassuming physical form from the blood of her descendant, Queen Eilis. With her return, she attempted to continue her mission to take the world as her own, only for her to be stopped by the unlikely hands of [13](13/13.md).
 
@@ -10,7 +10,7 @@ For the rest of history she became known as the Arch Witch, for there had yet to
 
 -- Unknown Lich, Limbo 1344 PA
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Kisiri<br>The Arch Witch<br>The Daughter<br>The Queen<br>Child of the Fabric |
 | Home | Andurin, Athal |
@@ -23,7 +23,6 @@ For the rest of history she became known as the Arch Witch, for there had yet to
 | - | - |
 | Parent(s) | [Anduin the Great](anduin_the_great.md) |
 | Sibling(s) | [Andurin](andurin.md) |
-|  |  |
 
 | Statistics | |
 | - | - |

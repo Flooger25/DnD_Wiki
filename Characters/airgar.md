@@ -1,6 +1,6 @@
 # Airgar
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Retired Knight |
 | Sex | Male |

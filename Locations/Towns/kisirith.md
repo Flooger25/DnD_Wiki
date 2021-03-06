@@ -1,6 +1,6 @@
 # Kisirith
 
-| Geography |  |
+| Geography | |
 | - | - |
 | Type | Ruins <sub><sup>(Formerly: Fortress town)</sup></sub> |
 | Region | [Kisiria](../Land/caelus.md#kisiria), [Caelus](../Land/caelus.md) |

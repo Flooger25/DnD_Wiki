@@ -2,7 +2,7 @@
 
 Anduin, or Anduin the Great, was one of the most powerful humans of all time who was gifted with extraordinary power. He is most commonly known as the founder of the [Dominion of Anduin](../Factions/Nations/dominion_of_anduin.md), that of the continent [Caelus](../Locations/Land/caelus.md), and the father of [Andurin](andurin.md) and [Kisiri](kisiri.md). He is known among the gods and the "God Thief" due to him stealing the god weapon [Fraemia](../Objects/fraemia.md) from them.
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Anduin<br>Anduin the Great<br>First King<br>The Blessed One<br>God Thief |
 | Sex | Male |

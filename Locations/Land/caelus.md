@@ -6,12 +6,11 @@ The [Caelian Trilogy](../../Campaigns/caelian_trilogy.md) adventure series also 
 
 ![](../../Media/caelus.png)
 
-| Geography |  |
+| Geography | |
 | - | - |
 | Type | Continent |
 | Region | South East Corner |
 | Area | 1,169,059 km<sup>2</sup> (451,376 mi<sup>2</sup>)  |
-|  |  |
 
 | Society | |
 | - | - |

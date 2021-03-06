@@ -2,7 +2,7 @@
 
 The "Super Campaign" is a multi-party and multi-arc campaign that spans 5 different possible trilogies, with each being similar in size and variety as the [Caelian Trilogy](caelian_trilogy.md).
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Type | Multi-party Adventure Series |
 | Arcs | 3 |
@@ -11,14 +11,12 @@ The "Super Campaign" is a multi-party and multi-arc campaign that spans 5 differ
 | Players | 12-30 (3-5 parties of 4-6 players) |
 | Levels | ?? |
 | Designed | ?? |
-|  |  |
 
-| World Information |  |
+| World Information | |
 | - | - |
 | World | Pulchra |
 | Location(s) | ?? |
 | Timeline | ?? |
-|  |  |
 
 ## Plot
 

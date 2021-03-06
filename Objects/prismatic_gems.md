@@ -2,7 +2,7 @@
 
 Prismatic gems are a type of stone that contains the immense raw power of the universe, and if tapped correctly, can be used by the individual attuned with it.
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Prismatic Stones<br>Infinity Stones |
 | Type | Wondrous item |

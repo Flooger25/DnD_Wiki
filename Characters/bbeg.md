@@ -1,6 +1,6 @@
 # BBEG
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | The Dark Sovereign<br>Scary Boi<br>The Nameless One<br>Death |
 | Home | Unknown |
@@ -12,7 +12,6 @@
 | Family | |
 | - | - |
 | Unknown(s) | |
-|  |  |
 
 | Statistics | |
 | - | - |

@@ -1,6 +1,6 @@
 # Eilis Vidroth II
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Queen Eilis Vidroth II<br>Queen of the [Old Dominion](../Factions/Nations/dominion_of_anduin.md) |
 | Sex | Female |
