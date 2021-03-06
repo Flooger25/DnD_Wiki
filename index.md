@@ -1,4 +1,4 @@
-# D&D Wiki
+# D&D Wiki v1.0.0
 
 ## Intro
 
