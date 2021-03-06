@@ -1,39 +1,24 @@
-# Title
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-words
-
-| Oric Valdes |  |
-| ---| --- |
-| Titles | Duke of Ebrihan
-| | Odeil Varsc
-| | The Imperator
-| | Imperator of the Fields
-| | The High Lord of the Caelian Empire
-| | High Lord
-| | Our Lord
+# Ravens
 
 | Basic Information |  |
 | - | - |
-| Title(s) | <br> |
-| Home | |
-| Sex |  |
-| Race | |
-| Born  | |
-| Died | |
-
-| Family | |
-| - | - |
-| Parent(s) | |
-| Sibling(s) | |
+| Type | Criminal organization |
+| Base of operations | [Orham](../../Locations/Towns/orham.md), [Ebrihan](../../Locations/Land/caelus.md#ebrihan) |
+| Leader(s) | [Lord of the Fields](../../Characters/oric_valdes.md) |
+| Formed | 1306 PA |
+| Disbanded | 1326 PA (20) |
+| Successor | Loyalists to the [Empire](../Nations/caelian_empire.md)
 |  |  |
 
-| Statistics | |
+| Membership | |
 | - | - |
-| Alignment | |
-| Challenge Rating | |
-| Class | |
+| Alignment | Lawful evil |
+| Members | 2000 in 1326 PA |
+| Race | 85% Human in 1326 PA |
+|  |  |
+
+| Relationship | |
+| - | - |
+| Allegiances | |
+| Enemies | |
+|  |  |

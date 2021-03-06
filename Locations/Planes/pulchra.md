@@ -1,0 +1,90 @@
+# Pulchra
+
+![](../../Media/east_to_west.gif)
+
+| Basic Information | |
+| - | - |
+| Type | Planet |
+| Radius | 3957 mi (6366 km) |
+| Satellites | yes |
+| Orbital distance  | 112,000,000 mi<br>(180,208,000 km) |
+| Day Length | 24 hours |
+| Year length | 365 days |
+| Demonym | Pulchran |
+
+| Population | |
+| - | - |
+| 0 [4A](../../Events/timeline.md#4th---age-of-the-ancients) | 10,000,000 |
+| 1256 4A | 40,000,000 |
+| 2582 4A | 215,000,000 |
+| 2600 4A<br>0 5A | 200,000,000 |
+| 24 5A | 160,000,000 |
+| 350 5A | 185,000,000 |
+| 3126 5A | 1,321,000,000 |
+
+## History
+Since the known existence of the Gods, four distinct ages of the world have gone by: the Age of the Angels, the Age of the Keepers, the Age of Silence, the Age of the Ancients, and the current 5th and current age, the Age of the Kings. For a timeline of Pulchran history as it is now known, with dates, see the [timeline](../../Events/timeline.md).
+
+## Calendar
+
+A Pulchran year lasts 365 days over the course of 12 months. Each day is 24 hours in length and there are 7 days in a week.
+
+## Geography
+
+![](insert basic map of planet here)
+
+### Continents
+
+#### Praeia
+
+The main super-continent of the world. The vast majority of the world population and their events have lived here.
+
+#### Draconia
+
+An isolated continent in the corner of the world. Few travel there for it is a foreign land comprised of many dangerous creatures that have never been known to exist.
+
+#### Acelidion
+
+The northern most continent is covered in ice and tundra. Very few have traveled there to tell of the tales of this land.
+
+#### Caelia
+
+Also known as Caelus, this continent is located in the south eastern corner. The events of the Caelian Trilogy take place here. For more information, visit [Caelus](../Land/caelus.md).
+
+### Oceans
+
+#### Great Ocean
+
+The primary ocean of the world, it covers over half of Pulchra's surface.
+
+#### Northern Depths
+
+Located between Draconia and Acelidion, this ocean is known for its frigid temperatures because of the arctic air that travels down through it. Very few traverse this ocean, unless they are traveling near the coast.
+
+#### Southern Sea
+
+The southern most ocean of Pulchra that unites Praetoria and Meridia.
+
+## Geographical Regions
+
+### South Eastern Corner
+
+![](../../Media/south_eastern_corner.png)
+
+Refers to the combined locations of the Old World, [Caelia](../Land/caelus.md), Meridia, and the South Eastern Sea.
+
+### Meridia
+
+One of the two primary homes of the dwarves. It is also one of the earliest known locations in which modern integration between races had occurred.
+
+### Old World
+
+The origin of the world. The oldest known location of civilized life in the world.
+
+### Praetoria
+
+The crowning jewel of Elves and other beings of high stature.
+
+## Satellites
+
+Pulchra has one moon named Aiter.

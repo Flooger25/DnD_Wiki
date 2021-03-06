@@ -1,39 +1,35 @@
-# Title
+# Dominion of Anduin
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+![](../../Media/dominion_of_anduin.png)
 
-words
-
-| Oric Valdes |  |
-| ---| --- |
-| Titles | Duke of Ebrihan
-| | Odeil Varsc
-| | The Imperator
-| | Imperator of the Fields
-| | The High Lord of the Caelian Empire
-| | High Lord
-| | Our Lord
-
-| Basic Information |  |
+| General Information |  |
 | - | - |
-| Title(s) | <br> |
-| Home | |
-| Sex |  |
-| Race | |
-| Born  | |
-| Died | |
+| Full name | The Dominion of Anduin |
+| Type | Absolute-Monarchy |
+| Capital | Andurin |
+| Sub-states | Athal<br>Ebrihan<br>Kisiria<br>Yagocryne<br>Lindoline<br>Ashein<br>Northern Fields
 
-| Family | |
+| History | |
 | - | - |
-| Parent(s) | |
-| Sibling(s) | |
-|  |  |
+| Formed from | Anduin's arrival to Caelus |
+| Established | 0 PA |
+| Disestablished | 1326 PA |
+| Predecessor | Old World<br>Orcish and Dwarvish native tribes |
+| Successor | [Caelian Empire](caelian_empire.md) |
+| Notable events | [Kisiri's uprising](../../Characters/kisiri.md#fall-into-darkness)<br>Plague of 900s<br>[War of the Fields](../../Events/war_of_the_fields.md)<br>Rise of Ebrihan |
 
-| Statistics | |
+| Area | |
 | - | - |
-| Alignment | |
-| Challenge Rating | |
-| Class | |
+| 1326 PA | 1,169,259 km<sup>2</sup> |
+
+| Population | |
+| - | - |
+| 1326 PA | 10,600,000 |
+
+## Description
+
+## Geography
+
+## Government
+
+## History
