@@ -1,39 +1,17 @@
-# Title
+# Orham
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-words
-
-| Oric Valdes |  |
-| ---| --- |
-| Titles | Duke of Ebrihan
-| | Odeil Varsc
-| | The Imperator
-| | Imperator of the Fields
-| | The High Lord of the Caelian Empire
-| | High Lord
-| | Our Lord
-
-| Basic Information |  |
+| Geography |  |
 | - | - |
-| Title(s) | <br> |
-| Home | |
-| Sex |  |
-| Race | |
-| Born  | |
-| Died | |
+| Type | Port city |
+| Region | [Ebrihan](../Land/caelus.md#ebrihan), [Caelus](../Land/caelus.md) |
+| Size | Town |
 
-| Family | |
+| Society | |
 | - | - |
-| Parent(s) | |
-| Sibling(s) | |
-|  |  |
+| Demonym | Orhamin |
+| Races | In 1326 PA:<br>- 90% Human<br>- 10% Other |
 
-| Statistics | |
+| History | |
 | - | - |
-| Alignment | |
-| Challenge Rating | |
-| Class | |
+| 612 PA | Settled and founded |
+| Population | 3,000 in 1326 PA |

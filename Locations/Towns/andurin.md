@@ -1,39 +1,21 @@
-# Title
+# Andurin <sub><sup>(city)</sup></sub>
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-words
-
-| Oric Valdes |  |
-| ---| --- |
-| Titles | Duke of Ebrihan
-| | Odeil Varsc
-| | The Imperator
-| | Imperator of the Fields
-| | The High Lord of the Caelian Empire
-| | High Lord
-| | Our Lord
-
-| Basic Information |  |
+| Geography |  |
 | - | - |
-| Title(s) | <br> |
-| Home | |
-| Sex |  |
-| Race | |
-| Born  | |
-| Died | |
+| Aliases | First City |
+| Type | Port city |
+| Region | [Athal](../Land/caelus.md#athal), [Caelus](../Land/caelus.md) |
+| Size | Big city |
 
-| Family | |
+| Society | |
 | - | - |
-| Parent(s) | |
-| Sibling(s) | |
-|  |  |
+| Demonym | Andurite |
+| Races | In 1326 PA:<br>- 80% Human<br>- 10% Half-races<br>- 6% Elf<br>- 2% Orc<br>- 2% Other |
 
-| Statistics | |
+| History | |
 | - | - |
-| Alignment | |
-| Challenge Rating | |
-| Class | |
+| 0 PA | Established |
+| 1326 PA | Rise of Ebrihan |
+| 1344 PA | Destruction |
+| Preceded by | First settlement |
+| Population | 128,000 in 1326 PA<br>105,000 in 1343 PA<br>7,800 in 1344 PA<br>64,000 in 162 PC  |

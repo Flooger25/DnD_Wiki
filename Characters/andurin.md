@@ -1,11 +1,13 @@
 # Andurin
 
+![](../Media/andurin.jpg)
+
 | Basic Information |  |
 | - | - |
 | Title(s) | Andurin<br>The Second Wielder<br>The Holy Son<br>Anduin's Heir |
-| Home | Andurin, Athal |
+| Home | Athal, [Caelus](../Locations/Land/caelus.md) |
 | Sex | Male |
-| Race | Human |
+| Race | Half-Elf |
 | Born  | Between 0-30 PA |
 | Died | 160 PA |
 
@@ -19,3 +21,9 @@
 | - | - |
 | Alignment | Neutral Good |
 | Challenge Rating | 25+ |
+
+## Description
+
+## History
+
+## Powers
