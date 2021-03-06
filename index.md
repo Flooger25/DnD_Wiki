@@ -1,4 +1,4 @@
-# D&D Wiki v1.0.0
+# D&D Wiki v1.1.0
 
 ## Intro
 
@@ -34,8 +34,7 @@ Land Masses
 - Draconia
 - Acelidion
 - Pelrock Isle
-- Meridia - More stuff
-- Old World
+- Meridia
 
 Towns
 - Dorren
@@ -47,8 +46,6 @@ Nations
 - Northern Meridia
 - Eatern Meridia
 - Western Meridia
-- Unified Commodia
-- Athal
 - Land of the Fields
 
 Characters

@@ -1,6 +1,7 @@
 # Gods
 
 ## Faith of the White
+
 | Deity	| Alignment	| Domains |
 |-|-|-|
 | Vita, god of life | LG | Life |
@@ -46,6 +47,7 @@ Berronar Truesilver, goddess of hearth and home	| LG | Life, Light | Intertwined
 | Solonor Thelandira, god of archery | CG | War | Silver arrow with green fletching
 
 ## The Drow Pantheon
+
 | Deity	| Alignment	| Domains |	Symbol |
 |-|-|-|-|
 | Eilistraee, goddess of song and moonlight | CG | Light, Nature | Sword-wielding dancing drow female silhouetted against the full moon
@@ -91,6 +93,7 @@ Berronar Truesilver, goddess of hearth and home	| LG | Life, Light | Intertwined
 | Yurtrus, god of death and disease | NE | Death | White hand, palm outward
 
 ## Deities of the Forgotten Realms
+
 | Deity	| Alignment	| Domains |	Symbol | Rank |
 |-|-|-|-|-|
 | Auril, goddess of winter | NE | Nature, Tempest | Six-pointed snowflake | Lesser
@@ -132,6 +135,7 @@ Berronar Truesilver, goddess of hearth and home	| LG | Life, Light | Intertwined
 | Waukeen, goddess of trade | N | Knowledge, Trickery | Upright coin with Waukeen’s profile facing left | Lesser
 
 ## Deities of Greyhawk
+
 | Deity	| Alignment	| Domains |	Symbol |
 |-|-|-|-|
 | Beory, goddess of nature | N | Nature | Green disk

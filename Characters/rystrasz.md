@@ -1,6 +1,6 @@
 # Rystrasz
 
-Rystrasz was an Ancient Red Dragon who is known for having two split personalities and a love for rock music. He is one of the most infamous dragons in the planes of existence, both for his good and evil deeds, while being one of the most powerful red dragons to have ever existed.
+Rystrasz was an Ancient Red [Dragon](../Factions/Races/dragon.md) who is known for having two split personalities and a love for rock music. He is one of the most infamous dragons in the planes of existence, both for his good and evil deeds, while being one of the most powerful red dragons to have ever existed.
 
 | Basic Information | |
 | - | - |

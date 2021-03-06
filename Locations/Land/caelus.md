@@ -27,7 +27,7 @@ The [Caelian Trilogy](../../Campaigns/caelian_trilogy.md) adventure series also 
 | 0 PA | 28,000 settlers<br>400,000-700,000 natives |
 | 1326 PA | 10,600,000 |
 | 1343 PA | 9,120,000 |
-| 162 PC | 12,000,000 |
+| 162 PC | 7,300,000 |
 
 ## Geography
 

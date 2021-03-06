@@ -19,7 +19,7 @@ The War of the Fields was a conflict that occurred on the continent of Caelus be
 
 | Commanders | | |
 | - | - | - |
-| [King Aluuard Vidroth II](../Characters/aluuard_vidroth.md) | [Imperator of the Fields](../Characters/oric_valdes.md#the-imperator) | [The "Necromancer"](../Characters/Kisiri.md#slumber) |
+| [King Aluuard Vidroth II](../Characters/aluuard_vidroth.md) | [Imperator of the Fields](../Characters/oric_valdes.md#the-imperator) | [The "Necromancer"](../Characters/kisiri.md#slumber) |
 
 | Strength | | |
 | - | - | - |

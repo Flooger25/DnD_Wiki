@@ -1,6 +1,6 @@
 # Commodian Isles
 
-The Commodian Isles are a collection of islands in the heart of the south eastern sea.
+The Commodian Isles are a collection of islands in the heart of the [South Eastern Sea](../Planes/pulchra.md#south-eastern-corner).
 
 | Basic Information | |
 | - | - |
@@ -44,7 +44,7 @@ The Commodian Isles consist of 12 islands of various size and history:
 - 1200-1500 BNE - First settlers arrive on the islands of Paruna and South Calmest Enclave.
 - 900-1200 BNE - During a large migration from the ancient west, many of the other islands were settled, except for those in the south west corner of the Isles.
 - Between 200 and 400 BNE, today's Helrock and Castetava were settled
-- 100-250 BNE - The first Unified Commodia was founded. Now know as the Old Unified Commodia
+- 100-250 BNE - The first [Unified Commodia](../../Factions/Nations/unified_commodia.md) was founded. Now know as the Old Unified Commodia
 - 86 BNE - Brasstown secedes from Unified Commodia.
 - 82-86 BNE - Brasstown Commodian war is fought. Brasstown defends.
 - 0 BNE - During the Invasion of the East occurs. Unified Commodia fell from the foreign powers, now just referred to as “the [Empire](../../Factions/Nations/caelian_empire.md)”, and chaos ensued for the following decade while under their rule. Populations declined severely due to shortages of supplies, food, and genocide. During the oppression, Brasshaven was bombarded and attacked for several years. After tens of thousands of losses from the Empire they forfeited their attacks and left Brasshaven as the only city in the Isles never captured.

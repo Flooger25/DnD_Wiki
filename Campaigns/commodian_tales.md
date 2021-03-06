@@ -13,7 +13,7 @@ The Commodian Tales is an adventure that takes place in the [Commodian Isles](..
 | World Information | |
 | - | - |
 | World | [Pulchra](../Locations/Planes/pulchra.md) |
-| Location(s) | Commodian Isles |
+| Location(s) | [Commodian Isles](../Locations/Land/commodian_isles.md) |
 | Timeline | 162 PC - ?? |
 
 | Story Information | |
