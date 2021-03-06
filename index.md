@@ -2,7 +2,9 @@
 
 ## Intro
 
-This repo is intended to house all information related to the "Super Campaign", aka **When The Void Stares Back**, in the form of a wiki.
+This repo is intended to house all information related to the universe of the "Super Campaign" in the form of a wiki. Many of the events of these adventures primarily take place on the planet [Pulchra](Locations/Planes/pulchra.md).
+
+To view a random page, click [here!](https://flooger25.github.io/DnD_Wiki/random)
 
 ## Structure
 
