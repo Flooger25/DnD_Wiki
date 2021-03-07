@@ -12,9 +12,9 @@ To view a random page, click [here](https://flooger25.github.io/DnD_Wiki/random)
 
 The following is how the wiki is structured with information on each:
 
-- Campaigns - All formal adventures, campaigns, and their series
+- [Campaigns](Campaigns/campaigns.md) - All formal adventures, campaigns, and their series
 - Characters - Both non-playable and playable characters, including parties
-- Events - Historical events, timelines, and geographic-based calendars
+- [Events](Events/events.md) - Historical events, timelines, and geographic-based calendars
 - Factions
   - Organizations - Political organizations, factions, and guilds
   - Nations - States, nations, countries, empires, dynasties, and regions within others

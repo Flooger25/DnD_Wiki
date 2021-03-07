@@ -7,7 +7,7 @@ The "Old World" is a region on the [Pulchran](../Planes/pulchra.md) supercontine
 | Type | Region |
 | Region | [South East Corner](../Planes/pulchra.md#south-eastern-corner) |
 | Continent | [Praeia](../Planes/pulchra.md#praeia) |
-| Area | XX km<sup>2</sup> XX mi<sup>2</sup>)  |
+| Area | XX km<sup>2</sup> XX mi<sup>2</sup> |
 
 | Races | |
 | - | - |

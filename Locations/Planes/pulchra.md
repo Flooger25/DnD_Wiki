@@ -1,12 +1,14 @@
 # Pulchra
 
+Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unknown species of divine beings. The planet was the embodiment of beauty and the source of attraction for the all-powerful overgods and other angels.
+
 ![](../../Media/east_to_west.gif)
 
 | Basic Information | |
 | - | - |
 | Type | Planet |
 | Radius | 3957 mi (6366 km) |
-| Satellites | yes |
+| Satellites | Aiter |
 | Orbital distance  | 112,000,000 mi<br>(180,208,000 km) |
 | Day Length | 24 hours |
 | Year length | 365 days |
