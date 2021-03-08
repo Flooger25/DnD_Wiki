@@ -1,6 +1,5 @@
 # Aluuard Vidroth II
 
-
 | Basic Information | |
 | - | - |
 | Title(s) | The Greedy King |

@@ -1,6 +1,5 @@
 # Emily
 
-
 | Basic Information | |
 | - | - |
 | Type | Player Character |

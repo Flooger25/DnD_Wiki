@@ -23,6 +23,19 @@ Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/
 | Alignment | Neutral Evil |
 | Challenge Rating | 10 as visage<br>23 as High Lord<br>26+ w/Fraemia |
 
+## Contents
+
+- [Description](#description)
+- [History](#history)
+  - [Early Life](#early-life)
+  - [The Imperator](#the-imperator)
+  - [Silver Guardians](#silver-guardians)
+  - [Duke of Ebrihan](#duke-of-ebrihan)
+  - [High Lord Valdes](#high-lord-valdes)
+  - [Redemption](#redemption)
+- [Powers](#powers)
+- [Quotes](#quotes)
+
 ## Description
 
 Oric was an extremely intelligent, ruthless, and charismatic leader who stood over 6 feet tall. His body was muscular and built like a true warrior, and despite this, his intelligence was matched in physical strength. Oric had the capability to deceive those around him with his appearance, often in his later years intentionally presenting himself as a fragile and kind old man. His convictions were stronger than steel, often they became reality for he was unstoppable politically. Known to have little concern for those around him, he used his charismatic prowess to obtain what he wanted, and if that were not good enough, rarely so, his physical power would get the job done. He strives to avenge those who he held dear to his heart, such as the Ebrihanians and his former group the Silver Guardians.

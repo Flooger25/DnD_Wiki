@@ -1,6 +1,6 @@
 # Unified Commodia
 
-The Unified Commodian Isles, or more commonly known as just Commodia, is an island nation spanning most of the islands of the [Commodian Isles](../../Locations/Land/commodian_isles.md) in the [South Eastern Sea](TODO).
+The Unified Commodian Isles, or more commonly known as just Commodia, is an island nation spanning most of the islands of the [Commodian Isles](../../Locations/Land/commodian_isles.md) in the [South Eastern Sea](../../Locations/Planes/pulchra.md#south-eastern-corner).
 
 | General Information | |
 | - | - |

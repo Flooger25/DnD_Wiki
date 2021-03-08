@@ -1,6 +1,8 @@
 # Commodian Isles
 
-The Commodian Isles are a collection of islands in the heart of the [South Eastern Sea](../Planes/pulchra.md#south-eastern-corner).
+The Commodian Isles are a collection of islands in the heart of the [South Eastern Sea](../Planes/pulchra.md#south-eastern-corner) and the primary location for the events of the [Commodian Tales](../../Campaigns/commodian_tales.md) adventure.
+
+![Commodian Isles](../../Media/commodian_isles.png)
 
 | Basic Information | |
 | - | - |
@@ -39,7 +41,7 @@ The Commodian Isles consist of 12 islands of various size and history:
 
 ## History
 
-**Note**: BNE refers to the time before the "invasion of the east" of the Isles.
+**Note**: Before New Era (BNE) refers to the time before the "[invasion of the east](TODO)" of the Isles.
 
 - 1200-1500 BNE - First settlers arrive on the islands of Paruna and South Calmest Enclave.
 - 900-1200 BNE - During a large migration from the ancient west, many of the other islands were settled, except for those in the south west corner of the Isles.
@@ -59,7 +61,7 @@ The Commodian Isles consist of 12 islands of various size and history:
 - 135-138 PC - The "Last War". Unified Commodia cracks down on dissenters in Acodela, Shirif, Kelar, and Illoranda.
 - 136 PC - Helrock reclaims Aladiac Cay for their own, but Unified Commodia refuses these claims. Tensions rise between the two states
 - 137-150 PC - Unified Commodia fights Helrock for Aladiac Cay. They are victorious.
-- 158 PC - Mors Marauders arrive?
+- 158 PC - Mors Marauders set up guild in Brasshaven.
 - 158 PC - Legion of Man formed.
 - 162 PC - Start of [Commodian Tales](../../Campaigns/commodian_tales.md)
 

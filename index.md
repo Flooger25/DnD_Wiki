@@ -13,7 +13,7 @@ To view a random page, click [here](https://flooger25.github.io/DnD_Wiki/random)
 The following is how the wiki is structured with information on each:
 
 - [Campaigns](Campaigns/campaigns.md) - All formal adventures, campaigns, and their series
-- Characters - Both non-playable and playable characters, including parties
+- [Characters](Characters/characters.md) - Both non-playable and playable characters, including parties
 - [Events](Events/events.md) - Historical events, timelines, and geographic-based calendars
 - Factions
   - Organizations - Political organizations, factions, and guilds
@@ -35,6 +35,7 @@ Land Masses
 - Acelidion
 - Pelrock Isle
 - Meridia
+- Kazrek
 
 Towns
 - Dorren
@@ -52,3 +53,7 @@ Characters
 - Randy
 - Quildrith
 - Don Quiggley
+- Liana
+- Monte Pichon
+- Taloraan
+- Billy

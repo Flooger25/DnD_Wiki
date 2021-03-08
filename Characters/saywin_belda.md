@@ -1,6 +1,5 @@
 # Lord Saywin Belda
 
-
 | Basic Information | |
 | - | - |
 | Title(s) | Lord Belda |
