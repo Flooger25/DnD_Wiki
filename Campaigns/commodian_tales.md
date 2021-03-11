@@ -2,26 +2,23 @@
 
 The Commodian Tales is an adventure that takes place in the [Commodian Isles](../Locations/Land/commodian_isles.md) during the year of 162 PC.
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Type | Adventure |
 | Length | 20-50 Hours |
 | Players | 4-5 |
 | Levels | 1+ |
 | Designed | Feb, 2021 |
-|  |  |
 
-| World Information |  |
+| World Information | |
 | - | - |
 | World | [Pulchra](../Locations/Planes/pulchra.md) |
-| Location(s) | Commodian Isles |
+| Location(s) | [Commodian Isles](../Locations/Land/commodian_isles.md) |
 | Timeline | 162 PC - ?? |
-|  |  |
 
-| Story Information |  |
+| Story Information | |
 | - | - |
 | Antagonists | ??<br>?? |
-|  |  |
 
 ## Plot
 

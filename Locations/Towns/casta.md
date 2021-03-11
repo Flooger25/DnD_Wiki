@@ -2,7 +2,7 @@
 
 Casta was a village on the eastern side of the Caelian continent. It was the starting location of the [Rise of Ebrihan](../../Campaigns/caelian_trilogy.md#rise-of-ebrihan) adventure in the [Caelian trilogy](../../Campaigns/caelian_trilogy.md) campaign.
 
-| Geography |  |
+| Geography | |
 | - | - |
 | Type | Port city |
 | Region | [Ebrihan](../Land/caelus.md#ebrihan), [Caelus](../Land/caelus.md) |

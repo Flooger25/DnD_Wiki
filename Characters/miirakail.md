@@ -1,8 +1,8 @@
 # Miirakail
 
-Miirakail was an Ancient Silver Dragon who inhabited the continent of [Caelus](../Locations/Land/caelus.md) before all others, which gave him the nickname among some as the father of the continent. Miirakail was unique among many dragons not only for his long life, but also for his infamous golden eyes that gave him the power of clairvoyance. During his life, his left eye was stolen and used by [Arch Witch Kisiri](kisiri.md) as a method for her to become more powerful, and later on Miirakail was able to use the rest of the power in his right eye to send [13](13/13.md) back in time to learn the power of the [Imperator](oric_valdes.md).
+Miirakail was an Ancient Silver [Dragon](../Factions/Races/dragon.md) who inhabited the continent of [Caelus](../Locations/Land/caelus.md) before all others, which gave him the nickname among some as the father of the continent. Miirakail was unique among many dragons not only for his long life, but also for his infamous golden eyes that gave him the power of clairvoyance. During his life, his left eye was stolen and used by [Arch Witch Kisiri](kisiri.md) as a method for her to become more powerful, and later on Miirakail was able to use the rest of the power in his right eye to send [13](13/13.md) back in time to learn the power of the [Imperator](oric_valdes.md).
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Miirakail<br>The Ancient Silver<br>Father of Caelus<br>The Clairvoyant One |
 | Home | [Caelus](../Locations/Land/caelus.md) |

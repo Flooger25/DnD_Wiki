@@ -1,6 +1,6 @@
 # Phaelah
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | 45th Archmage of Meridia |
 | Sex | Female |

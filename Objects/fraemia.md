@@ -2,7 +2,7 @@
 
 The lightning spear known as Fraemia is a weapon forged by the Gods and stolen from [Anduin](../Characters/anduin_the_great.md). It is considered by scholars the most powerful weapon wielded by a mortal of all time.
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | God Weapon<br>The Lightning Spear<br>The Mortal's Bane<br>Fulhasta |
 | Type | Wondrous item |

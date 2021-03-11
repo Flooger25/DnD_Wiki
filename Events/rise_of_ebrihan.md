@@ -4,7 +4,7 @@ The Rise of Ebrihan was a revolt, and eventual revolution, against the king and 
 
 Rise of Ebrihan also shares the name of the first arc of the Caelian Trilogy. Refer to it's [page](../Campaigns/caelian_trilogy.md#rise-of-ebrihan) for details.
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Type | Revolution |
 | Location(s) | Ebrihan, Caelus<br>Andurin, Athal, Caelus |
@@ -19,7 +19,6 @@ Rise of Ebrihan also shares the name of the first arc of the Caelian Trilogy. Re
 | Casualties | |
 | - | - |
 | 2300 troops | 14000 civilians |
-| | |
 
 ## History
 

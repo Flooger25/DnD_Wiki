@@ -10,7 +10,7 @@ Below is a visual of the Empire's growth in power during it's invasion of Meridi
 
 ![Caelian Empire Expansion](../../Media/caelian_empire.gif)
 
-| General Information |  |
+| General Information | |
 | - | - |
 | Type | Absolute-Dictatorship |
 | Capital | The White Palace, Athal |

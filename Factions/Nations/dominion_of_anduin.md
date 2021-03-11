@@ -1,8 +1,8 @@
 # Dominion of Anduin
 
-![](../../Media/dominion_of_anduin.png)
+![Dominion Map](../../Media/dominion_of_anduin.png)
 
-| General Information |  |
+| General Information | |
 | - | - |
 | Full name | The Dominion of Anduin |
 | Type | Absolute-Monarchy |

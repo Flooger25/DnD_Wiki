@@ -1,12 +1,14 @@
 # Pulchra
 
+Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unknown species of divine beings. The planet was the embodiment of beauty and the source of attraction for the all-powerful overgods and other angels.
+
 ![](../../Media/east_to_west.gif)
 
 | Basic Information | |
 | - | - |
 | Type | Planet |
 | Radius | 3957 mi (6366 km) |
-| Satellites | yes |
+| Satellites | Aiter |
 | Orbital distance  | 112,000,000 mi<br>(180,208,000 km) |
 | Day Length | 24 hours |
 | Year length | 365 days |
@@ -14,16 +16,16 @@
 
 | Population | |
 | - | - |
-| 0 [4A](../../Events/timeline.md#4th---age-of-the-ancients) | 10,000,000 |
+| 0 [4A](../../Events/timeline.md#4th---age-of-the-ancients) | 22,000,000 |
 | 1256 4A | 40,000,000 |
-| 2582 4A | 215,000,000 |
-| 2600 4A<br>0 5A | 200,000,000 |
-| 24 5A | 160,000,000 |
-| 350 5A | 185,000,000 |
+| 2582 4A | 144,000,000 |
+| 2600 4A<br>0 [5A](../../Events/timeline.md#5th---age-of-the-kings) | 129,000,000 |
+| 24 5A | 97,000,000 |
+| 186 5A | 124,000,000 |
 | 3126 5A | 1,321,000,000 |
 
 ## History
-Since the known existence of the Gods, four distinct ages of the world have gone by: the Age of the Angels, the Age of the Keepers, the Age of Silence, the Age of the Ancients, and the current 5th and current age, the Age of the Kings. For a timeline of Pulchran history as it is now known, with dates, see the [timeline](../../Events/timeline.md).
+Since the known existence of the Gods, four distinct ages of the world have gone by: the Age of the Angels, the Age of the Keepers, the Age of Silence, the Age of the Ancients, and the 5th and current age, the Age of the Kings. For a timeline of Pulchran history as it is now known, with dates, see the [timeline](../../Events/timeline.md).
 
 ## Calendar
 

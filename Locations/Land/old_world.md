@@ -1,22 +1,22 @@
-# Title
+# Old World
 
-| Basic Information |  |
-| - | - |
-| Title(s) | <br> |
-| Home | |
-| Sex |  |
-| Race | |
-| Born  | |
-| Died | |
+The "Old World" is a region on the [Pulchran](../Planes/pulchra.md) supercontinent [Praeia](../Planes/pulchra.md#praeia) in which the planet's history suggests the first civilized form of life had originated. Many of the races today can find their roots from somewhere in this region, therefore there is heavy religious influence to those who live there today. Some religions claim that when the gods walked the world, this is where they lay.
 
-| Family | |
+| Geography | |
 | - | - |
-| Parent(s) | |
-| Sibling(s) | |
-|  |  |
+| Type | Region |
+| Region | [South East Corner](../Planes/pulchra.md#south-eastern-corner) |
+| Continent | [Praeia](../Planes/pulchra.md#praeia) |
+| Area | XX km<sup>2</sup> XX mi<sup>2</sup> |
 
-| Statistics | |
+| Races | |
 | - | - |
-| Alignment | |
-| Challenge Rating | |
-| Class | |
+| 1326 PA | yes |
+
+| Population | |
+| - | - |
+| 1326 PA | 90,000,000 |
+
+## Geography
+
+yes

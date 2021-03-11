@@ -1,7 +1,6 @@
 # Lord Saywin Belda
 
-
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Title(s) | Lord Belda |
 | Sex | Male |

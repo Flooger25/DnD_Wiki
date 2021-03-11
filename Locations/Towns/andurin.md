@@ -1,6 +1,6 @@
 # Andurin <sub><sup>(city)</sup></sub>
 
-| Geography |  |
+| Geography | |
 | - | - |
 | Aliases | First City |
 | Type | Port city |

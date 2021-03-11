@@ -1,6 +1,6 @@
 # Oric Valdes
 
-Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/fraemia.md), Imperator, and eventually the High Lord of the [Caelian Empire](../Factions/Nations/caelian_empire.md). He was born to war and blessed with divine strength. A powerful opponent, and ally, he was cunning, ruthless, and a political mastermind. If things ever got violent, he would be the last one standing.
+Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/fraemia.md), Imperator, and eventually the High Lord of the [Caelian Empire](../Factions/Nations/caelian_empire.md). He acted as one of the primary antagonists of the [Caelian Trilogy](../Campaigns/caelian_trilogy.md). Oric was born to war and blessed with divine strength. He was a powerful opponent, and ally, for he was cunning, ruthless, and a political mastermind. Besides his intellect, his physical strength was unrivaled between mortals.
 
 "I know what it's like to win and then to lose everything. After we pushed those swine of Orcs, Dwarves, and all others back from Ebrihan, the Necromancer had quite the final strike indeed. My home suffered a war its leaders, whose responsibility was to protect them, had started. Soon the King's empire will die like my homeland. The Rise of Ebrihan is nigh, and you cannot stop it."
 
@@ -12,7 +12,7 @@ Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/
 | Sex | Male |
 | Race | Human |
 | Born | 1273 PA, [Kisiria](../Locations/Land/caelus.md#kisiria) |
-| Died | Alleged death in 1343 PA, White Palace <sub><sup>(by [Naddin Stoneshield](13/naddin.md) and [13](13/13.md))</sup></sub><br>1344 PA (70), Kisirith <sub><sup>(by Fraemia and Kisiri)</sup></sub> |
+| Died | Alleged death in 1343 PA, White Palace <sub><sup>(by [Naddin Stoneshield](13/naddin.md) and [13](13/13.md)</sup></sub><br>1344 PA (70), Kisirith <sub><sup>(by Fraemia and Kisiri)</sup></sub> |
 
 | Family | |
 | - | - |
@@ -22,6 +22,19 @@ Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/
 | - | - |
 | Alignment | Neutral Evil |
 | Challenge Rating | 10 as visage<br>23 as High Lord<br>26+ w/Fraemia |
+
+## Contents
+
+- [Description](#description)
+- [History](#history)
+  - [Early Life](#early-life)
+  - [The Imperator](#the-imperator)
+  - [Silver Guardians](#silver-guardians)
+  - [Duke of Ebrihan](#duke-of-ebrihan)
+  - [High Lord Valdes](#high-lord-valdes)
+  - [Redemption](#redemption)
+- [Powers](#powers)
+- [Quotes](#quotes)
 
 ## Description
 
@@ -35,7 +48,7 @@ Oric was born in 1273 PA in Kisiria and grew up near the villages of Swindon and
 
 When the [War of the Fields](../Events/war_of_the_fields.md) broke out in 1280 PA, chaos enveloped the lands and led to the destruction of Oric's regional home. Starting at the age of 7, Oric was homeless and struggled to survive amongst the ruins and battles occurring in the region. It wasn't until 1281 PA that Oric was discovered by a child being cared for by a priestess in the forests of the region. Somehow, Oric had been surviving in the forests for the last year alone. The other children in the priestess's care didn't take notice to the new child, except for one who had apparently been playing with Oric, but the priestess herself felt something peculiar that had to be amended. During this time, the children and the priestess were encountered by [13](13/13.md), who were looking for Oric as well, and a consensus was found to look for the child in the forests nearby.
 
-That night, while 13 was camped out, [Naddin](13/naddin.md)) woke up in the middle of the forest, not near the rest of his party. He witnesses the 8 year old Oric walking alone amongst the trees, so Naddin follows. Oric walks up to a shrine covered in moss, and a hooded figure follows up right behind him to bend over and grab the boys hands, whispering to him, "I grant you the power of the white, and that of the true heir. Your artifact is waiting for you. The world is now tied to your fate, Oric Valdes." In this moment, a wave of divine energy envelops the young Oric, for he has been cursed with a piece of [Kisiri](kisiri.md)'s soul that would live off of his own, waiting to grow and be released.
+That night, while 13 was camped out, [Naddin](13/naddin.md) woke up in the middle of the forest, not near the rest of his party. He witnesses the 8 year old Oric walking alone amongst the trees, so Naddin follows. Oric walks up to a shrine covered in moss, and a hooded figure follows up right behind him to bend over and grab the boys hands, whispering to him, "I grant you the power of the white, and that of the true heir. Your artifact is waiting for you. The world is now tied to your fate, Oric Valdes." In this moment, a wave of divine energy envelops the young Oric, for he has been cursed with a piece of [Kisiri](kisiri.md)'s soul that would live off of his own, waiting to grow and be released.
 
 ### The Imperator
 
@@ -49,7 +62,7 @@ In 1288, a battle takes place where the Eastern Alliance's major forces are pinn
 
 ### Silver Guardians
 
-In 1289, Oric is summoned by the Necromancer who asks for Oric to do a great task, and if that task is completed, the war will end. Oric thinks on his people, and queries what the task is. The Necromancer tells him that he must slay an ancient dragon of the name Miirakail. In this moment, Oric is greeted by other warriors with powers similar, albeit less impressive, than his own. Oric accepts the task, and through this, the Silver Guardians are born. For the next 6 months, the group traverses various realms, including [Limbo](../Locations/Planes/limbo.md), looking and hunting for this dragon. Their journey concludes with them finding Miirakail in a pocket dimension, and initiating combat with him. Both party's are severely injured from this encounter, but Miirakail prevails, only to tell the Guardians of the [Arch-Witch](kisiri.md) and how they're being played like puppets. The Guardians retreat and think on their actions. During this journey, the war continues and the front lines are pushed back into Ebrihan territory, so the group abandon the Necromancer and re-enter the war.
+In 1289, Oric is summoned by the Necromancer who asks for Oric to do a great task, and if that task is completed, the war will end. Oric thinks on his people, and queries what the task is. The Necromancer tells him that he must slay an ancient dragon of the name [Miirakail](miirakail.md). In this moment, Oric is greeted by other warriors with powers similar, albeit less impressive, than his own. Oric accepts the task, and through this, the Silver Guardians are born. For the next 6 months, the group traverses various realms, including [Limbo](../Locations/Planes/limbo.md), looking and hunting for this dragon. Their journey concludes with them finding Miirakail in a pocket dimension, and initiating combat with him. Both party's are severely injured from this encounter, but Miirakail prevails, only to tell the Guardians of the [Arch-Witch](kisiri.md) and how they're being played like puppets. The Guardians retreat and think on their actions. During this journey, the war continues and the front lines are pushed back into Ebrihan territory, so the group abandon the Necromancer and re-enter the war.
 
 For the following year, under his Imperator name, Oric leads the Ebrihanian forces to push back the Dominion's, and he leads a betrayal against the Eastern Alliance of Orcs and Dwarves. By 1290 Oric gains the nickname "The Imperator of the Fields" and is promoted to commander of Ebrihan's forces, all at the age of 17.
 
@@ -65,7 +78,7 @@ For the following 21 years, Oric grows his political career, with his public his
 
 In 1312, Oric is crowned Duke of Ebrihan, after many years of working for and with the nobles of the region. He promises a bright future for Ebrihan by claiming that he will build the region into a regional superpower that cannot go unnoticed by others.
 
-Scarred, but impressed, by the natural existence of the great dragon Miirakail, Oric desires to recreate that power by biologically and magically forming his own predator. In 1318 he secretly forms a laboratory under the ruins of Kisirith, and secretly funded with the aid of the Raven's and Ebrihan's treasury. The following year, the vile creature Reigith the Deformed is born into creation.
+Scarred, but impressed, by the natural existence of the great dragon [Miirakail](miirakail.md), Oric desires to recreate that power by biologically and magically forming his own predator. In 1318 he secretly forms a laboratory under the ruins of Kisirith, and secretly funded with the aid of the Raven's and Ebrihan's treasury. The following year, the vile creature [Reigith the Deformed](TODO) was born into creation.
 
 For the following 7 years, Oric plots to usurp the king and take over the Dominion, thus fulfilling the punishment deserved for invading and destroying the Dominion's own people, those in Ebrihan. He takes advantage of his anonymous political tie with the Ravens to slowly indoctrinate and take over the very skilled black knights of Ebrihan. They soon act as eyes and ears on the ground for the Ravens, and Duke Oric.
 
@@ -81,7 +94,7 @@ In 1332, Oric begins his assault on the nearby Island Nations, including the [Co
 
 In 1343, Oric is made aware of the return of [13](13/13.md) when one of the Empire's warships is sunk with the one survivor telling the tale of what had occurred. Out of anger, Oric orders the absolute destruction of [Dorren](TODO) and [Pelrock Isle](TODO). By this point in time, Oric's mind is lost to his trapped soul beyond the world. He feels like a puppet under the control of a malignant force, the force of Kisiri's soul. A few weeks later, Oric discovers that 13 had been in [Fallcrest City](../Locations/Towns/fallcrest_city.md), so he ordered that everyone be interrogated to find out where 13 is located. No useful information had been discovered, so the city was subsequently razed to the ground.
 
-After traveling back in time, the death of Miirakail, stealing Fraemia, and slaying the beast in the burrows below, 13 is able to gain entrance to the White Palace and confront Oric directly, after 17 years of knowing only defeat. Oric is encountered by 13, and a great fight is fought. It concludes with Fraemia betraying Oric for [Burk Kvak](13/burk.md)) and him being cut down by [Naddin](13/naddin.md)). In the moment of his death, he embraces the release of Kisiri's soul from his own, despite the fact that she now has enough soul to be reborn once again.
+After traveling back in time, the death of Miirakail, stealing Fraemia, and slaying the beast in the burrows below, 13 is able to gain entrance to the White Palace and confront Oric directly, after 17 years of knowing only defeat. Oric is encountered by 13, and a great fight is fought. It concludes with Fraemia betraying Oric for [Burk Kvak](13/burk.md) and him being cut down by [Naddin](13/naddin.md). In the moment of his death, he embraces the release of Kisiri's soul from his own, despite the fact that she now has enough soul to be reborn once again.
 
 ### Redemption
 
@@ -91,9 +104,9 @@ After fleeting through the astral sea for a few days, Oric is guided to where hi
 
 -- Kisiri
 
-Oric lay there, waiting for eternity, knowing that he is only a toy for Kisiri's entertainment, until several months go by, and a very peculiar Dragonborn cleric arrives into his cosmic pocket dimension prison. Oric is reintroduced, for the third time, to the infamous [13](13/13.md) in Limbo. Here it is decided that 13 needs Oric to escape Limbo, and that they both need each other to destroy the Arch-Witch. Oric is also offered Fraemia as a test of his loyalty, but Oric declines this, citing that [Burk Kvak](13/burk.md)) is now the new wielder for he is chosen.
+Oric lay there, waiting for eternity, knowing that he is only a toy for Kisiri's entertainment, until several months go by, and a very peculiar Dragonborn cleric arrives into his cosmic pocket dimension prison. Oric is reintroduced, for the third time, to the infamous [13](13/13.md) in Limbo. Here it is decided that 13 needs Oric to escape Limbo, and that they both need each other to destroy the Arch-Witch. Oric is also offered Fraemia as a test of his loyalty, but Oric declines this, citing that [Burk Kvak](13/burk.md) is now the new wielder for he is chosen.
 
-Oric helps 13 and himself escape the prison, the [ruined city](TODO), and Limbo. Oric is considered a temporary member of the team, despite their long rivalry with one another. In addition, many of Oric's powers have been retained, perhaps a part of his curse from Kisiri or something with Fraemia.
+Oric helps 13 and himself escape the prison, the [ruined city](../Locations/Planes/limbo.md#ruined-city), and Limbo. Oric is considered a temporary member of the team, despite their long rivalry with one another. In addition, many of Oric's powers have been retained, perhaps a part of his curse from Kisiri or something with Fraemia.
 
 Once escaped from Limbo, Oric and 13 travel to the floating ruins Kisirith to finally confront Kisiri. A great fight against death knights occurs, and soon Kisiri enters the battle. Oric's life is concluded when he sacrifices his right arm, and his life, to land a devastating blow to Kisiri with Fraemia. This is just enough to help 13, and specifically Naddin, destroy Kisiri and for Oric to complete his arc of redemption.
 

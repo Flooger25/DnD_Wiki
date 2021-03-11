@@ -2,7 +2,7 @@
 
 The Meridian Wars was a collection of invasions of Meridian regions by the infamous [Caelian Empire](../Factions/Nations/caelian_empire.md).
 
-| Basic Information |  |
+| Basic Information | |
 | - | - |
 | Other names | The Defining Conflict<br>War of Survival |
 | Type | War |
@@ -25,12 +25,10 @@ The Meridian Wars was a collection of invasions of Meridian regions by the infam
 | [Strength](#statistics) | |
 | - | - |
 | 307K (avg) | 387K (avg) |
-| | |
 
 | Casualties | |
 | - | - |
 | 600,000 troops | 1.1-1.4 million troops<br>7.4-7.5 million civilians |
-| | |
 
 ## Location
 
@@ -62,7 +60,6 @@ The Meridian Wars was a collection of invasions of Meridian regions by the infam
 | 1341 PA | 396K | | | | | 467K |
 | 1342 PA | 548K | | | | | 986K |
 | 1343 PA | 796K | | | | | 1040K |
-| | |
 
 ### Military losses per year
 
@@ -80,7 +77,6 @@ The Meridian Wars was a collection of invasions of Meridian regions by the infam
 | 1341 PA | 73K | | | | | 93K |
 | 1342 PA | 114K | | | | | 167K |
 | 1343 PA | 210K | | | | | 688K |
-| | |
 
 ### Naval strength per year
 
@@ -101,4 +97,3 @@ Below indicates the naval strength of each nation by number of ships including t
 | 1342 PA | 5918 | | | | | 3169 |
 | 1343 PA | 6096 | | | | | 2372 |
 | 1344 PA | 5816 | | | | | 1248 |
-| | |

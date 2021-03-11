@@ -37,7 +37,7 @@ insert images of meridia here
 
 ## Eastern Meridia
 
-| General Information |  |
+| General Information | |
 | - | - |
 | Government | Absolute-Monarchy |
 

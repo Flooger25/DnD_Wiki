@@ -1,18 +1,20 @@
-# D&D Wiki v1.0.0
+# D&D Wiki v1.1.0
 
 ## Intro
 
 This repo is intended to house all information related to the universe of the "Super Campaign" in the form of a wiki. Many of the events of these adventures primarily take place on the planet [Pulchra](Locations/Planes/pulchra.md).
 
-To view a random page, click [here!](https://flooger25.github.io/DnD_Wiki/random)
+To view a high-level timeline of the world, observe Pulchra's [timeline](Events/timeline.md).
+
+To view a random page, click [here](https://flooger25.github.io/DnD_Wiki/random)!
 
 ## Structure
 
 The following is how the wiki is structured with information on each:
 
-- Campaigns - All formal adventures, campaigns, and their series
-- Characters - Both non-playable and playable characters, including parties
-- Events - Historical events, timelines, and geographic-based calendars
+- [Campaigns](Campaigns/campaigns.md) - All formal adventures, campaigns, and their series
+- [Characters](Characters/characters.md) - Both non-playable and playable characters, including parties
+- [Events](Events/events.md) - Historical events, timelines, and geographic-based calendars
 - Factions
   - Organizations - Political organizations, factions, and guilds
   - Nations - States, nations, countries, empires, dynasties, and regions within others
@@ -32,8 +34,8 @@ Land Masses
 - Draconia
 - Acelidion
 - Pelrock Isle
-- Meridia - More stuff
-- Old World
+- Meridia
+- Kazrek
 
 Towns
 - Dorren
@@ -45,11 +47,13 @@ Nations
 - Northern Meridia
 - Eatern Meridia
 - Western Meridia
-- Unified Commodia
-- Athal
 - Land of the Fields
 
 Characters
 - Randy
 - Quildrith
 - Don Quiggley
+- Liana
+- Monte Pichon
+- Taloraan
+- Billy

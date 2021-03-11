@@ -1,13 +1,14 @@
 # Commodian Isles
 
-The Commodian Isles are a collection of islands in the heart of the south eastern sea.
+The Commodian Isles are a collection of islands in the heart of the [South Eastern Sea](../Planes/pulchra.md#south-eastern-corner) and the primary location for the events of the [Commodian Tales](../../Campaigns/commodian_tales.md) adventure.
 
-| Basic Information |  |
+![Commodian Isles](../../Media/commodian_isles.png)
+
+| Basic Information | |
 | - | - |
 | Type | Archipelago |
 | Region | [South Eastern Sea](../Planes/pulchra.md#south-eastern-corner) |
 | Area | 122,855 km<sup>2</sup> (47,435 mi<sup>2</sup>)  |
-|  |  |
 
 | Society | |
 | - | - |
@@ -40,12 +41,12 @@ The Commodian Isles consist of 12 islands of various size and history:
 
 ## History
 
-**Note**: BNE refers to the time before the "invasion of the east" of the Isles.
+**Note**: Before New Era (BNE) refers to the time before the "[invasion of the east](TODO)" of the Isles.
 
 - 1200-1500 BNE - First settlers arrive on the islands of Paruna and South Calmest Enclave.
 - 900-1200 BNE - During a large migration from the ancient west, many of the other islands were settled, except for those in the south west corner of the Isles.
 - Between 200 and 400 BNE, today's Helrock and Castetava were settled
-- 100-250 BNE - The first Unified Commodia was founded. Now know as the Old Unified Commodia
+- 100-250 BNE - The first [Unified Commodia](../../Factions/Nations/unified_commodia.md) was founded. Now know as the Old Unified Commodia
 - 86 BNE - Brasstown secedes from Unified Commodia.
 - 82-86 BNE - Brasstown Commodian war is fought. Brasstown defends.
 - 0 BNE - During the Invasion of the East occurs. Unified Commodia fell from the foreign powers, now just referred to as “the [Empire](../../Factions/Nations/caelian_empire.md)”, and chaos ensued for the following decade while under their rule. Populations declined severely due to shortages of supplies, food, and genocide. During the oppression, Brasshaven was bombarded and attacked for several years. After tens of thousands of losses from the Empire they forfeited their attacks and left Brasshaven as the only city in the Isles never captured.
@@ -60,7 +61,7 @@ The Commodian Isles consist of 12 islands of various size and history:
 - 135-138 PC - The "Last War". Unified Commodia cracks down on dissenters in Acodela, Shirif, Kelar, and Illoranda.
 - 136 PC - Helrock reclaims Aladiac Cay for their own, but Unified Commodia refuses these claims. Tensions rise between the two states
 - 137-150 PC - Unified Commodia fights Helrock for Aladiac Cay. They are victorious.
-- 158 PC - Mors Marauders arrive?
+- 158 PC - Mors Marauders set up guild in Brasshaven.
 - 158 PC - Legion of Man formed.
 - 162 PC - Start of [Commodian Tales](../../Campaigns/commodian_tales.md)
 
