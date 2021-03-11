@@ -26,6 +26,6 @@ The "Super Campaign" is a multi-party and multi-arc campaign that spans 5 differ
 
 ## Path 3 - The Last Keeper
 
-## Path 4
+## Path 4 - A Step into the Dark
 
-## Path 5
+## Path 5 - Silence of Time

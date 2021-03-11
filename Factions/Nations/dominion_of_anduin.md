@@ -1,6 +1,6 @@
 # Dominion of Anduin
 
-![](../../Media/dominion_of_anduin.png)
+![Dominion Map](../../Media/dominion_of_anduin.png)
 
 | General Information | |
 | - | - |
