@@ -230,6 +230,7 @@ Berronar Truesilver, goddess of hearth and home	| LG | Life, Light | Intertwined
 | The Traveler, deity of chaos and change | CN | Knowledge, Trickery | Four crossed, rune-inscribed bones
 
 ### Other Faiths of Eberron
+
 | Deity	| Alignment	| Domains |	Symbol |
 |-|-|-|-|
 | The Silver Flame, deity of protection and good | LG | Life, Light, War | Flame drawn on silver or molded from silver

@@ -15,7 +15,7 @@ The following is how the wiki is structured with information on each:
 - [Campaigns](Campaigns/campaigns.md) - All formal adventures, campaigns, and their series
 - [Characters](Characters/characters.md) - Both non-playable and playable characters, including parties
 - [Events](Events/events.md) - Historical events, timelines, and geographic-based calendars
-- Factions
+- [Factions](Factions/factions.md)
   - Organizations - Political organizations, factions, and guilds
   - Nations - States, nations, countries, empires, dynasties, and regions within others
   - Races - Races and sub-races
