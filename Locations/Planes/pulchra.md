@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Pulchra
 
 Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unknown species of divine beings. The planet was the embodiment of beauty and the source of attraction for the all-powerful overgods and other angels.

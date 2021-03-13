@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # D&D Wiki v1.1.0
 
 ## Intro

@@ -115,7 +115,7 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 1280px;
+  width: 640px;
   margin: 0 auto;
 }
 
@@ -129,7 +129,7 @@ header {
   position: relative;
   z-index: 2;
   margin: 0;
-  max-width: 1280px;
+  max-width: 640px;
   top: 51px;
 }
 
@@ -184,30 +184,30 @@ header h2 {
   text-align: center;
 }
 
-/* section#downloads {
+section#downloads {
   position: relative;
   display: block;
   height: 171px;
-  width: 1204px;
+  width: 602px;
   padding-bottom: 150px;
   margin: 51px auto -250px;
   z-index: 1;
   background: transparent url(../images/shield.png) center 0 no-repeat;
-} */
+}
 
 section#downloads a {
   display: none;
 }
 
-/* span.banner-fix {
+span.banner-fix {
   background: transparent url(../images/shield-fallback.png) center top no-repeat;
   display: block;
   height: 31px;
   position: absolute;
-  width: 1280px;
+  width: 640px;
   top: 20px;
 
-} */
+}
 
 section#main_content {
   z-index: 2;
@@ -221,7 +221,7 @@ footer {
   background: none;
   padding-top: 104px;
   margin: -94px auto 40px;
-  max-width:1280px;
+  max-width:640px;
   text-align: center;
 }
 
