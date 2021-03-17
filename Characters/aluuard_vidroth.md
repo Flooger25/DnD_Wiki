@@ -17,7 +17,7 @@
 | Statistics | |
 | - | - |
 | Power Level | Quasi-deity (Former demigod) |
-| Alignment | True Neutral |
+| Alignment | Neutral Evil |
 
 ## Description
 

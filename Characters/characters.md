@@ -7,6 +7,7 @@ This page outlines the existing articles of characters in the wiki. This page in
 | Party | Adventure |
 | - | - |
 | [13](13/13.md) | [Caelian Trilogy](../Campaigns/caelian_trilogy.md) |
+| [Bean Team](bean_team/bean_team.md) | [Commodian Isles](../Campaigns/commodian_tales.md) |
 
 ## Interacted NPCs
 

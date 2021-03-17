@@ -30,6 +30,7 @@ The following is how the wiki is structured with information on each:
 ## List of pages to be written
 
 Land Masses
+
 - Praeia
 - Draconia
 - Acelidion
@@ -38,11 +39,13 @@ Land Masses
 - Kazrek
 
 Towns
+
 - Dorren
 - Maelony
 - Swindon
 
 Nations
+
 - Central Meridia
 - Northern Meridia
 - Eatern Meridia
@@ -50,6 +53,7 @@ Nations
 - Land of the Fields
 
 Characters
+
 - Randy
 - Quildrith
 - Don Quiggley
