@@ -9,29 +9,29 @@ This page outlines the existing articles of characters in the wiki. This page in
 | [13](13/13.md) | [Caelian Trilogy](../Campaigns/caelian_trilogy.md) |
 | [Bean Team](bean_team/bean_team.md) | [Commodian Isles](../Campaigns/commodian_tales.md) |
 
-## Interacted NPCs
+## Interactable NPCs
 
-| Character | Type | First Appearance |
-| - | - | - |
-| [Liana](TODO) | NPC | [RoE](../Campaigns/caelian_trilogy.md#rise-of-ebrihan) |
-| [Randy](TODO) | NPC | RoE |
-| [Eilis Vidroth II](eilis_vidroth.md) | NPC | RoE |
-| [Lord Belda](saywin_belda.md) | NPC | RoE |
-| [Oric Valdes](oric_valdes.md) | Antagonist | RoE |
-| [Airgar](airgar.md) | NPC | RoE |
-| [Miirakail](miirakail.md) | NPC | RoE |
-| [Phaelah](phaelah.md) | NPC | [DoD](../Campaigns/caelian_trilogy.md#death-of-a-dragon) |
-| [Katarus](katarus.md) | NPC | DoD |
-| [Monte Pichon](TODO) | NPC | DoD |
-| [Kisiri](kisiri.md) | Antagonist | [AotA](../Campaigns/caelian_trilogy.md#ascension-of-the-ancient) |
-| [Billy](TODO) | NPC | AotA
-| [Taloraan](TODO) | NPC | AotA |
-| [Rystrasz](rystrasz.md) | NPC | AotA |
-| [Andurin](andurin.md) | NPC | AotA |
+| Character | First Appearance |
+| - | - |
+| Liana [](TODO) | [RoE](../Campaigns/caelian_trilogy.md#rise-of-ebrihan) |
+| Randy [](TODO) | RoE |
+| [Eilis Vidroth II](eilis_vidroth.md) | RoE |
+| [Lord Belda](saywin_belda.md) | RoE |
+| [Oric Valdes](oric_valdes.md) | RoE |
+| [Airgar](airgar.md) | RoE |
+| [Miirakail](miirakail.md) | RoE |
+| [Phaelah](phaelah.md) | [DoD](../Campaigns/caelian_trilogy.md#death-of-a-dragon) |
+| [Katarus](katarus.md) | DoD |
+| Monte Pichon [](TODO) | DoD |
+| [Kisiri](kisiri.md) | [AotA](../Campaigns/caelian_trilogy.md#ascension-of-the-ancient) |
+| Billy [](TODO) | AotA
+| Taloraan [](TODO) | AotA |
+| [Rystrasz](rystrasz.md) | AotA |
+| [Andurin](andurin.md) | AotA |
 
 ## Other Historical Characters
 
-| Character | Type | First Mention |
-| - | - | - |
-| [Anduin the Great](anduin_the_great.md) | NPC | RoE |
-| [Aluuard Vidroth II](aluuard_vidroth.md) | NPC | RoE |
+| Character | First Mention |
+| - | - |
+| [Anduin the Great](anduin_the_great.md) | RoE |
+| [Aluuard Vidroth II](aluuard_vidroth.md) | RoE |

@@ -20,7 +20,7 @@ The following is how the wiki is structured with information on each:
   - Nations - States, nations, countries, empires, dynasties, and regions within others
   - Races - Races and sub-races
   - Religions - Religions, including cults
-- Locations
+- [Locations](Locations/locations.md)
   - Land - Any sort of islands, continents, land masses, mountains, and geographical locations
   - Towns - Towns, cities, and other dwellings
   - Planes - Planes of existence including dimensions and worlds/planets

@@ -15,7 +15,7 @@ The Unified Commodian Isles, or more commonly known as just Commodia, is an isla
 | Disestablished | 1333 [PA](../../Events/timeline.md)<br>-11 [5A](../../Events/timeline.md#5th---age-of-the-kings)<br>-35 PC|
 | Reformed | 58 PC<br>82 5A |
 | Predecessor | Island settlements<br>Native island tribes |
-| Notable events | [Eastern Invasion](TODO)<br>[Great Cataclysm](../../Events/great_cataclysm.md) |
+| Notable events | Eastern Invasion [](TODO)<br>[Great Cataclysm](../../Events/great_cataclysm.md) |
 
 | Area | |
 | - | - |

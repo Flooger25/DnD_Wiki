@@ -5,7 +5,7 @@ Inelethor in 1344 PA before the [Great Cataclysm](../../Events/great_cataclysm.m
 | Geography | |
 | - | - |
 | Type | Ruins <sub><sup>(Formerly: Metropolis)</sup></sub>|
-| Region | [Northern Meridia](TODO) |
+| Region | Northern Meridia [](TODO) |
 | Size | Metropolis |
 
 | Society | |

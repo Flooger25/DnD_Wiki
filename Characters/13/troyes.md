@@ -8,7 +8,7 @@
 | Sex | Male |
 | Race | Human |
 | Born | 1299 PA |
-| Died | 1383 PA (84) |
+| Died | 1383 PA (84)<br>39 5A |
 
 | Family | |
 | - | - |

@@ -1,10 +1,6 @@
 # Meridia
 
-The history of Meridia is vast and complex, including the rise and fall of states. This article details the information on the different states in the region of Meridia.
-
-insert images of meridia here
-
-The "Old World" is a region on the [Pulchran](../Planes/pulchra.md) supercontinent [Praeia](../Planes/pulchra.md#praeia) in which the planet's history suggests the first civilized form of life had originated. Many of the races today can find their roots from somewhere in this region, therefore there is heavy religious influence to those who live there today. Some religions claim that when the gods walked the world, this is where they lay.
+Meridia is a region in the South East Corner of the supercontinent Praeia on the planet Pulchra.
 
 | Geography | |
 | - | - |
