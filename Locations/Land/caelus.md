@@ -41,7 +41,6 @@ Caelus is a continent on the planet of [Pulchra](../Planes/pulchra.md) and is lo
   - [Caelian Empire](#caelian-empire)
   - [Caelian Union](#caelian-union)
   - [Kingdom of Athal](#kingdom-of-athal)
-- [Quotes](#quotes)
 
 ## Geography
 

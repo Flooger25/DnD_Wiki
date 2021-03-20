@@ -30,7 +30,7 @@
 
 - Length - 2600 years
 - Start - First elves and humans.
-- Caelian Trilogy:
+- [Caelian Trilogy](../Campaigns/caelian_trilogy.md):
   - 2582 - Rise of Ebrihan
   - 2599 - Death of a Dragon
   - 2599-2600 - Ascension of the Ancient
@@ -40,7 +40,7 @@
 
 - Length - 3126+ years
 - Start - Great Cataclysm
-- 186 - Commodian Tales
+- 186 - [Commodian Tales](../Campaigns/commodian_tales.md)
 
 ## Origin of it all
 
