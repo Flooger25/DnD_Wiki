@@ -16,6 +16,7 @@ The Caelian Trilogy is a trilogy of three fast-paced and short adventures whose 
 | - | - |
 | World | Pulchra |
 | Location(s) | Caelus<br>Meridia |
+| Starting town | [Casta](../Locations/Towns/casta.md), Ebrihan |
 | Timeline | 1326 PA - 1344 PA |
 
 | Story Information | |

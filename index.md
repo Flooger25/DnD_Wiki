@@ -1,4 +1,4 @@
-# D&D Wiki v1.2.0
+# D&D Wiki v1.3.0
 
 ## Intro
 
@@ -15,21 +15,22 @@ The following is how the wiki is structured with information on each:
 - [Campaigns](Campaigns/campaigns.md) - All formal adventures, campaigns, and their series
 - [Characters](Characters/characters.md) - Both non-playable and playable characters, including parties
 - [Events](Events/events.md) - Historical events, timelines, and geographic-based calendars
-- Factions
+- [Factions](Factions/factions.md)
   - Organizations - Political organizations, factions, and guilds
   - Nations - States, nations, countries, empires, dynasties, and regions within others
   - Races - Races and sub-races
   - Religions - Religions, including cults
-- Locations
+- [Locations](Locations/locations.md)
   - Land - Any sort of islands, continents, land masses, mountains, and geographical locations
   - Towns - Towns, cities, and other dwellings
   - Planes - Planes of existence including dimensions and worlds/planets
-- Objects - Artifacts and objects of significance
+- [Objects](Objects/objects.md) - Artifacts and objects of significance
 - Media - Pictures and gifs that help illustrate any of the above
 
 ## List of pages to be written
 
 Land Masses
+
 - Praeia
 - Draconia
 - Acelidion
@@ -38,11 +39,13 @@ Land Masses
 - Kazrek
 
 Towns
+
 - Dorren
 - Maelony
 - Swindon
 
 Nations
+
 - Central Meridia
 - Northern Meridia
 - Eatern Meridia
@@ -50,6 +53,7 @@ Nations
 - Land of the Fields
 
 Characters
+
 - Randy
 - Quildrith
 - Don Quiggley

@@ -2,12 +2,12 @@
 
 Inelethor in 1344 PA before the [Great Cataclysm](../../Events/great_cataclysm.md)
 
-![](../../Media/inelethor.png)
+![Inelethor](../../Media/inelethor.png)
 
 | Geography | |
 | - | - |
 | Type | Port city |
-| Region | Ghili Peninsula, [Northern Meridia](TODO) |
+| Region | Ghili Peninsula, Northern Meridia [](TODO) |
 | Size | Big city |
 
 | Society | |

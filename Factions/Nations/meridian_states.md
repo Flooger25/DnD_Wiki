@@ -1,10 +1,17 @@
 # Meridian States
 
-The history of Meridia is vast and complex, including the rise and fall of states. This article details the information on the different states in the region of Meridia.
+The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, including the rise and fall of states. This article details the information on the different states in the region of Meridia.
 
-insert images of meridia here
+## Contents
+
+- [Northern Meridia](#northern-meridia)
+- [Western Meridia](#western-meridia)
+- [Central Meridia](#central-meridia)
+- [Eastern Meridia](#eastern-meridia)
 
 ## Northern Meridia
+
+![Northern Meridia](../../Media/meridia_northern.png)
 
 | Area | |
 | - | - |
@@ -27,6 +34,8 @@ insert images of meridia here
 
 ## Central Meridia
 
+![Central Meridia](../../Media/meridia_central.png)
+
 | Area | |
 | - | - |
 | 1326 PA | 2,600,000 km<sup>2</sup>-2,900,000 km<sup>2</sup> |
@@ -37,15 +46,13 @@ insert images of meridia here
 
 ## Eastern Meridia
 
-| General Information | |
-| - | - |
-| Government | Absolute-Monarchy |
+![Eastern Meridia](../../Media/meridia_eastern.png)
 
 | History | |
 | - | - |
-| Formed from | Anduin's arrival to Caelus |
+| Formed from | TODO |
 | Established | 0 PA |
-| Conquered | 1338 PA | 
+| Conquered | 1338 PA |
 | Reestablished | 1344 PA |
 | Predecessor | Old Meridian pioneers |
 | Successor | |

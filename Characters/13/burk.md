@@ -11,9 +11,13 @@
 
 | Family | |
 | - | - |
-| Partner(s) | wife |
-| Children | 3 of em |
-| list family | |
+| Partner(s) | Gulaka |
+| Children | Krub<br>Urga<br>Wugdub |
+| Father | Papa Gronk |
+| Mother | Mama Wakgut|
+| Brother | Quigoth<br>Ugrthgpbdg |
+| Sister | Golga |
+| Others | Aunt Jamima<br>Uncle Gogrog |
 
 | Statistics | |
 | - | - |

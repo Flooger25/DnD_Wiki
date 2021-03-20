@@ -2,7 +2,7 @@
 
 Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unknown species of divine beings. The planet was the embodiment of beauty and the source of attraction for the all-powerful overgods and other angels.
 
-![](../../Media/east_to_west.gif)
+![Pulchra Rotation](../../Media/east_to_west.gif)
 
 | Basic Information | |
 | - | - |
@@ -22,9 +22,30 @@ Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unk
 | 2600 4A<br>0 [5A](../../Events/timeline.md#5th---age-of-the-kings) | 129,000,000 |
 | 24 5A | 97,000,000 |
 | 186 5A | 124,000,000 |
-| 3126 5A | 1,321,000,000 |
+
+## Contents
+
+- [History](#history)
+- [Calendar](#calendar)
+- [Geography](#geography)
+  - [Continents](#continents)
+    - [Praeia](#praeia)
+    - [Draconia](#draconia)
+    - [Acelidion](#acelidion)
+    - [Caelia](#caelia)
+  - [Oceans](#oceans)
+    - [Great Ocean](#great-ocean)
+    - [Northern Depths](#northern-depths)
+    - [Southern Sea](#southern-sea)
+  - [Geographical Regions](#geographical-regions)
+    - [South Eastern Corner](#south-eastern-corner)
+    - [Meridia](#meridia)
+    - [Old World](#old-world)
+    - [Praetoria](#praetoria)
+- [Satellites](#satellites)
 
 ## History
+
 Since the known existence of the Gods, four distinct ages of the world have gone by: the Age of the Angels, the Age of the Keepers, the Age of Silence, the Age of the Ancients, and the 5th and current age, the Age of the Kings. For a timeline of Pulchran history as it is now known, with dates, see the [timeline](../../Events/timeline.md).
 
 ## Calendar
@@ -51,7 +72,7 @@ The northern most continent is covered in ice and tundra. Very few have traveled
 
 #### Caelia
 
-Also known as Caelus, this continent is located in the south eastern corner. The events of the Caelian Trilogy take place here. For more information, visit [Caelus](../Land/caelus.md).
+Caelia is the unification of the continent Caelus and surrounding islands, including Pegren. This region is located in the south eastern corner and is the primary location for the events of the [Caelian Trilogy](../../Campaigns/caelian_trilogy.md) adventure. For more information, visit [Caelus](../Land/caelus.md).
 
 ### Oceans
 
@@ -67,23 +88,23 @@ Located between Draconia and Acelidion, this ocean is known for its frigid tempe
 
 The southern most ocean of Pulchra that unites Praetoria and Meridia.
 
-## Geographical Regions
+### Geographical Regions
 
-### South Eastern Corner
+#### South Eastern Corner
 
-![](../../Media/south_eastern_corner.png)
+The South Eastern Corner refers to the south eastern section of the Praeian supercontinent relative to its center. It encompasses regions such as the [Old World](../Land/old_world.md), [Caelia](../Land/caelus.md), Meridia, and the South Eastern Sea.
 
-Refers to the combined locations of the Old World, [Caelia](../Land/caelus.md), Meridia, and the South Eastern Sea.
+![South Eastern Corner](../../Media/south_eastern_corner.png)
 
-### Meridia
+#### Meridia
 
-One of the two primary homes of the dwarves. It is also one of the earliest known locations in which modern integration between races had occurred.
+One of the two primary homes of the dwarves. It is also one of the earliest known locations in which modern integration between races had occurred. A great migration during the middle of the 4th Age brought many peoples from the Old World to Meridia, thus its history began then.
 
-### Old World
+#### Old World
 
-The origin of the world. The oldest known location of civilized life in the world.
+Being known as the origin of the world, the [Old World](../Land/old_world.md) is the oldest known location of civilized life in the world, and much of modern life today can be traced back somewhere to this region.
 
-### Praetoria
+#### Praetoria
 
 The crowning jewel of Elves and other beings of high stature.
 
