@@ -48,15 +48,11 @@ The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, i
 
 ![Eastern Meridia](../../Media/meridia_eastern.png)
 
-| General Information | |
-| - | - |
-| Government | Absolute-Monarchy |
-
 | History | |
 | - | - |
-| Formed from | Anduin's arrival to Caelus |
+| Formed from | TODO |
 | Established | 0 PA |
-| Conquered | 1338 PA | 
+| Conquered | 1338 PA |
 | Reestablished | 1344 PA |
 | Predecessor | Old Meridian pioneers |
 | Successor | |
