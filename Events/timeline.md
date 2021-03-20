@@ -2,7 +2,7 @@
 
 ## Calendar Comparison
 
-| [4th Age](#4th---age-of-the-ancients) | Post-Anduin | Post-Cataclysm | [AoK/5th Age](#5th---age-of-the-kings) | Year of Moradin |
+| [4th Age](#4th---age-of-the-ancients) | Post-Anduin | Post-Cataclysm | [5th Age](#5th---age-of-the-kings) | Year of Moradin |
 |-|-|-|-|-|
 | 0 | -1256 | -2600 | -2600 | 900 |
 | 1256 | 0 | -1368 | -1344 | 2156 |
@@ -24,20 +24,23 @@
 ### [3rd - Age of Stillness]
 
 - Length - 900-10000 years
+- 900 years before End - Dwarves of Moradin born
 
 ### [4th - Age of the Ancients]
 
 - Length - 2600 years
 - Start - First elves and humans.
-- Caelus Trilogy:
+- Caelian Trilogy:
   - 2582 - Rise of Ebrihan
   - 2599 - Death of a Dragon
   - 2599-2600 - Ascension of the Ancient
-- End - Great cataclysm.
+- End - [Great Cataclysm](great_cataclysm.md)
 
 ### [5th - Age of the Kings]
 
 - Length - 3126+ years
+- Start - Great Cataclysm
+- 186 - Commodian Tales
 
 ## Origin of it all
 

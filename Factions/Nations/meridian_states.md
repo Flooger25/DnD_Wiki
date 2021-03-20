@@ -1,6 +1,6 @@
 # Meridian States
 
-The history of Meridia is vast and complex, including the rise and fall of states. This article details the information on the different states in the region of Meridia.
+The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, including the rise and fall of states. This article details the information on the different states in the region of Meridia.
 
 insert images of meridia here
 

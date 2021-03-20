@@ -24,7 +24,7 @@ The following is how the wiki is structured with information on each:
   - Land - Any sort of islands, continents, land masses, mountains, and geographical locations
   - Towns - Towns, cities, and other dwellings
   - Planes - Planes of existence including dimensions and worlds/planets
-- Objects - Artifacts and objects of significance
+- [Objects](Objects/objects.md) - Artifacts and objects of significance
 - Media - Pictures and gifs that help illustrate any of the above
 
 ## List of pages to be written

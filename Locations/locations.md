@@ -9,11 +9,12 @@
 
 ## Land Masses
 
-| Name | Type | Larger Location |
+| Name | Type | Location |
 | - | - | - |
-| [Caelus](Land/caelus.md) | Continent | South Eastern Sea |
+| [South Eastern Corner](Planes/pulchra.md#south-eastern-corner) | Region | [Pulchra](Planes/pulchra.md) |
+| [Caelus](Land/caelus.md) | Continent | [South Eastern Sea](Planes/pulchra.md#south-eastern-corner) |
 | [Commodian Isles](Land/commodian_isles.md) | Archipelago | South Eastern Sea |
-| [Meridia](Land/meridia.md) | Region | Praeia, South Eastern Corner |
+| [Meridia](Land/meridia.md) | Region | [Praeia](Planes/pulchra.md#praeia), South Eastern Corner |
 | [Old World](Land/old_world.md) | Region | Praeia, South Eastern Corner |
 
 ## Towns
@@ -33,8 +34,8 @@
 
 ## Other Locations
 
-| Name | Location |
-| - | - |
-| Takeda Tower | Northern Meridia |
-| Eagle's Nest | Athal, Caelus |
-| White Palace | Athal, Caelus |
+| Name | Type | Location |
+| - | - | - |
+| Takeda Tower | Wizard Tower | Northern Meridia |
+| Eagle's Nest | Castle | Athal, Caelus |
+| White Palace | Super Fortress | Athal, Caelus |

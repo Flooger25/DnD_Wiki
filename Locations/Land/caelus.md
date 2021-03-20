@@ -2,7 +2,7 @@
 
 Caelus is a continent on the planet of [Pulchra](../Planes/pulchra.md) and is located in the [south eastern corner](../Planes/pulchra.md#south-eastern-corner). It is most commonly known as the location for the kingdom of the [Dominion of Anduin](../../Factions/Nations/dominion_of_anduin.md), the [Caelian Empire](../../Factions/Nations/caelian_empire.md), and the primary location for the events surrounding the [Great Cataclysm](../../Events/great_cataclysm.md). The [Caelian Trilogy](../../Campaigns/caelian_trilogy.md) adventure series also primarily takes place on the continent of Caelus.
 
-![](../../Media/caelus.png)
+![Caelus](../../Media/caelus.png)
 
 | Geography | |
 | - | - |
@@ -27,9 +27,25 @@ Caelus is a continent on the planet of [Pulchra](../Planes/pulchra.md) and is lo
 | 1343 PA | 9,120,000 |
 | 162 PC | 7,300,000 |
 
+## Contents
+
+- [Geography](#geography)
+  - [Athal](#athal)
+  - [Ebrihan](#ebrihan)
+  - [Kisiria](#kisiria)
+  - [Northern Fields](#northern-fields)
+- [History](#history)
+- [Independent States](#independent-states)
+  - [Natives](#natives)
+  - [Dominion of Anduin](#dominion-of-anduin)
+  - [Caelian Empire](#caelian-empire)
+  - [Caelian Union](#caelian-union)
+  - [Kingdom of Athal](#kingdom-of-athal)
+- [Quotes](#quotes)
+
 ## Geography
 
-Caelus is geographically split by 7 different regions, each with their own history. All together, Caelus is a contiguous island continent
+Caelus is geographically split by 7 different regions, each with their own history. All together, Caelus is a contiguous island continent. The region known as Caelia is the culmination of Caelus and the surrounding islands, including Pegren.
 
 ### Athal
 
@@ -59,6 +75,8 @@ In 1326 PA, under the command of [Oric Valdes](../../Characters/oric_valdes.md),
 
 ### Caelian Union
 
-After the fall of the Caelian Empire, the eastern regions banded together to form the Caelian Union.
+After the fall of the Caelian Empire, the eastern regions banded together to form the Caelian Union. They existed as a puppet state during the first few decades of the 5th Age, until they were granted complete independence by Eastern Meridia in 51 5A.
 
 ### Kingdom of Athal
+
+During the events of the great cataclysm, Athal was an anarchy state not absorbed into the Caelian Union. In 9 AD, the collective powers of Northern and Central Meridia claimed the Athal region of their own, which resulted in conflicts in the channel between the regions. Since Athal was not a formed state, they fell to the Meridian powers within 9 months. For the following 63 years, Athal was ruled brutally by the Meridians, until the political influence of Eastern Meridia's [Six](../../Characters/13/six.md) and his [Mors Marauders](../../Factions/Organizations/mors_marauders.md). In 72 5A, Athal was given independence, and the Kingdom of Athal was formed.
