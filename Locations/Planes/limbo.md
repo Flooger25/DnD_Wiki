@@ -70,4 +70,3 @@ A region that lay next to the flats, and off the coast of the [ruined city](#rui
 A magnificent but monstrous fortress embedded in the mountains surrounding the flats of Limbo.
 
 ## Geography
-
