@@ -2,7 +2,7 @@
 
 Inelethor in 1344 PA before the [Great Cataclysm](../../Events/great_cataclysm.md)
 
-![](../../Media/inelethor.png)
+![Inelethor](../../Media/inelethor.png)
 
 | Geography | |
 | - | - |
