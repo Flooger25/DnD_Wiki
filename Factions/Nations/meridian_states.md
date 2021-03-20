@@ -2,9 +2,16 @@
 
 The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, including the rise and fall of states. This article details the information on the different states in the region of Meridia.
 
-insert images of meridia here
+## Contents
+
+- [Northern Meridia](#northern-meridia)
+- [Western Meridia](#western-meridia)
+- [Central Meridia](#central-meridia)
+- [Eastern Meridia](#eastern-meridia)
 
 ## Northern Meridia
+
+![Northern Meridia](../../Media/meridia_northern.png)
 
 | Area | |
 | - | - |
@@ -27,6 +34,8 @@ insert images of meridia here
 
 ## Central Meridia
 
+![Central Meridia](../../Media/meridia_central.png)
+
 | Area | |
 | - | - |
 | 1326 PA | 2,600,000 km<sup>2</sup>-2,900,000 km<sup>2</sup> |
@@ -36,6 +45,8 @@ insert images of meridia here
 | 1326 PA | 12,692,480 |
 
 ## Eastern Meridia
+
+![Eastern Meridia](../../Media/meridia_eastern.png)
 
 | General Information | |
 | - | - |

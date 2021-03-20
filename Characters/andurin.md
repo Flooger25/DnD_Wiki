@@ -1,6 +1,6 @@
 # Andurin
 
-![](../Media/andurin.jpg)
+![Andurin](../Media/andurin.jpg)
 
 | Basic Information | |
 | - | - |
