@@ -1,5 +1,7 @@
 # Timeline
 
+This article details the timeline of the world of Pulchra and the multiverse itself. It also compares different calenders one might see on various articles.
+
 ## Calendar Comparison
 
 | [4th Age](#4th---age-of-the-ancients) | Post-Anduin | Post-Cataclysm | [5th Age](#5th---age-of-the-kings) | Year of Moradin |
@@ -11,7 +13,7 @@
 | | 1368 | 0 | 24 | 3524 |
 | | 1530 | 162 | 186 | 3686 |
 
-## Ages of the World
+## Ages of Pulchra
 
 ### [1st - Age of the Angels]
 

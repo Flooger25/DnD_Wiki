@@ -1,5 +1,7 @@
 # Phaelah
 
+Phaelah is the 45th Archmage of Meridia.
+
 | Basic Information | |
 | - | - |
 | Title(s) | 45th Archmage of Meridia |

@@ -6,6 +6,8 @@
 | - | - |
 | [Pulchra](Planes/pulchra.md) | Prime Material Plane |
 | [Limbo](Planes/limbo.md) | Outer Planes |
+| Unknown World 1 | - |
+| Unknown World 2 | - |
 
 ## Land Masses
 
