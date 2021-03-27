@@ -41,3 +41,4 @@
 | Takeda Tower | Wizard Tower | Northern Meridia |
 | Eagle's Nest | Castle | Athal, Caelus |
 | White Palace | Super Fortress | Athal, Caelus |
+| The Bastille | - | - |
