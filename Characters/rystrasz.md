@@ -39,4 +39,6 @@ Years later, in 1344 PA during the events of [Ascension of the Ancient](../Campa
 
 ### Great Cataclysm
 
+### The Rystrasz Arc
+
 ## Powers

@@ -1,6 +1,6 @@
 # Meridia
 
-Meridia is a region in the South East Corner of the supercontinent Praeia on the planet Pulchra. It became one of the oldest colonized regions for life on Pulchra after a great migration from the Old World in the middle of the 4th Age. It acts as one of the two primary homes for the dwarves while being one of the earliest known locations in which modern integration between races had occurred.
+Meridia is a region in the South East Corner of the supercontinent [Praeia](../Planes/pulchra.md#praeia) on the planet Pulchra. It became one of the oldest colonized regions for life on Pulchra after a great migration from the [Old World](old_world.md) in the middle of the 4th Age. It acts as one of the two primary homes for the dwarves while being one of the earliest known locations in which modern integration between races had occurred.
 
 ![Meridia](../../Media/meridia.png)
 
