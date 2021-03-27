@@ -1,6 +1,6 @@
 # Meridian Wars
 
-The Meridian Wars was a collection of invasions of [Meridian](../Locations/Land/meridia.md) regions by the infamous [Caelian Empire](../Factions/Nations/caelian_empire.md). It was a catastrophic conflict that affected the entirety of the ancient world at the end of the 4th Age of Pulchra.
+The Meridian Wars was a collection of invasions of [Meridian](../Locations/Land/meridia.md) regions by the infamous [Caelian Empire](../Factions/Nations/caelian_empire.md). It was a catastrophic conflict that affected the entirety of the ancient world at the end of the [4th Age](timeline.md#4th---age-of-the-ancients) of [Pulchra](../Locations/Planes/pulchra.md).
 
 | Basic Information | |
 | - | - |
@@ -60,13 +60,13 @@ Quick timeline of the events of the Meridian Wars using the Post-Anduin (PA) cal
 
 ### Causes
 
-With the reformation and birth of the Caelian Empire in 1326 PA, a new wave of nationalistic support came to the island continent of Caelus. Their leader, High Lord Oric Valdes, was bent on the restoration and reparation of the Ebrihanian people, so a 3 year purge of non-loyalists and undesirables had occurred. The Empire's high command baked into their people the ideology that they were destined to rule all that Pulchra offers, for the [Gods of the White](../Factions/Religions/gods.md#faith-of-the-white) had decreed it so. With a unifying message, the Caelian Empire had been able to fully recover from the [War of the Fields](war_of_the_fields.md), and reorganize their economy to be more industrialized than ever. By 1332 PA, their political and physical strength had been so great they were ready to be unleashed upon the world.
+With the reformation and birth of the Caelian Empire in 1326 PA, a new wave of nationalistic support came to the island continent of [Caelus](../Locations/Land/caelus.md). Their leader, High Lord Oric Valdes, was bent on the restoration and reparation of the Ebrihanian people, so a 3 year purge of non-loyalists and undesirables had occurred. The Empire's high command baked into their people the ideology that they were destined to rule all that Pulchra offers, for the [Gods of the White](../Factions/Religions/gods.md#faith-of-the-white) had decreed it so. With a unifying message, the Caelian Empire had been able to fully recover from the [War of the Fields](war_of_the_fields.md), and reorganize their economy to be more industrialized than ever. By `1332 PA, their political and physical strength had been so great they were ready to be unleashed upon the world.
 
 ### War
 
 #### Invasion of the East
 
-The war begun in 1332 PA with the invasion of the nearby island nations by the Caelian Empire. This included locations such as Pegren, the Commodian Isles, and the Eastern Isles.
+The war begun in 1332 PA with the invasion of the nearby island nations by the Caelian Empire. This included locations such as Pegren, the [Commodian Isles](../Locations/Land/commodian_isles.md), and the Eastern Isles.
 
 With the political division amongst the regions of Meridia during the end of the 4th Age, no nations had come to the aid of these smaller governments, and because of this the islands fell very quickly. In response, Northern Meridia had banded together and begun armament for their own defense, incase the Empire had targeted them, but it was already too late.
 

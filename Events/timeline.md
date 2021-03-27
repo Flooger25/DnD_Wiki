@@ -1,6 +1,6 @@
 # Timeline
 
-This article details the timeline of the world of Pulchra and the multiverse itself. It also compares different calenders one might see on various articles.
+This article details the timeline of the world of [Pulchra](../Locations/Planes/pulchra.md) and the multiverse itself. It also compares different calenders one might see on various articles.
 
 ## Calendar Comparison
 

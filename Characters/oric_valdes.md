@@ -120,10 +120,10 @@ Origins aside, Oric Valdes possessed incredible strength and martial prowess, be
 
 Besides his physical strength, Oric had the ability to control and redirect lightning, showing on multiple occasions the ability to even amplify and create lightning from his finger tips. The lighting ejected was not something to downplay either, for it could cause catastrophic damage for anyone not resistant to that damage.
 
-The combination of his magical and physical abilities allowed him to take on a level 9 13 in the White Palace without being armed. In addition, when released from his imprisonment by the same party in Limbo, he was able to take out 3 death knights (CR 17) and various yugoloths (CR 9-12) in only a couple of rounds. During his time as Imperator as well, he was able to defend against, and eventually defeat, the undead form of the Silver Guardians with the Necromancer, however, he also wielded Fraemia.
+The combination of his magical and physical abilities allowed him to take on a level 9 [13](13/13.md) in the White Palace without being armed. In addition, when released from his imprisonment by the same party in Limbo, he was able to take out 3 death knights (CR 17) and various yugoloths (CR 9-12) in only a couple of rounds. During his time as Imperator as well, he was able to defend against, and eventually defeat, the undead form of the Silver Guardians and the Necromancer, however, he also wielded [Fraemia](../Objects/fraemia.md).
 
-Without weapons, Oric is suggested to be a CR 23+, but given his performance in Kisiri's fortress in Limbo, it is likely several values higher. All things considered, Oric Valdes is one of the most powerful mortals the world has ever seen without the blood of the gods, for very few, if not none, can compare to his strength.
+Without weapons, Oric is suggested to be a CR 23+, but given his performance in Kisiri's fortress in Limbo, it is likely several values higher. All things considered, Oric Valdes is one of the most powerful mortals the world has ever seen without the blood of the gods for very few, if not none, can compare to his strength.
 
 ## Quotes
 
-- "Fuck you, Kisiri" (to Kisiri before he lands blow to fatally weaken her)
+- "Fuck you, Kisiri" (to Kisiri before he lands blow to fatally weaken her during the final fight of the [Caelian Trilogy](../Campaigns/caelian_trilogy.md))

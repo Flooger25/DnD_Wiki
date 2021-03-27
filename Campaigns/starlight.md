@@ -5,7 +5,8 @@
 | Type | Adventure |
 | Arcs | ?? |
 | Length | ?? |
-| Players | 4-6 |
+| Parties | 1-2 |
+| Players | 4-6 or 8-12 |
 | Levels | ?? |
 | Designed | ?? |
 
