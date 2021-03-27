@@ -6,6 +6,8 @@
 | - | - |
 | [Pulchra](Planes/pulchra.md) | Prime Material Plane |
 | [Limbo](Planes/limbo.md) | Outer Planes |
+| Unknown World 1 | - |
+| Unknown World 2 | - |
 
 ## Land Masses
 
@@ -39,3 +41,4 @@
 | Takeda Tower | Wizard Tower | Northern Meridia |
 | Eagle's Nest | Castle | Athal, Caelus |
 | White Palace | Super Fortress | Athal, Caelus |
+| The Bastille | - | - |

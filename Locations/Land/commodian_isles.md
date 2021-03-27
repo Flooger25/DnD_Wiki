@@ -41,7 +41,7 @@ The Commodian Isles consist of 12 islands of various size and history:
 
 ## History
 
-**Note**: Before New Era (BNE) refers to the time before the "invasion of the east [](TODO)" of the Isles.
+**Note**: Before New Era (BNE) refers to the time before the ["Invasion of the East"](../../Events/meridian_wars.md#invasion-of-the-east) of the Isles.
 
 - 1200-1500 BNE - First settlers arrive on the islands of Paruna and South Calmest Enclave.
 - 900-1200 BNE - During a large migration from the ancient west, many of the other islands were settled, except for those in the south west corner of the Isles.

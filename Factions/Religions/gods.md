@@ -1,5 +1,70 @@
 # Gods
 
+Gods, or deities, are divine beings with extraordinary power, often worshipped by a few hundred to several million followers. For more details on their abilities, visit [Deity](https://forgottenrealms.fandom.com/wiki/Deity).
+
+## Contents
+
+- [Deity Ranks](#deity-ranks)
+  - [Quasi-deity](#quasi-deity)
+  - [Demigod](#demigod)
+  - [Lesser deity](#lesser-deity)
+  - [Intermediate deity](#intermediate-deity)
+  - [Greater deity](#greater-deity)
+  - [Overdeity](#overdeity)
+  - [Other](#other)
+- [Faith of the White](#faith-of-the-white)
+- [The Dwarven Pantheon](#the-dwarven-pantheon)
+- [The Elven Pantheon](#the-elven-pantheon)
+- [The Drow Pantheon](#the-drow-pantheon)
+- [The Halfling Pantheon](#the-halfling-pantheon)
+- [The Gnomish Pantheon](#the-gnomish-pantheon)
+- [The Orc Pantheon](#the-orc-pantheon)
+- [Deities of the Forgotten Realms](#deities-of-the-forgotten-realms)
+- [Deities of Greyhawk](#deities-of-greyhawk)
+- [Deities of Dragonlance](#deities-of-dragonlance)
+  - [The Gods of Good](#the-gods-of-good)
+  - [The Gods of Neutrality](#the-gods-of-neutrality)
+  - [The Gods of Evil](#the-gods-of-evil)
+- [Deities of Eberron](#deities-of-eberron)
+  - [The Sovereign Host](#the-sovereign-host)
+  - [The Dark Six](#the-dark-six)
+  - [Other Faiths of Eberron](#other-faiths-of-eberron)
+  - [Nonhuman Deities](#nonhuman-deities)
+- [Celtic Deities](#celtic-deities)
+- [Greek Deities](#greek-deities)
+- [Egyptian Deities](#egyptian-deities)
+- [Norse Deities](#norse-deities)
+
+## Deity Ranks
+
+### Quasi-deity
+
+A quasi-deity, or hero deity, was a creature with divine characteristics, such as immortality. Children of real deities were generally quasi-deities. It was possible for mortal true dragons to become quasi-deities by becoming and fully developing their capabilities as a Dragon Ascendant. Unlike normal quasi-deities, who couldn't grant spells to their worshipers, these dragons could do so after the worshiper in question formally swore loyalty to the dragon.
+
+### Demigod
+
+A demigod was, contrary to its name, not a half-god but a full deity, though the weakest of these and only capable of the most basic abilities of a god, which were still of superhuman nature. They generally represented one aspect of mortal life and had hundreds, or even thousands, of followers and were capable of granting spells. A demigod's power could easily reach Epic CR 22 or more.
+
+### Lesser deity
+
+A lesser deity was more powerful than demigods and had more abilities. They generally had thousands, if not tens of thousands, of followers. The power level of a lesser deity was understood to be upwards of Epic CR 30.
+
+### Intermediate deity
+
+An intermediate deity was more powerful than lesser ones and had more abilities. They generally had over 100,000 followers. Their power level could be as high as Epic CR 36.
+
+### Greater deity
+
+A greater deity was more powerful than intermediate ones and had more abilities. They generally had millions of followers. Their power had no understandable limit, even to other gods. Some are known to have an Epic CR of 40+.
+
+### Overdeity
+
+An overdeity, or overgod, was, as the name suggests, over everything, including mortals' abilities to understand them. They didn't react in any way to anything a mortal could do, and they didn't grant spells. They generally had no followers, if mortals knew of their existence at all. The power level of an overgod is inconceivable, even to the most powerful of deities.
+
+### Other
+
+There exist some creatures and beings of power comparable to that of the divine gods. These creatures may not actually be gods themselves, but creations of the gods or the multiverse itself. Some are so powerful even the gods may fear them, but are still not divine beings nonetheless.
+
 ## Faith of the White
 
 | Deity	| Alignment	| Domains |

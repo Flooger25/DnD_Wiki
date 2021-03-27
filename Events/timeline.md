@@ -1,5 +1,7 @@
 # Timeline
 
+This article details the timeline of the world of [Pulchra](../Locations/Planes/pulchra.md) and the multiverse itself. It also compares different calenders one might see on various articles.
+
 ## Calendar Comparison
 
 | [4th Age](#4th---age-of-the-ancients) | Post-Anduin | Post-Cataclysm | [5th Age](#5th---age-of-the-kings) | Year of Moradin |
@@ -11,7 +13,7 @@
 | | 1368 | 0 | 24 | 3524 |
 | | 1530 | 162 | 186 | 3686 |
 
-## Ages of the World
+## Ages of Pulchra
 
 ### [1st - Age of the Angels]
 
@@ -41,7 +43,3 @@
 - Length - 3126+ years
 - Start - Great Cataclysm
 - 186 - [Commodian Tales](../Campaigns/commodian_tales.md)
-
-## Origin of it all
-
-"The 9 gods once lived and ruled on the material world. Not satisfied with the rules legislated by the others, the God whose alignment was chaos and evil, created a new realm known as Inanis designed to be ruled by them and them only. For this crime, they were cast out by the others. This conflict took the life of both the chaotic evil and their counterpart, lawful good, for the universe had to stay in balance. Without its father, Inanis was transformed into the Void, now known as the Abyss. After these events, the 7 remaining fled the material realm to abandon the universe for an eternity. The darkest realm of existence lay waiting, for the heir to their father to rise." - The Keeper

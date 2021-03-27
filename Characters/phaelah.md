@@ -1,5 +1,7 @@
 # Phaelah
 
+Phaelah is the 45th Archmage of Meridia and last known apprentice of [Katarus](katarus.md).
+
 | Basic Information | |
 | - | - |
 | Title(s) | 45th Archmage of Meridia |
