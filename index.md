@@ -1,4 +1,4 @@
-# D&D Wiki v1.4.0
+# D&D Wiki v1.5.0
 
 ## Intro
 
@@ -25,7 +25,7 @@ The following is how the wiki is structured with information on each:
   - Towns - Towns, cities, and other dwellings
   - Planes - Planes of existence including dimensions and worlds/planets
 - [Objects](Objects/objects.md) - Artifacts and objects of significance
-- Media - Pictures and gifs that help illustrate any of the above
+- Media - Pictures and `.gif`s that help illustrate any of the above
 
 ## List of pages to be written
 

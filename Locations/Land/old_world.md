@@ -2,6 +2,8 @@
 
 The "Old World" is a region on the [Pulchran](../Planes/pulchra.md) supercontinent [Praeia](../Planes/pulchra.md#praeia) in which the planet's history suggests the first civilized form of life had originated. Many of the races today can find their roots from somewhere in this region, therefore there is heavy religious influence to those who live there today. Some religions claim that when the gods walked the world, this is where they lay.
 
+Map of the Old World in 186 5A:
+
 ![Old World](../../Media/old_world.png)
 
 | Geography | |

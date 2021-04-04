@@ -54,7 +54,7 @@ A Pulchran year lasts 365 days over the course of 12 months. Each day is 24 hour
 
 ## Geography
 
-![](insert basic map of planet here)
+![Pulchra Labels](../../Media/pulchra_labels.png)
 
 ### Continents
 
