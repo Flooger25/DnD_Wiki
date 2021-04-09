@@ -1,8 +1,8 @@
-# D&D Wiki v1.5.0
+# Pulchran Wiki v1.5.0
 
 ## Intro
 
-This repo is intended to house all information related to the universe of the "Super Campaign" in the form of a wiki. Many of the events of these adventures primarily take place on the planet [Pulchra](Locations/Planes/pulchra.md).
+This wiki is intended to house all information related to the universe of the "Super Campaign" in the form of a wiki. Many of the events of these adventures primarily take place on the planet [Pulchra](Locations/Planes/pulchra.md).
 
 To view a high-level timeline of the world, observe Pulchra's [timeline](Events/timeline.md).
 
@@ -25,7 +25,6 @@ The following is how the wiki is structured with information on each:
   - Towns - Towns, cities, and other dwellings
   - Planes - Planes of existence including dimensions and worlds/planets
 - [Objects](Objects/objects.md) - Artifacts and objects of significance
-- Media - Pictures and `.gif`s that help illustrate any of the above
 
 ## List of pages to be written
 
@@ -48,7 +47,7 @@ Nations
 
 - Central Meridia
 - Northern Meridia
-- Eatern Meridia
+- Eastern Meridia
 - Western Meridia
 - Land of the Fields
 

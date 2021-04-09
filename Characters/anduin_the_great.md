@@ -25,4 +25,6 @@ Anduin, or Anduin the Great, was one of the most powerful humans of all time who
 
 ## History
 
+### Arrival to Caelus
+
 ## Powers
