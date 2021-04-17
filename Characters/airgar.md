@@ -1,5 +1,7 @@
 # Airgar
 
+Airgar was a former White Knight of the [King of the Dominion](aluuard_vidroth.md), father of Princess [Eilis Vidroth II](eilis_vidroth.md), and youngest brother to [Lord Belda](saywin_belda.md).
+
 | Basic Information | |
 | - | - |
 | Title(s) | Retired Knight |

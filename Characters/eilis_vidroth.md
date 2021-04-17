@@ -14,6 +14,13 @@
 | Uncle | [Lord Belda](saywin_belda.md) |
 | Grand-Uncle | [Aluuard Vidroth II](aluuard_vidroth.md) |
 
+| Succession | |
+| - | - |
+| Kingdom | [Dominion of Anduin](../Factions/Nations/dominion_of_anduin.md) |
+| Reign | 1326 PA (4-5 months) |
+| Predecessor | [Aluuard Vidroth II](aluuard_vidroth.md) |
+| Successor | None |
+
 | Statistics | |
 | - | - |
 | Alignment | Neutral Good |
