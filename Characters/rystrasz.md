@@ -42,3 +42,7 @@ Years later, in 1344 PA during the events of [Ascension of the Ancient](../Campa
 ### The Rystrasz Arc
 
 ## Powers
+
+Rystrasz was a great red dragon whose powers eclipsed that of ancient dragons substantially, which essentially limited him to the same kinds of abilities as a ancient red dragon but his were much more amplified.
+
+Rystrasz was also not known as a mage by any means, despite that some of the great dragons had further magical abilities.
