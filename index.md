@@ -34,7 +34,6 @@ Land Masses
 - Draconia
 - Acelidion
 - Pelrock Isle
-- Meridia
 - Kazrek
 
 Towns

@@ -12,6 +12,7 @@
 | History | |
 | - | - |
 | Formed from | Anduin's arrival to Caelus |
+| First Ruler | [Anduin the Great](../../Characters/anduin_the_great.md) |
 | Established | 0 PA |
 | Disestablished | 1326 PA |
 | Predecessor | Old World<br>Orcish and Dwarvish native tribes |

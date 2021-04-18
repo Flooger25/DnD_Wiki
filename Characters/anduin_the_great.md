@@ -6,9 +6,9 @@ Anduin, or Anduin the Great, was one of the most powerful humans of all time who
 | - | - |
 | Title(s) | Anduin<br>Anduin the Great<br>First King<br>The Blessed One<br>God Thief |
 | Sex | Male |
-| Race | Human |
-| Born | -433 PA |
-| Died | 160 PA (593) |
+| Race | Human-Celestial |
+| Born | 823 [4A](../Events/timeline.md#4th---age-of-the-ancients) |
+| Died | 1416 4A (593) <sub><sup>(by [Kisiri](kisiri.md))</sup></sub>|
 
 | Family | |
 | - | - |
@@ -18,13 +18,19 @@ Anduin, or Anduin the Great, was one of the most powerful humans of all time who
 
 | Statistics | |
 | - | - |
-| Power Level | Quasi-deity (Former demigod) |
+| Power Level | [Quasi-deity](../Factions/Religions/gods.md#quasi-deity) |
 | Alignment | True Neutral |
 
 ## Description
 
 ## History
 
+### Early Life
+
+### Theft of the God Weapon
+
 ### Arrival to Caelus
+
+### Death
 
 ## Powers
