@@ -25,7 +25,7 @@ The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, i
 
 | Area | |
 | - | - |
-| 1326 PA | 13,030,000 km<sup>2</sup>± 2,000,000 km<sup>2</sup> |
+| 1326 PA | 7,800,000 km<sup>2</sup>± 500,000 km<sup>2</sup> |
 
 | Population | |
 | - | - |
@@ -38,7 +38,7 @@ The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, i
 
 | Area | |
 | - | - |
-| 1326 PA | 2,600,000 km<sup>2</sup>-2,900,000 km<sup>2</sup> |
+| 1326 PA | 8,890,000 km<sup>2</sup>± 1,000,000 km<sup>2</sup> |
 
 | Population | |
 | - | - |

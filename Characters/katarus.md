@@ -23,6 +23,14 @@ Katarus was the 38th Archmage of Meridia and ally of the legendary adventure gro
 
 ## History
 
+### Early Life
+
+### Arch Mage
+
+### Meridian Wars
+
+### Death
+
 ## Powers
 
 He's a level 20+ wizard, nuff said.

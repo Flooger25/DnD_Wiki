@@ -4,7 +4,7 @@ This article details the timeline of the world of [Pulchra](../Locations/Planes/
 
 ## Calendar Comparison
 
-| [4th Age](#4th---age-of-the-ancients) | Post-Anduin | Post-Cataclysm | [5th Age](#5th---age-of-the-kings) | Year of Moradin |
+| [4th Age](#4th---age-of-the-ancients) | Post-[Anduin](../Characters/anduin_the_great.md#arrival-to-caelus) | Post-[Cataclysm](great_cataclysm.md) | [5th Age](#5th---age-of-the-kings) | Year of [Moradin](../Factions/Religions/gods.md#the-dwarven-pantheon) |
 |-|-|-|-|-|
 | 0 | -1256 | -2600 | -2600 | 900 |
 | 1256 | 0 | -1368 | -1344 | 2156 |

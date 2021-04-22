@@ -1,6 +1,6 @@
 # Pulchra
 
-Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unknown species of divine beings. The planet was the embodiment of beauty and the source of attraction for the all-powerful overgods and other angels.
+Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unknown species of divine beings. The planet was the embodiment of beauty and the source of attraction for the all-powerful overgods and other angels. Pulchra acts as the primary planet for the events of the various adventure campaigns and that of the ["Super Campaign"](../../Campaigns/super_campaign.md).
 
 ![Pulchra Rotation](../../Media/east_to_west.gif)
 
@@ -54,7 +54,7 @@ A Pulchran year lasts 365 days over the course of 12 months. Each day is 24 hour
 
 ## Geography
 
-![](insert basic map of planet here)
+![Pulchra Labels](../../Media/pulchra_labels.png)
 
 ### Continents
 

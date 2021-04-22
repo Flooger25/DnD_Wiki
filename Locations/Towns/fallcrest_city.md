@@ -1,11 +1,9 @@
 # Fallcrest City
 
-Inelethor in 1344 PA before the [Great Cataclysm](../../Events/great_cataclysm.md)
-
 | Geography | |
 | - | - |
 | Type | Ruins <sub><sup>(Formerly: Metropolis)</sup></sub>|
-| Region | Northern Meridia [](TODO) |
+| Region | [Northern Meridia](../Land/meridia.md#northern-meridia) |
 | Size | Metropolis |
 
 | Society | |
