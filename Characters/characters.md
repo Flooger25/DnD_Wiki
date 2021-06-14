@@ -39,6 +39,8 @@ This page outlines the existing articles of characters in the wiki. This page in
 
 ## Adventuring Hall of Fame
 
+In world hall of fame of the adventuring groups with the greatest achievements in history.
+
 | Party | Years Active | Primary Location(s) | PC? |
 | - | - | - | - |
 | Silver Guardians | 2545 - 2547 4A | Caelus |
@@ -50,20 +52,26 @@ This page outlines the existing articles of characters in the wiki. This page in
 
 ## NPC Power Hall of Fame
 
-| Name | CR |
-| - | - |
-| Kisiri | 28-32 (e) |
-| *the devil* | 28+ (e) |
-| Rystrasz | 28+ (e) |
-| Miirakail | 23 (e) |
-| Oric | 23+ (e) |
-| Brasstard | 20 (e) |
+NPCs by their level of power, specifically ordered by Challenge Rating (CR).
+
+| Name | CR | Campaign |
+| - | - | - |
+| Kisiri | 28-32 (e) | [Caelian Trilogy](../Campaigns/caelian_trilogy.md) |
+| *"the devil"* | 28+ (e) | [Starlight](../Campaigns/starlight.md) |
+| Rystrasz | 28+ (e) | Caelian Trilogy |
+| Miirakail | 23 (e) | Caelian Trilogy |
+| Oric | 23+ (e) | Caelian Trilogy |
+| Brasstard | 20 (e) | Caelian Trilogy |
+
+* (e) refers to the Epic CR
 
 ## Favorite NPC Hall of Fame
 
-| Name | Rank by Votes |
-| - | - |
-| Randy | 1 |
-| Oric | 2 |
-| Don Quiggley | 3 |
-| Marky Mark & Dummy Dumb | 3 |
+Favorite NPCs of the universe voted by the players of the campaigns.
+
+| Name | Rank by Votes | Campaign |
+| - | - | - |
+| Randy | 1 | Caelian Trilogy |
+| Oric | 2 | Caelian Trilogy |
+| Don Quiggley | 3 | Caelian Trilogy |
+| Marky Mark & Dummy Dumb | 3 | Caelian Trilogy |
