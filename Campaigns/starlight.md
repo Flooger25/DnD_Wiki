@@ -3,8 +3,8 @@
 | Basic Information | |
 | - | - |
 | Type | Adventure |
-| Arcs | ?? |
-| Length | ?? |
+| Arcs | 3 |
+| Length <sub><sup>(per party)</sup></sub> | 90-110 Hours *or* 18-30 sessions |
 | Parties | 1-2 |
 | Players | 4-6 or 8-12 |
 | Levels | 5-20<br>10-17 |

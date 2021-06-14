@@ -6,11 +6,11 @@ The Caelian Trilogy is a trilogy of three fast-paced and short adventures whose 
 | - | - |
 | Type | Adventure Series |
 | Arcs | [Rise of Ebrihan](#rise-of-ebrihan)<br>[Death of a Dragon](#death-of-a-dragon)<br>[Ascension of the Ancient](#ascension-of-the-ancient) |
-| Length | 50-72 Hours |
+| Length | 50-72 Hours *or* 13-23 sessions |
 | Players | 4-6 |
 | Levels | RoE 2-5<br>DoD 6-9<br>AotA 10-17 |
 | Original Design | Mar 2019 |
-| Designed & Ran | Feb, 2019 - Nov, 2020 |
+| Designed & Ran | Feb, 2020 - Dec, 2020 |
 | Status | **Completed** and introduced to lore by [13](../Characters/13/13.md)
 
 | World Information | |
