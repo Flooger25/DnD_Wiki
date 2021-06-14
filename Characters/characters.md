@@ -36,3 +36,34 @@ This page outlines the existing articles of characters in the wiki. This page in
 | - | - |
 | [Anduin the Great](anduin_the_great.md) | RoE |
 | [Aluuard Vidroth II](aluuard_vidroth.md) | RoE |
+
+## Adventuring Hall of Fame
+
+| Party | Years Active | Primary Location(s) | PC? |
+| - | - | - | - |
+| Silver Guardians | 2545 - 2547 4A | Caelus |
+| 13 | 2582 4A<br>2599 - 2600 4A | Caelus<br>Meridia | PC |
+| Bean Team | 186 - ?? 5A | Commodian Isles | PC |
+| Titans | 344 - 360 5A | Ismaia |
+| Golden Guardians | ?? | Ismaia |
+| Company of Ten | ?? | ?? |
+
+## NPC Power Hall of Fame
+
+| Name | CR |
+| - | - |
+| Kisiri | 28-32 (e) |
+| *the devil* | 28+ (e) |
+| Rystrasz | 28+ (e) |
+| Miirakail | 23 (e) |
+| Oric | 23+ (e) |
+| Brasstard | 20 (e) |
+
+## Favorite NPC Hall of Fame
+
+| Name | Rank by Votes |
+| - | - |
+| Randy | 1 |
+| Oric | 2 |
+| Don Quiggley | 3 |
+| Marky Mark & Dummy Dumb | 3 |

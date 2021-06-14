@@ -13,7 +13,7 @@ Below is a list of different factions divided into their separate sub-categories
 | Regent of the Lord | ?? | ?? | ?? | ?? | Old World |
 | Silandria | ?? | ?? | ?? | ?? | Old World |
 | *New* [Unified Commodia](Nations/unified_commodia.md) | Aristocracy | 82 [5A](../Events/timeline.md#5th---age-of-the-kings) | - | 104 in 162 PC | [Commodian Isles](../Locations/Land/commodian_isles.md) |
-| United Confederation of Ismaia | Republic | 308 5A | ?? | ?? | Ismaia |
+| United Republic of Ismaia | Republic | 308 5A | ?? | ?? | Ismaia |
 
 ## Organizations
 

@@ -14,7 +14,7 @@ Rystrasz was an Ancient Red [Dragon](../Factions/Races/dragon.md) who is known f
 | Statistics | |
 | - | - |
 | Alignment | Chaotic Evil |
-| Challenge Rating | 28 (Epic) |
+| Challenge Rating | 28 (Epic) (4A)<br>31+ (Epic) (5A) |
 
 ## Description
 

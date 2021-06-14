@@ -9,19 +9,21 @@ The Caelian Trilogy is a trilogy of three fast-paced and short adventures whose 
 | Length | 50-72 Hours |
 | Players | 4-6 |
 | Levels | RoE 2-5<br>DoD 6-9<br>AotA 10-17 |
-| Designed | March, 2019 - Nov, 2020 |
+| Original Design | Mar 2019 |
+| Designed & Ran | Feb, 2019 - Nov, 2020 |
 | Status | **Completed** and introduced to lore by [13](../Characters/13/13.md)
 
 | World Information | |
 | - | - |
 | World | Pulchra |
 | Location(s) | Caelus<br>Meridia |
+| Faction(s) | [Dominion of Anduin](../Factions/Nations/dominion_of_anduin.md)<br>[Caelian Empire](../Factions/Nations/caelian_empire.md)<br>[Meridian States](../Factions/Nations/meridian_states.md) |
 | Starting town | [Casta](../Locations/Towns/casta.md), Ebrihan |
 | Timeline | 1326 PA - 1344 PA |
 
 | Story Information | |
 | - | - |
-| Antagonists | [Oric Valdes](../Characters/oric_valdes.md)<br>Ravens<br>[Caelian Empire](../Factions/Nations/caelian_empire.md)<br>[Arch Witch Kisiri](../Characters/kisiri.md) |
+| Antagonists | [Oric Valdes](../Characters/oric_valdes.md)<br>[Ravens](..//Factions/Organizations/ravens.md)<br>[Caelian Empire](../Factions/Nations/caelian_empire.md)<br>[Arch Witch Kisiri](../Characters/kisiri.md) |
 
 ## Plot
 

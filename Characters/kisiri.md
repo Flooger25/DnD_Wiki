@@ -27,7 +27,7 @@ For the rest of history she became known as the Arch Witch, for there had yet to
 | Statistics | |
 | - | - |
 | Alignment | Neutral Evil |
-| Challenge Rating | 28-36 |
+| Challenge Rating | 28-32 (Epic) |
 | Class | Sorcerer 17+<br>Wizard 17+|
 
 ## History
