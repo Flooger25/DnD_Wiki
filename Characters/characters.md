@@ -4,11 +4,15 @@ This page outlines the existing articles of characters in the wiki. This page in
 
 ## Adventuring Parties
 
-| Party | Adventure | Type |
-| - | - | - |
-| [13](13/13.md) | [Caelian Trilogy](../Campaigns/caelian_trilogy.md) | PC |
-| Silver Guardians | Caelian Trilogy | NPC |
-| [Bean Team](bean_team/bean_team.md) | [Commodian Tales](../Campaigns/commodian_tales.md) | PC |
+| Party | Adventure | Type | Years Active |
+| - | - | - | - |
+| [13](13/13.md) | [Caelian Trilogy](../Campaigns/caelian_trilogy.md) | PC | - |
+| Silver Guardians | Caelian Trilogy | NPC | - |
+| [Bean Team](bean_team/bean_team.md) | [Commodian Tales](../Campaigns/commodian_tales.md) | PC | - |
+| Titans | Starlight | NPC | 344 - 372 5A |
+| Golden Guardians | Starlight | NPC | ?? |
+| The Nine Ismaians | Starlight | NPC | 393 - ?? 5A |
+| Company of Ten | Starlight | NPC | ?? |
 
 ## Interactable NPCs
 
@@ -57,7 +61,6 @@ NPCs by their level of power, specifically ordered by Challenge Rating (CR).
 | Name | CR | Campaign |
 | - | - | - |
 | Kisiri | 28-32 (e) | [Caelian Trilogy](../Campaigns/caelian_trilogy.md) |
-| *"the devil"* | 28+ (e) | [Starlight](../Campaigns/starlight.md) |
 | Rystrasz | 28+ (e) | Caelian Trilogy |
 | Miirakail | 23 (e) | Caelian Trilogy |
 | Oric | 23+ (e) | Caelian Trilogy |

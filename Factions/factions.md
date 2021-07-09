@@ -9,11 +9,11 @@ Below is a list of different factions divided into their separate sub-categories
 | [Dominion of Anduin](Nations/dominion_of_anduin.md) | Monarchy |1256 [4A](../Events/timeline.md#4th---age-of-the-ancients) | 2582 4A | 1326 | [Caelus](../Locations/Land/caelus.md) |
 | [Caelian Empire](Nations/caelian_empire.md) | Dictatorship | 2582 4A | 2600 4A | 17 | Caelus |
 | [Meridian States](Nations/meridian_states.md) | ?? | ?? | ?? | ?? | [Meridia](../Locations/Land/meridia.md) |
-| Mavell Dynasty | Monarchy | ?? | ?? | ?? | [Old World](../Locations/Land/old_world.md) |
-| Regent of the Lord | ?? | ?? | ?? | ?? | Old World |
-| Silandria | ?? | ?? | ?? | ?? | Old World |
+| Mavell Dynasty | Monarchy | 3 5A | ?? | 413 in 416 5A | [Old World](../Locations/Land/old_world.md) |
 | *New* [Unified Commodia](Nations/unified_commodia.md) | Aristocracy | 82 [5A](../Events/timeline.md#5th---age-of-the-kings) | - | 104 in 162 PC | [Commodian Isles](../Locations/Land/commodian_isles.md) |
-| United Republic of Ismaia | Republic | 308 5A | ?? | ?? | Ismaia |
+| Regent of the Lord | ?? | 115 5A | ?? | 301 in 416 5A | Old World |
+| Silandria | ?? | ?? | ?? | ?? | Old World |
+| United Republic of Ismaia | Republic | 302 5A | ?? | 114 in 416 5A | Ismaia |
 
 ## Organizations
 

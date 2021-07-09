@@ -17,7 +17,7 @@
 | Location(s) | Ismaia<br>Old World |
 | Faction(s) | United Republic of Ismaia |
 | Starting town | ?? |
-| Timeline | 516 [5th Age](../Events/timeline.md#5th---age-of-the-king) |
+| Timeline | 416 [5th Age](../Events/timeline.md#5th---age-of-the-king) |
 
 | Story Information | |
 | - | - |
