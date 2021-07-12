@@ -25,4 +25,10 @@
 
 ## History
 
+### Early Life
+
+### Duel with Kisiri
+
+### Spiritual Return
+
 ## Powers

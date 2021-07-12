@@ -63,7 +63,7 @@ NPCs by their level of power, specifically ordered by Challenge Rating (CR).
 | Kisiri | 28-32 (e) | [Caelian Trilogy](../Campaigns/caelian_trilogy.md) |
 | Rystrasz | 28+ (e) | Caelian Trilogy |
 | Miirakail | 23 (e) | Caelian Trilogy |
-| Oric | 23+ (e) | Caelian Trilogy |
+| Oric Valdes | 23+ (e) | Caelian Trilogy |
 | Brasstard | 20 (e) | Caelian Trilogy |
 
 * (e) refers to the Epic CR

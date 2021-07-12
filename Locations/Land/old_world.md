@@ -78,7 +78,7 @@ Due to the events of the Great Cataclysm, a great famine had occurred, affecting
 
 The following decades, new lords rose and united small lands, and the old perished. This time period was filled with constant warring and lack of stability.
 
-One of the warring lords, and considered the most successful conquerer of the lands, Keletar Mavell, had created the first newly birthed nation after conquering all of Shiria. As this timeframe of chaos had approached its end, Keletar had conquered many lands and had established order and unity between them. This unification would soon be known as the start of the Mavell Dynasty, for Keletar's growth in power had only begun.
+One of the warring lords, and considered the most successful conquerer of the lands, Keletar Mavell, had created the first newly birthed nation after conquering all of Shiria. As this time frame of chaos had approached its end, Keletar had conquered many lands and had established order and unity between them. This unification would soon be known as the start of the Mavell Dynasty, for Keletar's growth in power had only begun.
 
 During this time period, due to the outcome of the Meridian Wars and that of the cataclysm, the unified Western Meridia had fallen to pieces. Similar to the rest of the Old World, Western Meridia had now been divided into smaller territories governed by local Meridia lords. Western Meridia would never be united again, until the New Iptian Alliance.
 
@@ -86,9 +86,11 @@ During this time period, due to the outcome of the Meridian Wars and that of the
 
 #### Rise of Imperialism (182-186)
 
+After years of hiding within the Commodian Isles, the Caelian Empire's Marshall of the West, Aylmar Sylren, was revealed to the world, and with him imperialist loyalists in surrounding nations.
+
 #### Mavell Conquests (186-208)
 
-With tentions high in the South Western Corner of the world, all it took was a spark of aggression for total war to occurr. This spark was the ascendence of Maldwyn Mavell as King of the Mavell dynasty. He believed it was Mavell's right to rule all that which is seen by the Gods, therefore he begun war with his neighbors.
+With tensions high in the South Western Corner of the world, all it took was a spark of aggression for total war to occur. This spark was the ascendence of Maldwyn Mavell as King of the Mavell dynasty. He believed it was Mavell's right to rule all that which is seen by the Gods, therefore he begun war with his neighbors.
 
 For the next several years, the Mavell Dynasty had crushed, conquered, and absorbed surrounding kingdoms into its own. Even after the death of Maldwyn in combat, the empire had slowly grown for the next several generations, extending its influential reach. Despite not conquering the east as Maldwyn would have wanted, the Old World was still theirs to take.
 
@@ -104,9 +106,9 @@ A great migration occurred, leaving the core regions of the Old World behind and
 
 #### Age of the Titans (344-372)
 
-In 344, a no name adventure group was formed in a small village in Protar. Over its 28 year timeframe, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again. They became known as the Titans outside of their homeland, and eventually became deterrents of war between nations due to their power and respect attained. This would be the first time a world-influencing adventure party would exist since 13, but it also wouldn't be the last.
+In 344, a no name adventure group was formed in a small village in Protar. Over its 28 year time frame, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again. They became known as the Titans outside of their homeland, and eventually became deterrents of war between nations due to their power and respect attained. This would be the first time a world-influencing adventure party would exist since 13, but it also wouldn't be the last.
 
-#### Rise of the Adventurers (372-416)
+#### Time of the Adventurers (372-416)
 
 
 #### New Iptian Alliance

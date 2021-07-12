@@ -32,4 +32,16 @@ Eilis Vidroth II, or simply Eilis, was the 17th, and last, monarch of the [Domin
 
 ## History
 
+### Early Life
+
+### Rise of Ebrihan
+
+### Age of the Empire
+
+### Death of a Dragon
+
+### Ascension of the Ancient
+
+### Death
+
 ## Powers
