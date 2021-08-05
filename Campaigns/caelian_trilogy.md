@@ -35,7 +35,7 @@ The main story involves the political rise and fall of [Oric Valdes](../Characte
 
 ### Introduction
 
-~~~
+~~~md
 1387 years past, the Dominion of Anduin was formed by the first King Anduin the Great on the southern continent known as Caelia, or Caelus. He and his settlers traveled from a foreign land to found a new kingdom in the pursuit of freedom and peace for all races.
 
 Throughout the years the Dominion had suffered and survived great challenges such as famine, royal conflicts, disease, and ethnic separation between the ancestors of the natives of Caelus and those of the colonists.
@@ -63,7 +63,7 @@ The Rise of Ebrihan opens with a newly formed party at the inn in the little fis
 <details>
 <summary>Spoilers warning for events of Rise of Ebrihan</summary>
 
-~~~
+~~~md
 In 1326, a group of novice adventurers who sought wealth, power, and adventure found and returned the missing heir to the Vidroth line, Princess Eilis, exposed a secret organization who plotted against the crown and controlled over the misfortunate, and eventually had slain a dark and deformed creature who was terrorizing the eastern coast of Caelus. As their adventure came to a close, a much darker plot was revealed, and despite their attempts, the duke of Ebrihan, Oric Valdes, was revealed to be the legend known as the Imperator of the Fields, an old war hero of immense power, and was finally able to fulfill his desire for revenge.
 
 In the year 1326, Duke Oric Valdes of Ebrihan led a 30 day insurgency against the Dominion of Anduin, killing King Vidroth II, supporters of the War of the Fields, establishing the Caelian Empire, and declaring himself its first leader, High Lord Valdes.
@@ -84,7 +84,7 @@ Our adventure continues 17 years after the events of the first campaign, in the 
 <details>
 <summary>Spoilers warning for events of Death of a Dragon</summary>
 
-~~~
+~~~md
 In 1343, our group of heroes reunited during the funeral of a long friend and ally Lord Belda. They were soon tasked by Queen Eilis to help in bringing the High Lord down and restoring peace to the world. Through the group’s adventure, they traveled back in time to discover Oric Valdes’ secret to power, and to determine what can be used against him. Once discovered, the group found the Imperator’s spear, Fraemia, snuck and battled their way into the White Palace, and finally confronted the High Lord and slayed him. It was not over, however, for the party was deceived. As the High Lord fell, he warned the party of the next coming, and a dark energy was released in the Hall of the Lord. Our story continues in this moment.
 ~~~
 
