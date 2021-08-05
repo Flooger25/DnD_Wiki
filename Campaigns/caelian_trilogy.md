@@ -35,17 +35,15 @@ The main story involves the political rise and fall of [Oric Valdes](../Characte
 
 ### Introduction
 
-~~~md
-1387 years past, the Dominion of Anduin was formed by the first King Anduin the Great on the southern continent known as Caelia, or Caelus. He and his settlers traveled from a foreign land to found a new kingdom in the pursuit of freedom and peace for all races.
+`1387 years past, the Dominion of Anduin was formed by the first King Anduin the Great on the southern continent known as Caelia, or Caelus. He and his settlers traveled from a foreign land to found a new kingdom in the pursuit of freedom and peace for all races.`
 
-Throughout the years the Dominion had suffered and survived great challenges such as famine, royal conflicts, disease, and ethnic separation between the ancestors of the natives of Caelus and those of the colonists.
+**Throughout the years the Dominion had suffered and survived great challenges such as famine, royal conflicts, disease, and ethnic separation between the ancestors of the natives of Caelus and those of the colonists.**
 
 In the years 1280-1291, King Aluuard Vidroth II had ordered an invasion against the natives in the Northern Fields, but after those in the surrounding lands had decided to reject the imperial act of aggression, an eastern alliance, composed greatly of those belonging to the region Ebrihan, had raised their weapons, and thus the War of the Fields had ensued.
 
 The war was devastating to both sides, economically and demographically, especially so to Ebrihan. Despite their efforts to resist, Ebrihan and the natives had been defeated and forcefully re-inserted into the Dominion. The regions of the Northern Fields and Kisiria had been destroyed completely, and left in ruin to rot, and Ebrihan suffered a several decade long famine.
 
 Our adventure starts nearly four decades later, in an age of regrowth and hope, as the new Duke of Ebrihan, Oric Valdes, has reshaped the region and brought stability under the rule of the Dominion. Rumors have spread of a mysterious force awakened in the north, and that of coastal villages disappearing completely. Meanwhile, the people of the Dominion face a new kind of corruption in their government and concerns arise as the King has fallen ill, and the last heir to the Vidroth line has not being seen in weeks. Our heroes start in the coastal city of Casta, as they have been told to look for an informant with information on a quest that could lead to riches, power, and adventure.
-~~~
 
 ### Plot
 
@@ -63,17 +61,15 @@ The Rise of Ebrihan opens with a newly formed party at the inn in the little fis
 <details>
 <summary>Spoilers warning for events of Rise of Ebrihan</summary>
 
-~~~md
-In 1326, a group of novice adventurers who sought wealth, power, and adventure found and returned the missing heir to the Vidroth line, Princess Eilis, exposed a secret organization who plotted against the crown and controlled over the misfortunate, and eventually had slain a dark and deformed creature who was terrorizing the eastern coast of Caelus. As their adventure came to a close, a much darker plot was revealed, and despite their attempts, the duke of Ebrihan, Oric Valdes, was revealed to be the legend known as the Imperator of the Fields, an old war hero of immense power, and was finally able to fulfill his desire for revenge.
+**In 1326, a group of novice adventurers who sought wealth, power, and adventure found and returned the missing heir to the Vidroth line, Princess Eilis, exposed a secret organization who plotted against the crown and controlled over the misfortunate, and eventually had slain a dark and deformed creature who was terrorizing the eastern coast of Caelus. As their adventure came to a close, a much darker plot was revealed, and despite their attempts, the duke of Ebrihan, Oric Valdes, was revealed to be the legend known as the Imperator of the Fields, an old war hero of immense power, and was finally able to fulfill his desire for revenge.**
 
-In the year 1326, Duke Oric Valdes of Ebrihan led a 30 day insurgency against the Dominion of Anduin, killing King Vidroth II, supporters of the War of the Fields, establishing the Caelian Empire, and declaring himself its first leader, High Lord Valdes.
+`In the year 1326, Duke Oric Valdes of Ebrihan led a 30 day insurgency against the Dominion of Anduin, killing King Vidroth II, supporters of the War of the Fields, establishing the Caelian Empire, and declaring himself its first leader, High Lord Valdes.`
 
 Over the next few years the continent of Caelus had become more militarized, industrialized, and autocratic. Many supporters of the old state, and those that spoke against the current regime, were hunted down and systematically erased from the world. Nearly a million people were executed and wiped from existence in only the first 6 years, and Oric Valdes’ intentions had become clearer in 1332 when he began a long and grueling invasion against the nearby island nations and southern states of Meridia, thus beginning the Meridian Wars.
 
 Once the smaller states of Meridia were conquered and cleansed, the Empire shifted its eyes west to what is known here as Western Meridia, the great cultural center of the ancient world. As the death toll by the High Lord’s regime had surpassed millions, Western Meridia began to cripple, thus he was closer to his ultimate goal.
 
 Our adventure continues 17 years after the events of the first campaign, in the year 1343. The war draws to a narrow close for the Caelian Empire against Western Meridia, our heroes are dispersed, either in hiding or retirement, and the events many years ago has left our characters defeated and lost. Life seems hopeless for all, until a new opportunity emerges, promising of a way to strike back at the oppressors. Our heroes have just received news of the execution of an old beloved friend and ally, so our story begins with our party traveling to the funeral in a small village, Dorren, on the coast of Pelrock Isle. Little to their knowledge, a new adventure awaits.
-~~~
 
 </details>
 
