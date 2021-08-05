@@ -2,6 +2,8 @@
 
 The Caelian Trilogy is a trilogy of three fast-paced and short adventures whose events primarily take place on the [Pulchran](../Locations/Planes/pulchra.md) continent of [Caelus](../Locations/Land/caelus.md) and some locations in [Meridia](../Locations/Land/meridia.md). The campaign's original design was exclusive to the first arc, [Rise of Ebrihan](#rise-of-ebrihan), but soon grew into a 3 arc trilogy expanding on the events of the first arc.
 
+NOTE: **This page contains spoilers for the Caelian Trilogy campaign**
+
 | Basic Information | |
 | - | - |
 | Type | Adventure Series |
