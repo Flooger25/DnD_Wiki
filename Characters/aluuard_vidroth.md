@@ -1,6 +1,6 @@
 # Aluuard Vidroth II
 
-Aluuard Vidroth II was the 16th monarch and the kind of the [Dominion of Anduin](../Factions/Nations/dominion_of_anduin.md).
+Aluuard Vidroth II was the 16th monarch and king of the [Dominion of Anduin](../Factions/Nations/dominion_of_anduin.md).
 
 | Basic Information | |
 | - | - |
