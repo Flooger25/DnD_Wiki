@@ -11,7 +11,7 @@ Starlight is the third campaign taking place on the world of Pulchra and during 
 | Players | 7-10 (3-4 & 4-6) |
 | Levels | 5-20<br>13-17 |
 | Designed | June, 2021 |
-| Ran | 2022? |
+| Ran | - |
 
 | World Information | |
 | - | - |
@@ -45,14 +45,44 @@ words for intro here
 
 ## Arcs
 
-- The number range next to each act refers to the planned number of 5 hour sessions needed to complete each section
+Below are the 5 arcs/acts for the story and their 3 sub-chapters within.
 
-### Act I - A New World (3-5)
+### Act I - A New World
 
-### Act II - Poetic Realism (3-6)
+#### 1.1 Sympathy for the Devil
 
-### Act III - Red Sky (4-7)
+#### 1.2 Three Portraits
 
-### Act IV - The Cleverest Note (4-6)
+#### 1.3 Short Change Hero
 
-### Act V - Heroes (4-6)
+### Act II - Poetic Realism
+
+#### 2.1 I'd Love to Change the World
+
+#### 2.2 For What It's Worth
+
+#### 2.3 Stairway To Heaven
+
+### Act III - Red Sky
+
+#### 3.1 Holding Out for a Hero
+
+#### 3.2 Every Breath You Take
+
+#### 3.3 Highway to Hell
+
+### Act IV - The Cleverest Note
+
+#### 4.1 Spirit In The Sky
+
+#### 4.2 Baba O'Riley
+
+#### 4.3 Hallelujah
+
+### Act V - Heroes
+
+#### 5.1 Dear Mr. Fantasy
+
+#### 5.2 Knights of Ismaia
+
+#### 5.3 Goodbye Stranger

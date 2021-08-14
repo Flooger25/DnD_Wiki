@@ -27,6 +27,48 @@ NOTE: **This page contains spoilers for the Caelian Trilogy campaign**
 | - | - |
 | Antagonists | [Oric Valdes](../Characters/oric_valdes.md)<br>[Ravens](..//Factions/Organizations/ravens.md)<br>[Caelian Empire](../Factions/Nations/caelian_empire.md)<br>[Arch Witch Kisiri](../Characters/kisiri.md) |
 
+## Entities
+
+### NPCs
+
+- Protagonists
+  - Randy
+  - Liana
+  - Eilis Vidroth II
+  - Lord Saywin Belda
+  - Airgar
+  - Andurin
+- Antagonists
+  - Oric Valdes
+  - Arch Witch Kisiri
+  - Various Demons
+
+### Factions
+
+- Dominion of Anduin
+- Ravens
+- Caelian Empire
+
+### Locations
+
+- Caelus
+  - Ebrihan
+    - Casta
+    - Orham
+    - Italiath
+  - Kisiria
+    - Kisirith
+  - Athal
+    - Andurin
+- Meridia
+  - Northern Meridia
+    - Fallcrest City
+    - Inelethor
+- Limbo
+  - "The City"
+  - The Spire
+  - Aziliroth
+
 ## Plot
 
 The main story of the Caelian Trilogy follows a party of adventurers through historical events on Caelus, and Meridia, during the finals years of the [4th Age](../Events/timeline.md#4th---age-of-the-ancients) of Pulchra. The story is broken up into three "mini" campaigns, each with their respective story, and together make up the trilogy as a whole adventure. The contents of the three main arcs are detailed in their respective sections [below](#rise-of-ebrihan).
