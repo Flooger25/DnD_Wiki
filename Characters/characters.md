@@ -50,7 +50,7 @@ In world hall of fame of the adventuring groups with the greatest achievements i
 | Silver Guardians | 2545 - 2547 4A | Caelus |
 | 13 | 2582 4A<br>2599 - 2600 4A | Caelus<br>Meridia | PC |
 | Bean Team | 186 - ?? 5A | Commodian Isles | PC |
-| Titans | 344 - 360 5A | Ismaia |
+| Titans | 344 - 372 5A | Ismaia |
 | Golden Guardians | ?? | Ismaia |
 | Company of Ten | ?? | ?? |
 
