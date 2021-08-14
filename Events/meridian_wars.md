@@ -36,7 +36,7 @@ The Meridian Wars took place in the South Eastern Corner of Pulchra in locations
 
 ## History
 
-Quick timeline of the events of the Meridian Wars using the Post-Anduin (PA) calendar.
+Quick timeline of the events of the Meridian Wars using the [Post-Anduin (PA)](timeline.md#post-anduin) calendar.
 
 - 1332
   - Caelian Invasion of nearby island nations
