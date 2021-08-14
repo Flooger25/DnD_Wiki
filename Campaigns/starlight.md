@@ -33,7 +33,7 @@ Starlight is the third campaign taking place on the world of Pulchra and during 
 
 ## Description
 
-Starlight is a two-party campaign taking place in the Isamaian region of the Old World. One party starts at level 5 and levels up rapidly to 20 by the end, and the other starts at 13, slowly leveling to 17.
+Starlight is a two-party campaign taking place in the Isamaian region of the [Old World](../Locations/Land/old_world.md). One party starts at level 5 and levels up rapidly to 20 by the end, and the other starts at 13, slowly leveling to 17.
 
 The campaign explores the world in the Age of Adventurers! This time period is filled with adventurers with unique skills who originate from large cities to small hamlets from around the world. Forming a party and competing for wealth, glory, fame, and adventure is so common for folks of this time that there is even a League of Adventurers that watches over and maintains statuses between parties.
 
