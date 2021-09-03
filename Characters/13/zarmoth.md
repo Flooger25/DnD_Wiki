@@ -1,6 +1,5 @@
 # Zarmoth
 
-
 | Basic Information | |
 | - | - |
 | Type | Player Character |

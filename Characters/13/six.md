@@ -1,5 +1,7 @@
 # Six
 
+Six was the leader of the
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -40,4 +42,26 @@ Six was born to an Elf family in Meridia nearly 300 years prior to our story. Wh
 
 ## After 13
 
-As the leader of the infamous "13", Six knew after the death of Kisiri, things would be different forever. The party split off, each member pursuing their own paths until their death, so Six did the same. Immediately after their adventure, Six turned in his bounty and assumed command of his organization, the Mors Marauders. For the next few decades, Six used his fame, power, and rule over the Marauders to help in reconstruction in Eastern Meridia and grow his organization exponentially. In order to keep Emily immortal, Six began his own adventure to seek someone who could do it, but he ended up with a powerful, yet secluded, necromancer, who was forced to use the Clone spell on Emily, extending her age artificially. While Sorin had begun working with Zarmoth in Randy City, Six had gained nearly complete control over Eastern Meridia, but after hearing of Sorin's return, he reestablished his relationship to work with him as an ally for the foreseeable future. By the time half of the party had passed of natural causes, Six's goal to find further "infinity" stones had begun. His ally Sorin was able to find one, but Six was only able to find ancient and cryptic information on them, but he would never give up his search while in power, so he had sent members of the Marauders over the years to cover the world and other dimensions. Hundreds of years past the death of Kisiri, Six was the most recognized name of the land, as the leader of the Mors Marauders, many parts of Meridia, and leader of the legendary party "13", Six had decided to create a dungeon with his own rules. By this time, Six would retire as a dungeon master, only to wait for a group of adventurers who dare seek his riches or to stumble upon him.
+As the leader of the infamous "13", Six knew after the death of Kisiri, things would be different forever. The party split off, each member pursuing their own paths until their death, so Six did the same. Immediately after their adventure, Six turned in his bounty and assumed command of his organization, the Mors Marauders. For the next few decades, Six used his fame, power, and rule over the Marauders to help in reconstruction in Eastern Meridia and grow his organization exponentially. In order to keep Emily immortal, Six began his own adventure to seek someone who could do it, but he ended up with a powerful, yet secluded, necromancer, who was forced to use the Clone spell on Emily, extending her age artificially. While Sorin had begun working with Zarmoth in Randy City, Six had gained nearly complete control over Eastern Meridia, but after hearing of Sorin's return, he reestablished his relationship to work with him as an ally for the foreseeable future. By the time half of the party had passed of natural causes, Six's goal to find further "infinity" stones had begun. His ally Sorin was able to find one, but Six was only able to find ancient and cryptic information on them, but he would never give up his search while in power, so he had sent members of the Marauders over the years to cover the world and other dimensions.
+
+Hundreds of years past the death of Kisiri, Six was the most recognized name of the land, as the leader of the Mors Marauders, many parts of Meridia, and leader of the legendary party "13", Six's name was remembered forever.
+
+## Post-Caelian Trilogy
+
+After the events of the Caelian Trilogy, the members of 13 parted ways, while Six made sure to note how old everyone at the time was. Six took Emily back to the Mors Marauders base of operations. When he arrived he learned the Big 3 in the Marauders had been taken out by Kisiri. Six being the highest ranked/most experienced saw the opportunity to take the reigns of the organization. Very, very few of the members remained, but Six used his influence to gather the leftover forces to clear out the demons and devils Kisiri had brought into the world. This gave the Mors Marauders a lot of popularity and new members.
+
+This continued for about 3 decades. Six was leading the rebuilding of the Marauders and the rebuilding of Eastern Meridia, with himself as the head, and with this new found power Six began to start on his real plans. He sought out a powerful necromancer and handsomely paid him to cast the clone spell on Emily. Knowing she would not live as long as him this would allow her to become a form of immortal.
+
+After that Six was nearing complete control of Eastern Meridia and he heard that Sorin had come back into the plane. The two of them met and realized the other had conquered their domain, the two decided to combine their resources. Six knew that Troyes, Zarmoth, and Burk had died of natural causes by this point, and besides Naddin, they were all that were left of the final iteration of 13. The two decided they would set out to find infinity stones to achieve immortality as Naddin had.
+
+After another few decades, about a century has past since the battle of 13 and Kisiri with Six being 420 at this point (blaze it with Gandank to celebrate). Sorin’s men are the first to find a stone and with it Sorin achieves immortality. The 2 continue to search and after about almost 8 decades and many planes being searched, Six’s men find another stone.
+
+184 years after Kisiri’s defeat, Six, Sorin, and Emily have achieved their immortality through one way or another. Six is the most recognized name in the land as: the old leader of the Heroes 13, the leader of the Mors Marauders (a massive bounty hunting organization), and the leader of many parts of Meridia. Six asks Sorin and Emily to help him return to Limbo to retake his soul he sold. They successfully plane shift and retrace their steps to find Sichel's body in the Spire for the magic tomes he held after several weeks.
+
+The three then set out for the Bone Cathedral, now having their bearings they hunt down the demon with Six’s soul. The battle rages and nearly kills everyone, but in the final round the demon strikes a deal to return Six's soul in return for the moonblade. The deal is accepted and the three head out of the plane of Limbo.
+
+At this point, Six and Sorin have everything they need to stay in power of Meridia and Randy City, as well as the underground society.
+
+Six uses Emily to cast Simulacrum on himself. The duplicate of Six becomes the face of the country while the real one follows his true passions. Being the ruler of all you can see is fun and all, but the thrill of battle is unmatched. Simu-six takes his place in society while secretly taking commands from the real Six and informing him of what's going on in his country.
+
+The real Six has been using many resources and people to excavate an old massive dungeon. After clearing it out Six and Emily move in to start stowing all the riches from the years, finding monsters and mercenaries to submit to his power and serve in this dungeon. Purely for fun, waiting for parties similar to his old, to let them fight a real boss.

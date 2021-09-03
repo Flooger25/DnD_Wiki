@@ -1,6 +1,5 @@
 # Troyes Pyreflayer
 
-
 | Basic Information | |
 | - | - |
 | Type | Player Character |
