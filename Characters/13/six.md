@@ -1,6 +1,6 @@
 # Six
 
-Six was the leader of the
+Six is a wood elf blood hunter born in Northern Meridia in 1028 PA (2284 4A) who was famously known as the leader of the legendary adventuring company [13](13.md). At an early age Six was recruited and trained as a bounty hunter under the organization [Mors Marauders](../../Factions/Organizations/mors_marauders.md), named after the Caelian god of death. He eventually came across a band of adventurers and soon what would be later known as 13 was founded. He soon became the leader, and the rest was history.
 
 | Basic Information | |
 | - | - |

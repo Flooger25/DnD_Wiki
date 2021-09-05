@@ -2,6 +2,8 @@
 
 The War of the Fields was a conflict that occurred on the continent of [Caelus](../Locations/Land/caelus.md) between the primary state of the [Dominion of Anduin](../Factions/Nations/dominion_of_anduin.md) and the eastern regions of the continent [Ebrihan](../Locations/Land/caelus.md#ebrihan), [Kisiria](../Locations/Land/caelus.md#kisiria), and the [Northern Fields](../Locations/Land/caelus.md#northern-fields) between 1280 PA and 1291 PA. It began with the active king of the Dominion, [Aluuard Vidroth II](../Characters/aluuard_vidroth.md) forming imperialist and segregation policies against the eastern regions, and eventually invading them to assert dominance. The eastern regions fought and united quickly while declaring their desired independence. The conflict was terribly chaotic for other forces took advantage of it to set their own plans in motion. This was was also significant due to it being the first public appearance of the [Imperator](../Characters/oric_valdes.md#the-imperator), and first time in over a thousand years the god weapon [Fraemia](../Objects/fraemia.md) was seen and wielded. The war concluded with a Dominion victory, and the eastern regions were left in a state of destruction for the following generation. This outcome became the seed for the events of the [Rise of Ebrihan](rise_of_ebrihan.md), and eventual rise of the [Caelian Empire](../Factions/Nations/caelian_empire.md), which became one of the most destructive states in history.
 
+![War of the Fields](../Media/war_of_the_fields.gif)
+
 | Basic Information | |
 | - | - |
 | Type | War |
