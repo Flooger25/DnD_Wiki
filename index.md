@@ -1,4 +1,4 @@
-# Pulchran Wiki v1.6.0
+# Pulchran Wiki v1.7.0
 
 ## Intro
 
@@ -7,6 +7,8 @@ This wiki is intended to house all information related to the universe of the "S
 To view a high-level timeline of the world, observe Pulchra's [timeline](Events/timeline.md).
 
 To view a random page, click [here](https://flooger25.github.io/DnD_Wiki/random)!
+
+*Note*: Latest version updated on 9/18/2021
 
 ## Structure
 

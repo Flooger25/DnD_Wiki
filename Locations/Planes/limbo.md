@@ -60,7 +60,7 @@ Many of the inhabitants of Limbo were creatures known as Yugoloths. They primari
 
 ### Demons
 
-Various demons were known to reside in this dimension. Some included Balors and others included more transcended demonic variants, such as Six's bane[](TODO).
+Various demons were known to reside in this dimension. Some included Balors and others included more transcended demonic variants, such as [Six's bane](../../Characters/centipede_demon.md).
 
 ### Lost Souls
 

@@ -5,6 +5,7 @@
 | General Information | |
 | - | - |
 | Full name | The Dominion of Anduin |
+| Alias(es) | The Old Dominion |
 | Type | Absolute-Monarchy |
 | Capital | Andurin |
 | Sub-states | Athal<br>Ebrihan<br>Kisiria<br>Yagocryne<br>Lindoline<br>Ashein<br>Northern Fields

@@ -1,6 +1,5 @@
 # Sorin Lupercal
 
-
 | Basic Information | |
 | - | - |
 | Type | Player Character |
