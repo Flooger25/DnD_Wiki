@@ -72,7 +72,7 @@ The government of the empire followed an ordered hierarchy where every individua
 Some notable marshalls include:
 
 - Aylmar Sylren
-  - Known as the "Satan of the Sea", Aylmar managed the military and governing district of the South Eastern Sea, including the Commodian Isles
+  - Known as the "Hand of the Sea", Aylmar managed the military and governing district of the South Eastern Sea
 - Isaac Serir
 - Li Amory
 
