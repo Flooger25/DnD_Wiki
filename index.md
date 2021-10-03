@@ -32,7 +32,7 @@ The following is how the wiki is structured with information on each:
 
 - [Cosmology](Locations/Planes/cosmology.md)
 - [Time Beavers](Locations/Planes/time_beavers.md)
-- [War & Strategy](Events/War.md)
+- [War & Strategy](Events/war.md)
 
 ## List of pages to be written
 

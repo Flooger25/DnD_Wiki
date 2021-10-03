@@ -7,7 +7,12 @@ The cosmic beavers, also known as the time beavers, are cosmic entities that hel
 ## Contents
 
 - [Flow of Time](#flow-of-time)
-  - [Known Critical Points](#known-critical-points)
+  - [Singular Flow](#aingular-flow)
+  - [Divergence](#divergence)
+  - [Convergence](#convergence)
+  - [Critical Points](#critical-points)
+  - [Absolute Points](#absolute-points)
+- [Known Events](#known-events)
 - [The Beavers](#the-beavers)
 
 ## Flow of Time
@@ -48,14 +53,14 @@ An absolute point is categorized by the following:
 
 Scholars often compare absolute points to dams built by the cosmic beavers, however, there is no evidence that the beavers have anything to do with absolute points other than them cleaning up the cosmic waste left behind an ended stream.
 
-### Known Critical Points
+## Known Events
 
-| Name | Years United | Phase Frequency |
-| - | - | - |
-| Mystra's Wish | 1101 4A<br>212 5A | 2.34 GHz |
-| Unknown | 1411 4A<br>1563 4A | 114.5 MHz |
-| Unknown | 934 PA<br>1216 PA | 291.3 MHz |
-| 13-Point | 1281 PA<br>1291 PA<br>1343 PA | 313.4 MHz |
+| Name | Event Type | Year(s) Involved | Phase Frequency |
+| - | - | - | - |
+| Mystra's Wish | Critical Point | 1101 4A<br>212 5A | 2.34 GHz |
+| Unknown | Critical Point | 1411 4A<br>1563 4A | 114.5 MHz |
+| Unknown | Critical Point | 934 PA<br>1216 PA | 291.3 MHz |
+| 13-Point | Critical Point | 1281 PA<br>1291 PA<br>1343 PA | 313.4 MHz |
 
 ## The Beavers
 
