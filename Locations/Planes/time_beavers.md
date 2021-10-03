@@ -12,9 +12,9 @@ The cosmic beavers, also known as the time beavers, are cosmic entities that hel
 
 ## Flow of Time
 
-Time flows like a river, in one direction similar to the arrow of time, however, the river of time is much more dynamic in the shapes it can take, whereas the arrow and straight and rigid.
+Time flows like a river, in one direction similar to the arrow of time, however, the river of time is much more dynamic in the shapes it can take, whereas the arrow is straight and rigid.
 
-The river of time can be a singular flow, split into multiple rivers, combine multiple rivers together, or even overlap on itself in key points.
+The river of time can be a singular flow, split into multiple rivers, stop flowing and die, or even overlap on itself in key points.
 
 ### Singular Flow
 
@@ -42,7 +42,7 @@ Below is an artist's rendition of the "13-Point" critical point [13](../../Chara
 
 An absolute point is categorized by the following:
 
-1. A common event that occurs between multiple streams of the river, regardless of how they do or no not relate
+1. A common event that occurs between multiple streams of the river, regardless of how they do or do not relate
 1. A lead up with large inter and intra-dimensional activity never-before seen in that stream prior
 1. What can be observed as the end of the stream itself, where most, if not all, activity in that stream ends with no chance of recovery. Often this is associated with great cataclysms that destroy the relevant universe entirely
 

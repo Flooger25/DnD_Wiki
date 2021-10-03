@@ -1,10 +1,8 @@
 # War & Strategy
 
-evolution of Tactics and war technology
-
 War is an intense armed conflict between states, governments, societies, or paramilitary groups such as mercenaries, insurgents, and militias. It is generally characterized by extreme violence, aggression, destruction, and mortality, using regular or irregular military forces. Warfare refers to the common activities and characteristics of types of war, or of wars in general. Total war is warfare that is not restricted to purely legitimate military targets, and can result in massive civilian or other non-combatant suffering and casualties.
 
-While some war studies scholars consider war a universal and ancestral aspect of human nature, others argue it is a result of specific socio-cultural, economic or ecological circumstances.
+While some war studies scholars consider war a universal and ancestral aspect of nature, others argue it is a result of specific socio-cultural, economic or ecological circumstances.
 
 ## Contents
 
@@ -12,11 +10,6 @@ While some war studies scholars consider war a universal and ancestral aspect of
   - [3rd Age](#pre-historic)
   - [4th Age](#4th-age)
   - [5th Age](#5th-age)
-- [Fields of Battle](#fields-of-battle)
-  - [Close Combat](#close-combat)
-  - [Medium-Range](#medium-range)
-  - [Long-Range](#long-range)
-  - [Inter-dimensional](#inter-dimensional)
 - [Types of Units](#types-of-units)
   - [Land](#land)
     - [Soldiers](#soldiers)
@@ -39,31 +32,41 @@ While some war studies scholars consider war a universal and ancestral aspect of
 
 ### Pre-Historic
 
-nuffin
+Little to nothing is known about conflicts during the 3rd age. It is theorized that since Dwarves were the only race at the time, if any conflict existed it was internal to Dwarvish affairs.
+
+Other intelligent species that existed during this time took advantage of bows and stone weapons. There is evidence that both of these types of weapons existed far before the Dwarvish race.
 
 ### 4th Age
 
-Bronze Age
+The 4th Age saw the greatest evolution in military technology, historical conflicts, and tactics for it began with elementary tools by the first races of the realms and concluded with great leaps in weaponization and magic-based combat.
 
-Magic time
+#### Bronze Age
 
-Iron age
+For the first millennium of the 4th Age, copper and its alloy bronze was the primary material manufactured for weapons. This time saw the advent of military units such as slingers, hoplites, auxiliaries, infantry, archery, chariots, and cavalry.
 
-Beginning of naval combat
+#### Flourish of Magic
+
+Magic was first used to help survive in the wild lands of the world, but as society became more urbanized, the practice of magic became prolific. This began the flourish of magic, where its teachings, use, and knowledge were greatly expanded in the world. Because of this, it had a great effect on how war was carried out.
+
+In its early days, magic was primarily used medicinally to heal the wounded. In addition, it helped to reshape certain landscapes and gather resources for garrisons and trenches. Once the use of magic spread, the evocation school of spells was discovered to be very effective on the battlefield, for large areas could be damaged very quickly, and enemy units within heavily damaged. Soon, mages were the primary combatants, and were the most valuable assets for a kingdom on the battlefield.
+
+It is widely accepted that the arrival of magic stalled the development of the Iron Age, for there was no need for such technology with magic. As the demand for magic use increased, however, the supply also fell, so an alternative to bronze and archery weapons was needed when mages were not in good supply. Thus, the Iron Age began.
+
+#### Iron Age
+
+The Iron Age resembled the middle-ages in regards to military technology for it saw the invention and use of units such as knights, crossbows, pikeman, trebuchets, ballistas, and mangonels. Not only were close-quarter weapons enhanced greatly, and counter measures developed against mages, but the arrival of great engineering machines like the trebuchet or ballistas made a great challenge for governments that could not afford to design, manufacture, transport, and maintain them. These engineering marvels excelled at disabling defenses and sieging fortresses, which would poke holes in what kept the mages safe from ground troops.
+
+With the world slowly globalizing due to naval routes, a vulnerability was formed, and that was the dependency on trade routes between nations, particularly the sea. Historically, land trade routes were always under attack, but governments sought solace in the sea for it was harder to track down which routes ships could take.
+
+#### Beginning of Naval Era
+
+The latter century of the 4th Age saw a great increase in naval technology and trading. Naval technology had existed since before the Flourish of Magic, but the ships were of a design that remained unchanged for centuries.
+
+With the rise of the [Caelian Empire](../Factions/Nations/caelian_empire.md), their leaders understood the dependency the world had on sea routes remaining untouched. They saw this with constant piracy plaguing the routes in the South Eastern Sea and a lack of sufficient investment from the major powers in the region. Due to this fact, the Caelians chose to invest heavily in manufacturing, designing, and advancing their naval forces, and when the [Meridian Wars](meridian_wars.md) broke out, they were able to starve out their enemies across the seas by attacking port cities. This proved to be the primary reason for their success in the war until the end of the 4th Age.
 
 ### 5th Age
 
-Improved naval combat
-
-## Fields of Battle
-
-### Close Combat
-
-### Medium-Range
-
-### Long-Range
-
-### Inter-dimensional
+The effects of the [Great Cataclysm](great_cataclysm.md) greatly damaged the ability for governments to protect themselves, however, the reconstruction era saw ships were the greatest way to quickly move between resources and gain influence. Thus war, between large nations, was now moved to the seas and smaller states battled as they did during the Iron Age for there was nothing left to protect in the port cities.
 
 ## Types of Units
 
