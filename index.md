@@ -1,4 +1,4 @@
-# Pulchran Wiki v1.7.0
+# Pulchran Wiki v1.8.0
 
 ## Intro
 
@@ -8,7 +8,7 @@ To view a high-level timeline of the world, observe Pulchra's [timeline](Events/
 
 To view a random page, click [here](https://flooger25.github.io/DnD_Wiki/random)!
 
-*Note*: Latest version updated on 9/18/2021
+*Note*: Latest version updated on 10/1/2021
 
 ## Structure
 

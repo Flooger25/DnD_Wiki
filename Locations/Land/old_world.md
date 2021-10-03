@@ -102,15 +102,12 @@ A great migration occurred, leaving the core regions of the Old World behind and
 
 #### Wars of Independence (302-311)
 
-#### ?? (311-344)
+#### New Iptian Alliance (311-344)
 
 #### Age of the Titans (344-372)
 
 In 344, a no name adventure group was formed in a small village in Protar. Over its 28 year time frame, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again. They became known as the Titans outside of their homeland, and eventually became deterrents of war between nations due to their power and respect attained. This would be the first time a world-influencing adventure party would exist since 13, but it also wouldn't be the last.
 
 #### Time of the Adventurers (372-416)
-
-
-#### New Iptian Alliance
 
 ## Demographics

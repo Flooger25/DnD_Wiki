@@ -46,12 +46,30 @@ This article details the timeline of the world of [Pulchra](../Locations/Planes/
   - 2599-2600 - Ascension of the Ancient
 - End - [Great Cataclysm](great_cataclysm.md)
 
+#### Bronze Age 0-1100
+
+#### Flourish of Magic 1100-1400
+
+#### Great Meridian Migration 1400-1700
+
+#### Iron Age 1700-2588
+
+#### Fall of Meridia 2588-2600
+
 ### [5th - Age of the Kings]
 
 - Length - 3126+ years
 - Start - Great Cataclysm
 - 186 - [Commodian Tales](../Campaigns/commodian_tales.md)
 - 416 - [Starlight](../Campaigns/starlight.md)
+
+#### Great Cataclysm 0-24
+
+#### Reconstruction 24-182
+
+#### Age of Empires 182-302
+
+#### Age of Republics 302-416
 
 ## Calendars
 
