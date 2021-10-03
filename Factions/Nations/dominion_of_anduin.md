@@ -1,5 +1,7 @@
 # Dominion of Anduin
 
+TODO
+
 ![Dominion Map](../../Media/dominion_of_anduin.png)
 
 | General Information | |
@@ -29,6 +31,8 @@
 | 1326 PA | 10,600,000 |
 
 ## Description
+
+TODO
 
 ## Geography
 

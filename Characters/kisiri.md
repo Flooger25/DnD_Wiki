@@ -62,6 +62,8 @@ The new world was to begin in the heart of Kisiria, the only gift to Kisiri from
 
 ### Slumber
 
+TODO
+
 ### Return
 
 ## Powers

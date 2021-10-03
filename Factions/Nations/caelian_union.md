@@ -26,3 +26,7 @@ After the fall of the Caelian Empire, the eastern regions banded together to for
 | Population | |
 | - | - |
 | 186 5A | 2,774,000 |
+
+## History
+
+TODO

@@ -21,6 +21,8 @@ Phaelah is the 45th Archmage of Meridia and last known apprentice of [Katarus](k
 
 ## Description
 
+TODO
+
 ## History
 
 ### Death of a Dragon

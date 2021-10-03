@@ -22,6 +22,8 @@ The power of these items is not completely understood, however, it is known that
 
 ## History
 
+TODO
+
 ## Reputation
 
 It is not known how exactly it works, but when a user of a stone passes, and is attuned to the stone or whatever artifact is created from it, the stone disappears and is dispersed among the cosmos in a seemingly random fashion. The gems cannot be broken, but rumors suggest a weapon made from a gem poses the best chance.

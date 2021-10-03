@@ -1,5 +1,7 @@
 # Mors Marauders
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Alias(es) | Marauders |
@@ -19,3 +21,7 @@
 | - | - |
 | Allegiances | [Mors, God of Death](../Religions/gods.md#faith-of-the-white) |
 | Enemies | Necromancers<br>Fiends |
+
+## History
+
+TODO

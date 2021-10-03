@@ -25,19 +25,23 @@ This article details the timeline of the world of [Pulchra](../Locations/Planes/
 
 ### [1st - Age of the Angels]
 
+- Description - The 1st Age is defined simply by the birth of the world, Pulchra, up until the 2nd Age. If the gods ever walked the realm, this was then.
 - Length - Thousands to millions of years
 
 ### [2nd - Age of the Keepers]
 
-- Length - 12600 years
+- Description - The 2nd Age is defined purely by its astronomical relationship with the neighboring star, Olirion, and when Pulchra's star, Lycicla, shared the same X-Y coordinate relative to the galactic center.
+- Length - 12613 years
 
 ### [3rd - Age of Stillness]
 
+- Description - The 3rd Age is considered the pre-historic time of the world. Most races either didn't exist during this time or did not exist in their modern form, but were rather in their ancestral forms. Because the world seemed quiet due to intelligent creatures still being in their infancy, the 3rd Age also became known as the Age of Stillness. This time is also known as the era in which the Dwarves ruled the realm, for they were the only race with substantial technology and structured large scale societies. It is not known when exactly this age started, but what is known is that the Dwarves of Moradin were birthed into the world about 900 years prior to the end of the age.
 - Length - 900-10000 years
 - 900 years before End - Dwarves of Moradin born
 
 ### [4th - Age of the Ancients]
 
+- Description - The 4th Age is described as the time before civilization truly settled, and before races of the world began to explore the rest of Pulchra.
 - Length - 2600 years
 - Start - First elves and humans.
 - [Caelian Trilogy](../Campaigns/caelian_trilogy.md):
@@ -46,12 +50,31 @@ This article details the timeline of the world of [Pulchra](../Locations/Planes/
   - 2599-2600 - Ascension of the Ancient
 - End - [Great Cataclysm](great_cataclysm.md)
 
+#### Bronze Age 0-1100
+
+#### Flourish of Magic 1100-1400
+
+#### Great Meridian Migration 1400-1700
+
+#### Iron Age 1700-2588
+
+#### Fall of Meridia 2588-2600
+
 ### [5th - Age of the Kings]
 
+- Description - The 5th Age is the time that races of the world explored and colonized the rest of the world. Many of the ancient nations and empires of the 4th Age by now have fallen, dissolved, or have been integrated enough such that no remnants of the old world are left.
 - Length - 3126+ years
 - Start - Great Cataclysm
 - 186 - [Commodian Tales](../Campaigns/commodian_tales.md)
 - 416 - [Starlight](../Campaigns/starlight.md)
+
+#### Great Cataclysm 0-24
+
+#### Reconstruction 24-182
+
+#### Age of Empires 182-302
+
+#### Age of Republics 302-416
 
 ## Calendars
 

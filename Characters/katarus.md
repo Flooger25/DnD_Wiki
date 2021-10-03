@@ -21,6 +21,8 @@ Katarus was the 38th Archmage of Meridia and ally of the legendary adventure gro
 
 ## Description
 
+TODO
+
 ## History
 
 ### Early Life

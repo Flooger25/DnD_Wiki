@@ -27,6 +27,8 @@ The Unified Commodian Isles, or more commonly known as just Commodia, is an isla
 
 ## Description
 
+TODO
+
 ## Geography
 
 ## Government
