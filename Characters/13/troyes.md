@@ -1,5 +1,7 @@
 # Troyes Pyreflayer
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -28,13 +30,9 @@
 
 Troyes' bloodline hails from the natives of Anduin, and as such has spent most of his life away from civilization living on the land hunting beasts and gathering plants, his home village did very little farming so it was necessary. But Troyes had always been curious about the others in his homeland, and unlike most of his village he did not hate the so called "invaders", and as such he set out to learn more about people. Unfortunately Troyes fell to some of the bad practices of his new friends, and gets a little too hooked to intoxicants and women.
 
-## Time with "10"
-
 ## Time-Skip
 
 After the party separated Troyes figured the best way to protect himself would be to, as they say, hide in a tree in a forest. He removed the tribal tattoos, trimmed his hair, and learned to speak the common tongue properly. Troyes also got a job making furniture as a woodcarver and tanner, keeping his skills in tact by occasionally going hunting for dangerous beasts who roam nearby.
-
-## Time with 13
 
 ## After 13
 

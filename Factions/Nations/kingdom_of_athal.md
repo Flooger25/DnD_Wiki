@@ -27,3 +27,7 @@ During the events of the great cataclysm, Athal was an anarchy state not absorbe
 | Population | |
 | - | - |
 | 186 5A | 4,526,000 |
+
+## History
+
+TODO

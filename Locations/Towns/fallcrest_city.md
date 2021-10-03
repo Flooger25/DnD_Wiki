@@ -1,5 +1,7 @@
 # Fallcrest City
 
+TODO
+
 | Geography | |
 | - | - |
 | Type | Ruins <sub><sup>(Formerly: Metropolis)</sup></sub>|
@@ -17,3 +19,7 @@
 | 2599 4A<br>1343 PA | Destruction <sub><sup>(set ablaze)</sup></sub>|
 | Succeeded by | Fallcrest |
 | Population | 255,000-343,000 in 1343 PA |
+
+## History
+
+TODO

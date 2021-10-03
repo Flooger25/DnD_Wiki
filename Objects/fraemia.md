@@ -20,6 +20,8 @@ Fraemia is a golden spear with a tip that shares a resemblance to a dragonslayer
 
 ## History
 
+TODO
+
 ## Reputation
 
 ## Stats
@@ -95,4 +97,3 @@ When the spear is ascended, it gains the following properties:
 Proficiency with a spear allows you to add your proficiency bonus to the attack roll for any attack you make with it.
 
 Notes: Fraemia must accept its user, Damage, Combat, Thrown, Versatile
-

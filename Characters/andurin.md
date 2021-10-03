@@ -1,5 +1,7 @@
 # Andurin
 
+TODO
+
 ![Andurin](../Media/andurin.png)
 
 | Basic Information | |
@@ -22,6 +24,8 @@
 | Challenge Rating | 25+ |
 
 ## Description
+
+TODO
 
 ## History
 

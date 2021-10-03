@@ -25,6 +25,8 @@ Aluuard Vidroth II was the 16th monarch and king of the [Dominion of Anduin](../
 
 ## Description
 
+TODO
+
 ## History
 
 ## Powers

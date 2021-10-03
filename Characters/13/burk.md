@@ -1,5 +1,7 @@
 # Burk Kvak
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -34,8 +36,6 @@
 
 Burk’s family were well known carpenters in the orc community. This caught the attention of other races, which led to the family business being contracted out of the Northern Fields. Because of the dangers of the road, Burk had to learn to fight very early on. For political reasons yet to be known, the Kvak family felt a rising tension against their people, so Burk was pushed to venture out of the business to try and help resolve the conflict if he could, for he had no knowledge of what terrors are to come.
 
-## Time with "10"
-
 ## Time-Skip
 
 After Ten’s defeat, Burk knew his family, being non-human, was in danger. He hauled ass back to them and saved them from a small raid of the Imperator’s forces. He explained what was going on, and they gathered all of their most important shit and headed for Meridia, hoping to find refuge there. They narrowly escaped capture and death, and made it to a ship of mostly human refugees fleeing the continent. They were already over capacity but Burk forced their way onto the ship. Sometime terrible had occurred, however.
@@ -45,8 +45,6 @@ Perhaps because they resented his family for it, or perhaps because it was their
 Burk somehow awoke the next morning on the outskirts of an island with natives looking over him. With their assistance, he managed to make it to Western Meridia, where he attempted to warn the leaders there of everything happening on Caelus, and what had transpired of his journey. Burk found work at a local construction company, but felt nothing but emptiness as he worked his way up through the ranks. Without his family, he had lost all purpose in life, and was just waiting to die.
 
 11 years had passed, and when Western Meridia fell under attack, the company Buk worked for found themselves overloaded with work to help the war effort. This went on for several years until Burk heard of the death of an old friend. Having nothing left to lose, he simply vanished one day toward the funeral. Thus, unbeknownst to him, this decision led him to the next chapter in his life.
-
-## Time with 13
 
 ## After 13
 

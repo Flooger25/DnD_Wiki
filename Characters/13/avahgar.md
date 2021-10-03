@@ -1,5 +1,7 @@
 # Avahgar Krupp
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -19,8 +21,6 @@
 ## Backstory
 
 Avahgar was abandoned at birth at the gates of a temple of Vita, where he was raised. While there, he learned how to heal. Eventually he left the temple to join a group of crusaders, and while with them he learned how to fight. After it became apparent that the group of crusaders where too extreme in their forceful conversions, he left the group. He continued to travel the continent of Caelus to learn the wisdoms of the world, until he befriended a particularly interesting group of travelers.
-
-## Time with "10"
 
 ## Time-Skip
 

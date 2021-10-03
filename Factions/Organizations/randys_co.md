@@ -1,5 +1,7 @@
 # Randy's Handy Co.
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Mercantile Corporation |
@@ -11,3 +13,7 @@
 | Membership | |
 | - | - |
 | Members | ?? in 162 PC |
+
+## History
+
+TODO

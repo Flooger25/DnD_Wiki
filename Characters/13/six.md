@@ -32,13 +32,9 @@ At some point 300+ years prior to Six’s birth, the group now known as the Mors
 
 Six was born to an Elf family in Meridia nearly 300 years prior to our story. While a newborn, his parents asked for a bounty on a high value target, but couldn’t pay the high cost they had promised to fulfill, so to pay the debt, the bounty hunter group, took Six and proclaimed that he is to pay off his family’s debt through bounty hunting services. The group of bounty hunters consisted of worshippers of Mors, and are aptly named the Mors Mauraders. As Six grew to adulthood, he was trained, given the nickname Six, and he fulfilled contracts until he met up with the party. He continues to aspire to pay off his debt and become a more efficient killer.
 
-## Time with "10"
-
 ## Time-Skip
 
 “For the 17 years Six would go back to bounty hunting for cash, practice, and bitches.” - Ryan
-
-## Time with 13
 
 ## After 13/Post-Caelian Trilogy
 

@@ -23,6 +23,8 @@ Anduin, or Anduin the Great, was one of the most powerful humans of all time who
 
 ## Description
 
+TODO
+
 ## History
 
 ### Early Life

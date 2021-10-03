@@ -1,5 +1,7 @@
 # Zarmoth
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -25,8 +27,6 @@
 ## Backstory
 
 Zarmoth grew up in a temple of Kelemvor. He eventually became a priest, and started doing exorcisms to let the souls of the dead finally rest. One day, Zarmoth was sent to a strange house with what was assumed to be a ghost, however, when he opened the door, he found himself in a giant ass Tower. When he tried to turn back, the door lead to a particularly hot part of hell, so Zarmoth decided to climb the tower, and look through the doors to a way back to his home, until he meets Troyes.
-
-## Time with 13
 
 ## After 13
 

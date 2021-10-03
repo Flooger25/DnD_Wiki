@@ -89,7 +89,7 @@ The effects of the [Great Cataclysm](great_cataclysm.md) greatly damaged the abi
 | Archdruid | 12 | 40 gp |
 | Archmage | 12 | 50 gp |
 
-For example, a typical 1000 man army of 100 Knights, 400 Infantrymen, 400 archers, and 100 Sergeant could cost a net total of `2560 gp` per day.
+For example, a typical 1000 man army of 100 knights, 400 infantrymen, 400 archers, and 100 sergeants could cost a net total of `2560 gp` per day.
 
 #### Land Equipment
 

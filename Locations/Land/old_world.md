@@ -60,6 +60,8 @@ The earliest recorded history in the Old World dates back to the first Dwarves o
 
 ### 4th Age
 
+TODO
+
 #### 0-500
 
 #### 500-1000
@@ -111,3 +113,5 @@ In 344, a no name adventure group was formed in a small village in Protar. Over 
 #### Time of the Adventurers (372-416)
 
 ## Demographics
+
+TODO
