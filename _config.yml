@@ -6,3 +6,10 @@ theme: jekyll-theme-merlot
 
 random_redirect:
   pages: true
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [search.html]
