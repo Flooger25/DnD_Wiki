@@ -14,7 +14,7 @@ Rystrasz was an Ancient Red [Dragon](../Factions/Races/dragon.md) who is known f
 | Statistics | |
 | - | - |
 | Alignment | Chaotic Evil |
-| Challenge Rating | 28 (Epic) |
+| Challenge Rating | 28 (Epic) (4A)<br>31+ (Epic) (5A) |
 
 ## Description
 
@@ -30,19 +30,22 @@ It is unknown when Rystrasz was born, but based on his size and observed strengt
 
 ### Limbo
 
-Some time in 1289 PA, Rystrasz was encountered by the Silver Guardians. The party was doomed to be incinerated, but with the wits and cunning of their leader, [Oric Valdes](oric_valdes.md#silver-guardians), he was outsmarted and trapped in the mountains of the flats of [Limbo](../Locations/Planes/limbo.md) long enough for the group to gain information on [Miirakail](miirakail.md)'s whereabouts and retreat. This event made Rystrasz remember the name Oric for an eternity, vowing to destroy him for tricking him into saying rock music was "boring."
+It is not known exactly when, where, and for how long Rystrasz inhabited [Limbo](../Locations/Planes/limbo.md), but what is known is long before the Great Cataclysm, he was trapped below ruins of the [Ruined City](../Locations/Planes/limbo.md#ruined-city). Later, by an unknown figure, the Wandering Weald's life-stone was hidden in his chamber knowing it would be protected by the great dragon's blind hatred for intruders.
 
-rystrasz stole the Weald's life-stone.
-rystrasz trapped by kisiri
+Some time in 1289 PA, Rystrasz was encountered by the Silver Guardians. The party was doomed to be incinerated, but with the wits and cunning of their leader, [Oric Valdes](oric_valdes.md#silver-guardians), he was outsmarted and the Guardians had just enough time for them to gain information on [Miirakail](miirakail.md)'s whereabouts and escape. This event made Rystrasz remember the name Oric for an eternity, vowing to destroy him for tricking him into saying rock music was "boring."
 
-Years later, in 1344 PA during the events of [Ascension of the Ancient](../Campaigns/caelian_trilogy.md#ascension-of-the-ancient), Rystrasz was encountered by a legendary, albeit similarly rambunctious, group known as [13](13/13.md) when they accidentally came upon the lair in which he was trapped.
+Years later, in 1344 PA during the events of [Ascension of the Ancient](../Campaigns/caelian_trilogy.md#ascension-of-the-ancient), Rystrasz was encountered by a legendary, albeit similarly rambunctious, group known as [13](13/13.md) when they accidentally came upon his prison. It is revealed the group is looking for the life-stone in the box, so he makes a deal with them to play music for him in return for the box. Secretly, he has learned that just enough musical sound needs to be played to turn the power that holds him there into an aberration, which can then be killed to be released. 13 play a concert for him, [the aberration](brasstard.md) is formed and killed, and then Rystrasz finally becomes free.
+
+Feeling thankful and mercy for the first time in thousands of years, Rystrasz chooses to not destroy 13, but rather to give them a gift for releasing him, a tablet that when broken summons him to their aid.
 
 ### Great Cataclysm
 
-### The Rystrasz Arc
+Not long after being released, 13 breaks Rystrasz's tablet, thus summoning him. Unbeknownst to the dragon, the tablet breaker, [Sorin](13/sorin.md), was under the control of [Kisiri](kisiri.md), and instead fell to the ground below the floating ruins of Kisirith to fight the Titan.
+
+While 13 and friends were duking it out with Kisiri during the final fight of the [Caelian Trilogy](../Campaigns/caelian_trilogy.md), Rystrasz was making friends with the Titan. Unfortunately, however, Rystrasz was out matched for the Titan had a stronger defense than his offense. Fairly soon Rystrasz fell, thus ending his several thousand year existence, and saving the lives of all he could destroy.
 
 ## Powers
 
-Rystrasz was a great red dragon whose powers eclipsed that of ancient dragons substantially, which essentially limited him to the same kinds of abilities as a ancient red dragon but his were much more amplified.
+Rystrasz was a great red dragon whose powers were limited to the same kinds of abilities as an ancient red dragon, however his were substantially more amplified, making him immensely more powerful and dangerous.
 
 Rystrasz was also not known as a mage by any means, despite that some of the great dragons had further magical abilities.

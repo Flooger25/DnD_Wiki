@@ -22,5 +22,6 @@ Rise of Ebrihan also shares the name of the first arc of the Caelian Trilogy. Re
 
 ## History
 
-### Prelude Events
+TODO
 
+### Prelude Events

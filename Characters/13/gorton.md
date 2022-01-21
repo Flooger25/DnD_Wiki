@@ -1,5 +1,7 @@
 # Gorton
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -22,7 +24,3 @@ Raised on the far off island of Kazrek, and one of the homelands for the halflin
 While on their travel, the Caelian Empire had sent a representative to Kazrek to attempt to obtain the island for a deal, but the rulers refused. The Empire attempted an attack, but since most of their forces were stationed in Western Meridia, they could not conquer the land. Gorton’s people prepared for another invasion.
 
 Meanwhile, Gorton’s strive to complete his adventure and write tales of epic debauchery continued when his group made it to the Eagle’s nest near the capital of the Caelian Empire. His party was put into a deadly position however, only for them to sacrifice themselves to allow Gorton to make his way undetected into the great keep. Gorton would soon run into trouble, but nothing that couldn’t be persuaded to look the other way by magic, or by Gorton’s other “Talents”. Soon, Gorton found the rising party known as “13”, and the rest is history.
-
-## Time with 13
-
-## After 13

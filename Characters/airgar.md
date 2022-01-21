@@ -24,6 +24,8 @@ Airgar was a former White Knight of the [King of the Dominion](aluuard_vidroth.m
 
 ## Description
 
+TODO
+
 ## History
 
 ### Early Life

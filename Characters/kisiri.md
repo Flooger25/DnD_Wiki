@@ -27,7 +27,7 @@ For the rest of history she became known as the Arch Witch, for there had yet to
 | Statistics | |
 | - | - |
 | Alignment | Neutral Evil |
-| Challenge Rating | 28-36 |
+| Challenge Rating | 28-32 (Epic) |
 | Class | Sorcerer 17+<br>Wizard 17+|
 
 ## History
@@ -61,6 +61,8 @@ Once enough of her soul was protected, she began her assault on the Dominion. Sh
 The new world was to begin in the heart of Kisiria, the only gift to Kisiri from Anduin being the name of the land and capital. She began to turn it into a floating city to ascend beyond the heavens, until the first wielder of the [god weapon](../Objects/fraemia.md) arrived, Andurin. A magnificent but deadly duel occurred between brother and sister, son and daughter, which claimed the lives of both Andurin and Kisiri. With Andurin's last breath, he assumed Kisiri was gone, but felt a dark magic, so he sealed a memory of himself into the god weapon, [Fraemia](../Objects/fraemia.md), in the hopes of warning of her potential return in the future.
 
 ### Slumber
+
+TODO
 
 ### Return
 

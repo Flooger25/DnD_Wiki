@@ -1,5 +1,7 @@
 # Emily
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -28,10 +30,8 @@
 
 ## Backstory
 
-## Time with "10"
-
-## Time-Skip
-
-## Time with 13
+TODO
 
 ## After 13
+
+TODO

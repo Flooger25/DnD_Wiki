@@ -50,7 +50,7 @@ Since the known existence of the Gods, four distinct ages of the world have gone
 
 ## Calendar
 
-A Pulchran year lasts 365 days over the course of 12 months. Each day is 24 hours in length and there are 7 days in a week.
+A Pulchran year lasts 365 days over the course of 12 months. Each day is 24 hours in length and there are 7 days in a week. For a full list of existing calendars, refer to [calendars](../../Events/timeline.md#calendars).
 
 ## Geography
 

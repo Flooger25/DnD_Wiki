@@ -1,5 +1,7 @@
 # Andurin
 
+TODO
+
 ![Andurin](../Media/andurin.png)
 
 | Basic Information | |
@@ -23,6 +25,14 @@
 
 ## Description
 
+TODO
+
 ## History
+
+### Early Life
+
+### Duel with Kisiri
+
+### Spiritual Return
 
 ## Powers

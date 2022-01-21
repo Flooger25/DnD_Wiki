@@ -1,4 +1,4 @@
-# Pulchran Wiki v1.5.2
+# Pulchran Wiki v1.9.0
 
 ## Intro
 
@@ -7,6 +7,8 @@ This wiki is intended to house all information related to the universe of the "S
 To view a high-level timeline of the world, observe Pulchra's [timeline](Events/timeline.md).
 
 To view a random page, click [here](https://flooger25.github.io/DnD_Wiki/random)!
+
+*Note*: Latest version updated on 10/3/2021
 
 ## Structure
 
@@ -25,6 +27,12 @@ The following is how the wiki is structured with information on each:
   - Towns - Towns, cities, and other dwellings
   - Planes - Planes of existence including dimensions and worlds/planets
 - [Objects](Objects/objects.md) - Artifacts and objects of significance
+
+### Miscellaneous
+
+- [Cosmology](Locations/Planes/cosmology.md)
+- [Time Beavers](Locations/Planes/time_beavers.md)
+- [War & Strategy](Events/war.md)
 
 ## List of pages to be written
 

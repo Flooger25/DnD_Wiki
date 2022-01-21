@@ -16,7 +16,7 @@ Below is a crude map made of the region known as the [Flats of Limbo](#the-flats
 - [Description](#description)
   - [Planar Shifts](#planar-shifts)
 - [Geography](#geography)
-- [Creatures](#calendar)
+- [Creatures](#creatures)
   - [Yugoloths](#yugoloths)
   - [Demons](#demons)
   - [Lost Souls](#lost-souls)
@@ -60,7 +60,7 @@ Many of the inhabitants of Limbo were creatures known as Yugoloths. They primari
 
 ### Demons
 
-Various demons were known to reside in this dimension. Some included Balors and others included more transcended demonic variants, such as Six's bane[](TODO).
+Various demons were known to reside in this dimension. Some included Balors and others included more transcended demonic variants, such as [Six's bane](../../Characters/centipede_demon.md).
 
 ### Lost Souls
 

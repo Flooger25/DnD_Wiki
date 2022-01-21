@@ -18,3 +18,5 @@ The Bean Team is a band of adventurers based in the Commodian Isles during the y
 | - | - |
 | Total Members | 5 |
 | Notable Members | Shep<br>Vokrund V<br>Dannus<br>Samaria<br>Ord Pyraxtallinost |
+
+TODO

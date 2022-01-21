@@ -1,5 +1,6 @@
 # Sorin Lupercal
 
+TODO
 
 | Basic Information | |
 | - | - |
@@ -39,8 +40,6 @@ Sorin ran to find his mother to make sure she was alright as his own were burned
 "You....you are why we are here. Young master, return to us…" Confused and afraid, Sorin clutching his staff and pressing it to the monsters throat asked why they were here to which the monster said, "To bring the young master home."
 
 Sorin looked around, his home on fire, hearing the screams of innocents around him "If I go with you, you will leave this place alone?" The monster nodded, and after casting a Fly spell on himself, followed the black legion into the rift in the sky. Next thing he knew he woke up in the ruins of a large modern city, and was met by its mayor, Taloraan.
-
-## Time with 13
 
 ## After 13
 

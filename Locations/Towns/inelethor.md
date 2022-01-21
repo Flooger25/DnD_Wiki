@@ -1,5 +1,7 @@
 # Inelethor
 
+TODO
+
 Inelethor in 1344 PA before the [Great Cataclysm](../../Events/great_cataclysm.md)
 
 ![Inelethor](../../Media/inelethor.png)
@@ -22,3 +24,7 @@ Inelethor in 1344 PA before the [Great Cataclysm](../../Events/great_cataclysm.m
 | 2600 4A<br>1344 PA | Destruction |
 | 31 PC | Reestablished |
 | Population | 186,000 in 1326 PA<br>192,000 in early 1344 PA<br>37,000 in late 1344 PA<br>248,000 in 162 PC |
+
+## History
+
+TODO

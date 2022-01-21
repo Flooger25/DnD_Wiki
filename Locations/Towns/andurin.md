@@ -1,5 +1,7 @@
 # Andurin <sub><sup>(city)</sup></sub>
 
+TODO
+
 | Geography | |
 | - | - |
 | Aliases | First City |
@@ -19,3 +21,7 @@
 | 1344 PA | Destruction |
 | Preceded by | First settlement |
 | Population | 128,000 in 1326 PA<br>105,000 in 1343 PA<br>7,800 in 1344 PA<br>64,000 in 162 PC  |
+
+## History
+
+TODO

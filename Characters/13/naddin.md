@@ -35,13 +35,9 @@ One day in his youth, he was walking back to town when he noticed someone gettin
 
 After years of training, Nad returned to his small hometown and stayed there for years helping those in need until eventually he decided he wasn't getting any younger, and that it was time for him to find his very own successor.
 
-## Time with "10"
-
 ## Time-Skip
 
 From 1326 to 1343 PA, Nad meets an aspiring hero named Mason and decides to make him his successor. While Mason’s training approaches completion, Nad has a dream where his master came to him and told him Evil is manifesting more and more and Mason would most likely perish if it is not stopped, so immediately Nad decides to come out of retirement and save the people he can, including Mason.
-
-## Time with 13
 
 ## After 13
 

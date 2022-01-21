@@ -67,6 +67,8 @@ The Commodian Isles consist of 12 islands of various size and history:
 
 ## Independent States
 
+TODO
+
 ### Old Unified Commodia
 
 ### Brasshaven

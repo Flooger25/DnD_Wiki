@@ -1,35 +1,47 @@
 # Timeline
 
-This article details the timeline of the world of [Pulchra](../Locations/Planes/pulchra.md) and the multiverse itself. It also compares different calenders one might see on various articles.
+This article details the timeline of the world of [Pulchra](../Locations/Planes/pulchra.md), and the multiverse itself, while also comparing the definitions and relationships between different [calendars](#calendars) used in the worlds.
 
-## Calendar Comparison
+## Contents
 
-| [4th Age](#4th---age-of-the-ancients) | Post-[Anduin](../Characters/anduin_the_great.md#arrival-to-caelus) | Post-[Cataclysm](great_cataclysm.md) | [5th Age](#5th---age-of-the-kings) | Year of [Moradin](../Factions/Religions/gods.md#the-dwarven-pantheon) |
-|-|-|-|-|-|
-| 0 | -1256 | -2600 | -2600 | 900 |
-| 1256 | 0 | -1368 | -1344 | 2156 |
-| 2582 | 1326 | -42 | -18 | 3482 |
-| 2600 | 1344 | -24 | 0 | 3500 |
-| | 1368 | 0 | 24 | 3524 |
-| | 1530 | 162 | 186 | 3686 |
+- [Ages of Pulchra](#ages-of-pulchra)
+  - [1st - Age of the Angels](#1st---age-of-the-angels)
+  - [2nd - Age of the Keepers](#2nd---age-of-the-keepers)
+  - [3rd - Age of Stillness](#3rd---age-of-stillness)
+  - [4th - Age of the Ancients](#4th---age-of-the-ancients)
+  - [5th - Age of the Kings](#5th---age-of-the-kings)
+- [Calendars](#description)
+  - [Calendar Groups](#calendar-groups)
+    - [Primary Calendars](#primary-calendars)
+    - [Secondary Calendars](#secondary-calendars)
+    - [Tertiary Calendars](#tertiary-calendars)
+  - [Calendar Descriptions](#calendar-descriptions)
+    - [Post-Anduin](#post-anduin)
+    - [Post-Cataclysm](#post-cataclysm)
+    - [Year of Moradin](#year-of-moradin)
+- [Years of Significance](#years-of-significance)
 
 ## Ages of Pulchra
 
 ### [1st - Age of the Angels]
 
+- Description - The 1st Age is defined simply by the birth of the world, Pulchra, up until the 2nd Age. If the gods ever walked the realm, this was then.
 - Length - Thousands to millions of years
 
 ### [2nd - Age of the Keepers]
 
-- Length - 12600 years
+- Description - The 2nd Age is defined purely by its astronomical relationship with the neighboring star, Olirion, and when Pulchra's star, Lycicla, shared the same X-Y coordinate relative to the galactic center.
+- Length - 12613 years
 
 ### [3rd - Age of Stillness]
 
+- Description - The 3rd Age is considered the pre-historic time of the world. Most races either didn't exist during this time or did not exist in their modern form, but were rather in their ancestral forms. Because the world seemed quiet due to intelligent creatures still being in their infancy, the 3rd Age also became known as the Age of Stillness. This time is also known as the era in which the Dwarves ruled the realm, for they were the only race with substantial technology and structured large scale societies. It is not known when exactly this age started, but what is known is that the Dwarves of Moradin were birthed into the world about 900 years prior to the end of the age.
 - Length - 900-10000 years
 - 900 years before End - Dwarves of Moradin born
 
 ### [4th - Age of the Ancients]
 
+- Description - The 4th Age is described as the time before civilization truly settled, and before races of the world began to explore the rest of Pulchra.
 - Length - 2600 years
 - Start - First elves and humans.
 - [Caelian Trilogy](../Campaigns/caelian_trilogy.md):
@@ -38,8 +50,111 @@ This article details the timeline of the world of [Pulchra](../Locations/Planes/
   - 2599-2600 - Ascension of the Ancient
 - End - [Great Cataclysm](great_cataclysm.md)
 
+#### Bronze Age 0-1100
+
+#### Flourish of Magic 1100-1400
+
+#### Great Meridian Migration 1400-1700
+
+#### Iron Age 1700-2588
+
+#### Fall of Meridia 2588-2600
+
 ### [5th - Age of the Kings]
 
+- Description - The 5th Age is the time that races of the world explored and colonized the rest of the world. Many of the ancient nations and empires of the 4th Age by now have fallen, dissolved, or have been integrated enough such that no remnants of the old world are left.
 - Length - 3126+ years
 - Start - Great Cataclysm
 - 186 - [Commodian Tales](../Campaigns/commodian_tales.md)
+- 416 - [Starlight](../Campaigns/starlight.md)
+
+#### Great Cataclysm 0-24
+
+#### Reconstruction 24-182
+
+#### Age of Empires 182-302
+
+#### Age of Republics 302-416
+
+## Calendars
+
+**NOTE:** Common Pulchran Year is simply a common year (starting at the 5th Age) to compare all calendars, agnostic of whether a calendar is still relevant in a given year or not.
+
+### Calendar Groups
+
+#### Primary Calendars
+
+Primary calendars are used at a multiversal level.
+
+| Common Pulchran Year | Limbo |
+| - | - |
+| 0 | 4,578,283,111 |
+
+#### Secondary Calendars
+
+Secondary calendars are meaningful to a single world, typically Pulchra.
+
+| Common Pulchran Year | [Year of Moradin](#year-of-moradin) | [4th Age](#4th---age-of-the-ancients) | [5th Age](#5th---age-of-the-kings) |
+| - | - | - | - |
+| 0 | 3,500 | 2,600 | 0 |
+
+#### Tertiary Calendars
+
+Tertiary calendars are used by local continents, nations, cultures, and races.
+
+| Common Pulchran Year | [Post-Anduin](#post-anduin) | [Post-Cataclysm](#post-cataclysm) |
+| - | - | - |
+| 0 | 1,344 | -24 |
+
+### Calendar Descriptions
+
+Below are different calendars used in the multiverse of the world of Pulchra, and information pertinent to said calendars.
+
+#### Post-Anduin
+
+Post-Anduin refers to the time after [Anduin's arrival to Caelus](../Characters/anduin_the_great.md#arrival-to-caelus) during the 4th Age of Pulchra. It was primarily used by Caelians during the existence of the Dominion of Anduin, but was replaced at the turn of the 5th Age by the usage of [post-cataclysm](#post-cataclysm).
+
+#### Post-Cataclysm
+
+The Post-Cataclysm calendar refers to the time after the end of the [Great Cataclysm](great_cataclysm.md). This time was primarily used by those directly affected by the cataclysm, and slowly died out as a primary calendar several centuries after the event.
+
+#### Year of Moradin
+
+The Moradin calendar, or more commonly referred to as the Year of Moradin, represents the time after the dwarvan God [Moradin](../Factions/Religions/gods.md#the-dwarven-pantheon)'s creation of the dwarvish race. It is one of the oldest calendars, for it began sometime in the 3rd Age of Pulchra.
+
+## Years of Significance
+
+**TODO** Create a page for every relevant year
+
+| CPY | YoM | 4A | 5A | PC | PA |
+| - | - | - | - | - | - |
+| -3500 | 0 |
+| -2,600 | 900 | 0 |
+| -1777 | 1723 | 823
+| -1,344 | 2156 | 1256 | | | 0 |
+| -1184 | 2316 | 1416 | | | 160 |
+| -882 | 2618 | 1718 | | | 462 |
+| -481 | 3019 | 2119 | | | 863 |
+| -156 | 3344 | 2444 | | | 1188 |
+| -81 | 3419 | 2519 | | | 1263 |
+| -74 | 3426 | 2526 | | | 1270 |
+| -71 | 3429 | 2529| | | 1273 |
+| -64 | 3436 | 2536 | | | 1280 |
+| -55 | 3445 | 2545 | | | 1289 |
+| -53 | 3447 | 2547 | | | 1291 |
+| -38 | 3462 | 2562 | | | 1306 |
+| -29 | 3471 | 2571 | | | 1315 |
+| -26 | 3474 | 2574 | | | 1318 |
+| -18 | 3482 | 2582 | -18 | -42 | 1326 |
+| -12 | 3488 | 2588 | -12 | -36 | 1332 |
+| 0 | 3500 | 2600 | 0 | -24 | 1344|
+| 3 | 3503  | | 3 | -21 |
+| 24 | 3524  | | 24 | 0 |
+| 82 | 3582  | | 82 | 58 |
+| 115 | 3615  | | 115 | 91 |
+| 182 | 3682 | | 182 | 158 |
+| 186 | 3686 | | 186 | 162 |
+| 302 | 3802 | | 302 | 278 |
+| 344 | 3844 | | 344 |
+| 360 | 3860 | | 360 |
+| 416 | 3916 | | 416 |

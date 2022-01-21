@@ -1,5 +1,7 @@
 # Romat
 
+TODO
+
 | Basic Information | |
 | - | - |
 | Type | Player Character |
@@ -19,7 +21,3 @@
 
 Romat, born from a small village in Central Meridia, was 12 when he discovered that a particular forest hermit was a mage. Romat would than ask if he could become the apprentice to said mage, to which the mage agreed, if he entered a magical contract. Romat would than learn that the man practiced a taboo magic know as necromancy.
 20 years later, and now an accomplished necromancer himself, Romat buried his master's body, and started roaming the land in search of power, and an apprentice of his own. Eventually Romat decided to travel out of the lands to his knowledge, and after many months arrived to an island known as Pelrock Isle. He came across a funeral in the village Dorren, and decided to study funeral rituals of different cultures, only to meet his new allies on his life changing adventure.
-
-## Time with 13
-
-## After 13

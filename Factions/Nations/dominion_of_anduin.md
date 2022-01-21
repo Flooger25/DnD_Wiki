@@ -1,10 +1,13 @@
 # Dominion of Anduin
 
+TODO
+
 ![Dominion Map](../../Media/dominion_of_anduin.png)
 
 | General Information | |
 | - | - |
 | Full name | The Dominion of Anduin |
+| Alias(es) | The Old Dominion |
 | Type | Absolute-Monarchy |
 | Capital | Andurin |
 | Sub-states | Athal<br>Ebrihan<br>Kisiria<br>Yagocryne<br>Lindoline<br>Ashein<br>Northern Fields
@@ -28,6 +31,8 @@
 | 1326 PA | 10,600,000 |
 
 ## Description
+
+TODO
 
 ## Geography
 
