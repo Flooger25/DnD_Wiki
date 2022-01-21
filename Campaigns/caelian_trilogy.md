@@ -30,7 +30,7 @@ The Caelian Trilogy is a trilogy of three fast-paced and short adventures whose 
 ## NPCs
 
 - Protagonists
-  - Randy
+  - [Randy](../Characters/randy_randy.md)
   - Liana
   - Eilis Vidroth II
   - Lord Saywin Belda
