@@ -15,10 +15,13 @@
           </span>
         </section>
       {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
+        {% if page.tipue_search_active or layout.tipue_search_active -%}
+        {% else %}
+          <div id="no-downloads">
+            <span class="inner">
+            </span>
+          </div>
+        {% endif -%}
       {% endif %}
 
       <span class="banner-fix"></span>
