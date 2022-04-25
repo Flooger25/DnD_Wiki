@@ -15,8 +15,6 @@ tipue_search:
     files: [index.md, search.html, random.html]
 
 # Build settings
-plugins:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
