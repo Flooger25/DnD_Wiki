@@ -1,8 +1,4 @@
----
-title: Pulchra
----
-
-# Pulchra Title
+# Pulchra
 
 Known as the Pearl of the Angels, Pulchra was the greatest achievement of an unknown species of divine beings. The planet was the embodiment of beauty and the source of attraction for the all-powerful overgods and other angels. Pulchra acts as the primary planet for the events of the various adventure campaigns and that of the ["Super Campaign"](../../Campaigns/super_campaign.md).
 
