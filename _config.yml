@@ -6,3 +6,15 @@ theme: jekyll-theme-merlot
 
 random_redirect:
   pages: true
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [index.md, search.html, random.html]
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
