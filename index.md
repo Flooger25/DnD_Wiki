@@ -1,4 +1,4 @@
-# Pulchran Wiki v1.8.0
+# Pulchran Wiki v1.9.0
 
 ## Intro
 

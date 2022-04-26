@@ -5,6 +5,7 @@ Six is a wood elf blood hunter born in Northern Meridia in 1028 PA (2284 4A) who
 | Basic Information | |
 | - | - |
 | Type | Player Character |
+| Title(s) | Six<br>The Baddest Bitch |
 | Adventuring party | [13](13.md) |
 | Sex | Male |
 | Race | Wood Elf |
