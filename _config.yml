@@ -15,6 +15,6 @@ tipue_search:
     files: [index.md, search.html, random.html]
 
 # Build settings
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
