@@ -6,7 +6,7 @@ TODO
 | - | - |
 | Type | Mercantile Corporation |
 | Base of operations | [Orham](../../Locations/Towns/orham.md), [Ebrihan](../../Locations/Land/caelus.md#ebrihan) |
-| Leader(s) | [Randy](../../Characters/randy.md) |
+| Leader(s) | [Randy](../../Characters/randy_randy.md) |
 | Formed | 1326 PA |
 | Age | 204 in 162 PC |
 

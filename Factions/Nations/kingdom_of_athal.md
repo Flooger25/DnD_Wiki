@@ -1,6 +1,6 @@
 # Kingdom of Athal
 
-During the events of the great cataclysm, Athal was an anarchy state not absorbed into the Caelian Union. In 9 5A, the collective powers of Northern and Central Meridia claimed the Athal region of their own, which resulted in conflicts in the channel between the regions. Since Athal was not a formed state, they fell to the Meridian powers within months. For the following 63 years, Athal was ruled brutally by the Meridians, until the political influence of Eastern Meridia's [Six](../../Characters/13/six.md) and his [Mors Marauders](../../Factions/Organizations/mors_marauders.md). In 72 5A, Athal was given independence, and the Kingdom of Athal was formed.
+The Kingdom of Athal is a [Caelian](../../Locations/Land/caelus.md) nation founded from the ruins of the [Caelian Empire](./caelian_empire.md) at the beginning of the [5th Age](../../Events/timeline.md#5th---age-of-the-kings).
 
 ![Caelus 5th Age](../../Media/caelus_5th_age.png)
 
@@ -28,6 +28,15 @@ During the events of the great cataclysm, Athal was an anarchy state not absorbe
 | - | - |
 | 186 5A | 4,526,000 |
 
+## Contents
+
+- [History](#history)
+  - [Formation](#formation)
+
 ## History
+
+### Formation
+
+During the events of the [great cataclysm](../../Events/great_cataclysm.md), Athal was an anarchy state not yet absorbed into the Caelian Union. In 9 5A, the collective powers of Northern and Central Meridia claimed the Athal region of their own, which resulted in conflicts in the channel between the regions. Since Athal was not a formed state, they fell to the Meridian powers within months. For the following 63 years, Athal was ruled brutally by the Meridians, until the political influence of Eastern Meridia's [Six](../../Characters/13/six.md) and his [Mors Marauders](../../Factions/Organizations/mors_marauders.md). In 72 5A, Athal was given independence, and the Kingdom of Athal was formed.
 
 TODO

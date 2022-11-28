@@ -39,7 +39,7 @@ TODO
 
 ### Shops
 
-- [Randy Randy-Handy Randy-Randy's Randy
+- [Randy Randy-Handy Randy-Randy's
 Incorporated](../../Factions/Organizations/randys_co.md)
 
 ### Other Locations

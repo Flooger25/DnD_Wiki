@@ -66,7 +66,7 @@ With the reformation and birth of the Caelian Empire in 1326 PA, a new wave of n
 
 #### Invasion of the East
 
-The war begun in 1332 PA with the invasion of the nearby island nations by the Caelian Empire. This included locations such as Pegren, the [Commodian Isles](../Locations/Land/commodian_isles.md), and the Eastern Isles.
+The war begun in 1332 PA with the invasion of the nearby island nations by the Caelian Empire. This included locations such as Pegren, the [Commodian Isles](../Locations/Land/commodian_isles.md#eastern-invasion), and the Eastern Isles.
 
 With the political division amongst the regions of Meridia during the end of the 4th Age, no nations had come to the aid of these smaller governments, and because of this the islands fell very quickly. In response, Northern Meridia had banded together and begun armament for their own defense, incase the Empire had targeted them, but it was already too late.
 

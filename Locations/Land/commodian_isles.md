@@ -22,6 +22,23 @@ The Commodian Isles are a collection of islands in the heart of the [South Easte
 | - | - |
 | 162 PC | 626,807 |
 
+## Contents
+
+- [Geography](#geography)
+- [History](#history)
+  - [Full Timeline](#full-timeline)
+  - [Early Age](#early-age)
+  - [4th Age](#4th-age)
+  - [Eastern Invasion](#eastern-invasion)
+  - [Great Cataclysm](#great-cataclysm)
+  - [Post Cataclysm](#post-cataclysm)
+- [Independent States](#independent-states)
+  - [Old Unified Commodia](#old-unified-commodia)
+  - [Brasshaven](#brasshaven)
+  - [(New) Unified Commodia](#new-unified-commodia)
+  - [Helrock](#helrock)
+  - [Kausso](#kausso)
+
 ## Geography
 
 The Commodian Isles consist of 12 islands of various size and history:
@@ -40,6 +57,8 @@ The Commodian Isles consist of 12 islands of various size and history:
 - Unknown
 
 ## History
+
+### Full Timeline
 
 **Note**: Before New Era (BNE) refers to the time before the ["Invasion of the East"](../../Events/meridian_wars.md#invasion-of-the-east) of the Isles.
 
@@ -64,6 +83,16 @@ The Commodian Isles consist of 12 islands of various size and history:
 - 158 PC - Mors Marauders set up guild in Brasshaven.
 - 158 PC - Legion of Man formed.
 - 162 PC - Start of [Commodian Tales](../../Campaigns/commodian_tales.md)
+
+### Early Age
+
+### 4th Age
+
+### Eastern Invasion
+
+### Great Cataclysm
+
+### Post Cataclysm
 
 ## Independent States
 

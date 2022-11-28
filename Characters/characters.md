@@ -19,7 +19,7 @@ This page outlines the existing articles of characters in the wiki. This page in
 | Character | First Appearance |
 | - | - |
 | Liana [](TODO) | [RoE](../Campaigns/caelian_trilogy.md#rise-of-ebrihan) |
-| Randy [](TODO) | RoE |
+| [Randy](randy_randy.md)) | RoE |
 | [Eilis Vidroth II](eilis_vidroth.md) | RoE |
 | [Lord Belda](saywin_belda.md) | RoE |
 | [Oric Valdes](oric_valdes.md) | RoE |
