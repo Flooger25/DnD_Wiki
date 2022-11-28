@@ -22,8 +22,8 @@ Below is a visual of the Empire's growth in power during it's invasion of Meridi
 | Established | 1326 PA |
 | Disestablished | 1344 PA (17 years) |
 | Predecessor | [Dominion of Anduin](dominion_of_anduin.md) |
-| Successor | Caelian Union<br>Librated Meridian States<br>Kingdom of Athal |
-| Notable events | Rise of Ebrihan<br>Local Purge<br>[Meridian Wars](../../Events/meridian_wars.md)<br>Death of the High Lord<br>[Great Cataclysm](../../Events/great_cataclysm.md) |
+| Successor | [Caelian Union](./caelian_union.md)<br>Librated Meridian States<br>[Kingdom of Athal](./kingdom_of_athal.md) |
+| Notable events | [Rise of Ebrihan](../../Events/rise_of_ebrihan.md)<br>Local Purge<br>[Meridian Wars](../../Events/meridian_wars.md)<br>Death of the High Lord<br>[Great Cataclysm](../../Events/great_cataclysm.md) |
 
 | Area | |
 | - | - |
@@ -47,6 +47,18 @@ Below is a visual of the Empire's growth in power during it's invasion of Meridi
 | Ground troops | 100,000 - 480,000 |
 | Naval troops | 110,000 - 300,000 |
 | Ships | 2200 in 1335 PA<br>6000 in 1344 PA |
+
+## Contents
+
+- [Description](#description)
+- [Geography](#geography)
+- [Government](#government)
+- [History](#history)
+  - [Rise of Ebrihan](#rise-of-ebrihan)
+  - [Local Purge](#local-purge)
+  - [Meridian Wars](#meridian-wars)
+  - [Death of the High Lord and Great Cataclysm](#death-of-the-high-lord-and-great-cataclysm)
+  - [Legacy](#legacy)
 
 ## Description
 

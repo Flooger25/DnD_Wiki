@@ -86,9 +86,7 @@ During this time period, due to the outcome of the Meridian Wars and that of the
 
 #### Reconstruction (24-182)
 
-#### Rise of Imperialism (182-186)
-
-After years of hiding within the Commodian Isles, the Caelian Empire's Marshall of the West, Aylmar Sylren, was revealed to the world, and with him imperialist loyalists in surrounding nations.
+#### Commodian Tales (182-186)
 
 #### Mavell Conquests (186-208)
 
