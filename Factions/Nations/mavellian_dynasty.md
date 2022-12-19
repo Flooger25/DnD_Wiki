@@ -16,6 +16,7 @@ Ronin's life was cut short when he died of disease in 28 5A, however, his legacy
 
 | General Information | |
 | - | - |
+| ![Mavell Dynasty](../../Media/mavellian_dynasty_flag_designer.png) |
 | Type | Absolute-Monarchy |
 
 | History | |
