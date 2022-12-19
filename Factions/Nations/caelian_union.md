@@ -1,6 +1,8 @@
 # Caelian Union
 
-After the fall of the Caelian Empire, the eastern regions banded together to form the [Caelian Union](../../Factions/Nations/caelian_union.md). They existed as a puppet state during the first few decades of the 5th Age, until they were granted complete independence by Eastern Meridia in 51 5A.
+![Caelian Union](../../Media/caelian_union_tennessine.png)
+
+After the fall of the [Caelian Empire](./caelian_empire.md), the eastern regions banded together to form the [Caelian Union](../../Factions/Nations/caelian_union.md). They existed as a puppet state during the first few decades of the 5th Age, until they were granted complete independence by Eastern Meridia in 51 5A.
 
 ![Caelus 5th Age](../../Media/caelus_5th_age.png)
 
