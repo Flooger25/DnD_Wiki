@@ -1,4 +1,4 @@
-# Pulchran Wiki v1.11.1
+# Pulchran Wiki v1.12.0
 
 ## Intro
 
@@ -30,6 +30,7 @@ The following is how the wiki is structured with information on each:
 
 ### Miscellaneous
 
+- [Timeline](Events/timeline.md)
 - [Cosmology](Locations/Planes/cosmology.md)
 - [Time Beavers](Locations/Planes/time_beavers.md)
 - [War & Strategy](Events/war.md)

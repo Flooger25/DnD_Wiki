@@ -2,12 +2,6 @@
 
 ![Mavell Dynasty](../../Media/mavellian_dynasty_flag_designer.png)
 
-<!-- <img src="../../Media/mavellian_dynasty_flag_designer.png" alt="Mavell Dynasty" class="center"/>
-
-<p align="center">
-  <img src="../../Media/mavellian_dynasty_flag_designer.png" />
-</p> -->
-
 The Mavell Dynasty, and often known simply as the Mavellian Empire, was a world power that existed during the first 4 centuries of the 5th Age of Pulchra and controlled much of the [Old World](../../Locations/Land/old_world.md) at the time. Born from the chaos following the end of the [Meridian Wars](../../Events/meridian_wars.md), the Mavell Dynasty was formed from the unification and conquering of leftover [Western Meridian States](meridian_states.md) following the fall of the [Caelian Empire](./caelian_empire.md).
 
 As the Meridian Wars were coming to a close, and the Caelians were taking cities from the coast, the unified alliance of the Western Meridians quickly fell apart. During this chaos, the top general from the Shirian state, Ronin Garrik Mavell, quickly took claim to varying estates and strongholds. With enough teritory claimed and consolidated, his newly formed "Empire of Ronin Mavell" was able to garner support for annexation of further lands through the promise of increased food production and distribution to alleviate the pain of the [Great Cataclysm](../../Events/great_cataclysm.md).
@@ -16,7 +10,6 @@ Ronin's life was cut short when he died of disease in 28 5A, however, his legacy
 
 | General Information | |
 | - | - |
-| ![Mavell Dynasty](../../Media/mavellian_dynasty_flag_designer.png) |
 | Type | Absolute-Monarchy |
 
 | History | |

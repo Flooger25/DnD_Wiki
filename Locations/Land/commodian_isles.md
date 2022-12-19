@@ -32,6 +32,7 @@ The Commodian Isles are a collection of islands in the heart of the [South Easte
   - [Eastern Invasion](#eastern-invasion)
   - [Great Cataclysm](#great-cataclysm)
   - [Post Cataclysm](#post-cataclysm)
+  - [Commodian Tales](#commodian-tales)
 - [Independent States](#independent-states)
   - [Old Unified Commodia](#old-unified-commodia)
   - [Brasshaven](#brasshaven)
@@ -93,6 +94,8 @@ The Commodian Isles consist of 12 islands of various size and history:
 ### Great Cataclysm
 
 ### Post Cataclysm
+
+### Commodian Tales
 
 ## Independent States
 

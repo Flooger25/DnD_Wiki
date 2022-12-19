@@ -66,15 +66,15 @@ This article details the timeline of the world of [Pulchra](../Locations/Planes/
 - Length - 3126+ years
 - Start - Great Cataclysm
 - 186 - [Commodian Tales](../Campaigns/commodian_tales.md)
-- 416 - [Starlight](../Campaigns/starlight.md)
+- 316 - [Starlight](../Campaigns/starlight.md)
 
 #### Great Cataclysm 0-24
 
 #### Reconstruction 24-182
 
-#### Age of Empires 182-302
+#### Age of Empires 182-202
 
-#### Age of Republics 302-416
+#### Age of Republics 202-316
 
 ## Calendars
 
@@ -154,7 +154,7 @@ The Moradin calendar, or more commonly referred to as the Year of Moradin, repre
 | 115 | 3615  | | 115 | 91 |
 | 182 | 3682 | | 182 | 158 |
 | 186 | 3686 | | 186 | 162 |
-| 302 | 3802 | | 302 | 278 |
-| 344 | 3844 | | 344 |
-| 360 | 3860 | | 360 |
-| 416 | 3916 | | 416 |
+| 202 | 3702 | | 202 | 278 |
+| 244 | 3744 | | 244 |
+| 260 | 3760 | | 260 |
+| 316 | 3816 | | 316 |
