@@ -86,7 +86,7 @@ During this time period, due to the outcome of the Meridian Wars and that of the
 
 #### First Western Migration (24-29)
 
-A great migration occurred, leaving the core regions of the Old World behind and expanding the map itself. Regions such as Ismaia, Iptiyabur,and even beyond Grancana saw a great increase in settlers.
+A great migration occurred, leaving the core regions of the Old World behind and expanding the map itself. Regions such as Ismaia, Iptiyabur, and even beyond Grancana saw a great increase in settlers.
 
 #### Reconstruction & Colonization (29-182)
 
@@ -104,7 +104,7 @@ For the next several years, the Mavell Dynasty had crushed, conquered, and absor
 
 #### Age of the Titans (244-272)
 
-In 344, a no name adventure group was formed in a small village in Protar. Over its 28 year time frame, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again. They became known as the Titans outside of their homeland, and eventually became deterrents of war between nations due to their power and respect attained. This would be the first time a world-influencing adventure party would exist since 13, but it also wouldn't be the last.
+In 344, a no name adventure group was formed in a small village in Protar. Over its 28 year time frame, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again. They became known as the Titans outside of their homeland, and eventually became deterrents of war between nations due to their power and respect attained. This would be the first time a world-influencing adventure party would exist since [13](../../Characters/13/13.md), but it also wouldn't be the last.
 
 #### Time of the Adventurers (272-316)
 
