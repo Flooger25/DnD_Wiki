@@ -6,7 +6,7 @@ The Mavell Dynasty, and often known simply as the Mavellian Empire, was a world 
 
 As the Meridian Wars were coming to a close, and the Caelians were taking cities from the coast, the unified alliance of the Western Meridians quickly fell apart. During this chaos, the top general from the Shirian state, Ronin Garrik Mavell, quickly took claim to varying estates and strongholds. With enough teritory claimed and consolidated, his newly formed "Empire of Ronin Mavell" was able to garner support for annexation of further lands through the promise of increased food production and distribution to alleviate the pain of the [Great Cataclysm](../../Events/great_cataclysm.md).
 
-Ronin's per was short lived when he died of disease in 28 5A, however, his legacy lived on through his children, which aptly referred to the still young empire as the Mavell Dynasty.
+Ronin's life was cut short when he died of disease in 28 5A, however, his legacy lived on through his children, which aptly referred to the still young empire as the Mavell Dynasty.
 
 | General Information | |
 | - | - |

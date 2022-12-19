@@ -84,31 +84,29 @@ One of the warring lords, and considered the most successful conquerer of the la
 
 During this time period, due to the outcome of the Meridian Wars and that of the cataclysm, the unified Western Meridia had fallen to pieces. Similar to the rest of the Old World, Western Meridia had now been divided into smaller territories governed by local Meridia lords. Western Meridia would never be united again, until the New Iptian Alliance.
 
-#### Reconstruction (24-182)
+#### First Western Migration (24-29)
 
-#### Commodian Tales (182-186)
+A great migration occurred, leaving the core regions of the Old World behind and expanding the map itself. Regions such as Ismaia, Iptiyabur, and even beyond Grancana saw a great increase in settlers.
 
-#### Mavell Conquests (186-208)
+#### Reconstruction & Colonization (29-182)
+
+#### Commodian Tales (182-188)
+
+#### Mavell Conquests (188-202)
 
 With tensions high in the South Western Corner of the world, all it took was a spark of aggression for total war to occur. This spark was the ascendence of Maldwyn Mavell as King of the Mavell dynasty. He believed it was Mavell's right to rule all that which is seen by the Gods, therefore he begun war with his neighbors.
 
 For the next several years, the Mavell Dynasty had crushed, conquered, and absorbed surrounding kingdoms into its own. Even after the death of Maldwyn in combat, the empire had slowly grown for the next several generations, extending its influential reach. Despite not conquering the east as Maldwyn would have wanted, the Old World was still theirs to take.
 
-#### First Western Migration (208-213)
+#### Wars of Independence (202-211)
 
-A great migration occurred, leaving the core regions of the Old World behind and expanding the map itself. Regions such as Ismaia, Iptiyabur,and even beyond Grancana saw a great increase in settlers.
+#### New Iptian Alliance (211-244)
 
-#### Colonization?? (213-302)
+#### Age of the Titans (244-272)
 
-#### Wars of Independence (302-311)
+In 344, a no name adventure group was formed in a small village in Protar. Over its 28 year time frame, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again. They became known as the Titans outside of their homeland, and eventually became deterrents of war between nations due to their power and respect attained. This would be the first time a world-influencing adventure party would exist since [13](../../Characters/13/13.md), but it also wouldn't be the last.
 
-#### New Iptian Alliance (311-344)
-
-#### Age of the Titans (344-372)
-
-In 344, a no name adventure group was formed in a small village in Protar. Over its 28 year time frame, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again. They became known as the Titans outside of their homeland, and eventually became deterrents of war between nations due to their power and respect attained. This would be the first time a world-influencing adventure party would exist since 13, but it also wouldn't be the last.
-
-#### Time of the Adventurers (372-416)
+#### Time of the Adventurers (272-316)
 
 ## Demographics
 
