@@ -88,17 +88,17 @@ During this time period, due to the outcome of the Meridian Wars and that of the
 
 A great migration occurred, leaving the core regions of the Old World behind and expanding the map itself. Regions such as Ismaia, Iptiyabur, and even beyond Grancana saw a great increase in settlers.
 
-#### Reconstruction & Colonization (29-182)
+#### Reconstruction & Colonization (29-153)
 
-#### Commodian Tales (182-188)
-
-#### Mavell Conquests (188-202)
+#### Mavell Conquests (153-186)
 
 With tensions high in the South Western Corner of the world, all it took was a spark of aggression for total war to occur. This spark was the ascendence of Maldwyn Mavell as King of the Mavell dynasty. He believed it was Mavell's right to rule all that which is seen by the Gods, therefore he begun war with his neighbors.
 
 For the next several years, the Mavell Dynasty had crushed, conquered, and absorbed surrounding kingdoms into its own. Even after the death of Maldwyn in combat, the empire had slowly grown for the next several generations, extending its influential reach. Despite not conquering the east as Maldwyn would have wanted, the Old World was still theirs to take.
 
-#### Wars of Independence (202-211)
+#### Commodian Tales (186-188)
+
+#### Wars of Independence (188-211)
 
 #### New Iptian Alliance (211-244)
 
