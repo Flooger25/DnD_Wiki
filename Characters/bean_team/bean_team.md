@@ -1,6 +1,6 @@
 # Bean Team
 
-The Bean Team is a band of adventurers based in the Commodian Isles during the year 162 PC (186 5A). For a full history of the party, view the [bean_team.docx](bean_team.docx).
+The Bean Team is a band of adventurers based in the Commodian Isles during the year 162 PC (186 5A) and 164 PC. For a full history of the party, view the [Bean Team Doc](https://docs.google.com/document/d/1ummvMNLq5VZ7_VygZOAgWd8k-lEXE6Xtnl1r-1Vrxug).
 
 | Basic Information | |
 | - | - |
@@ -17,6 +17,6 @@ The Bean Team is a band of adventurers based in the Commodian Isles during the y
 | Membership | |
 | - | - |
 | Total Members | 5 |
-| Notable Members | Shep<br>Vokrund V<br>Dannus<br>Samaria<br>Ord Pyraxtallinost |
+| Notable Members | Ord Pyraxtallinost<br>Dawn<br>Samaria Venga<br>Pok<br>Tazirin Onyxstone<br>Ormyn Stonelight |
 
 TODO

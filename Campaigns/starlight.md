@@ -1,6 +1,6 @@
 # Starlight
 
-Starlight is the third campaign taking place on the world of [Pulchra](../Locations/Planes/pulchra.md) and during the year 416 of the 5th Age. It is a multi-party campaign starring two adventuring groups in different locations of the Ismaian region in the [Old World](../Locations/Land/old_world.md). It follows a 5 Act structure, each with its distinct flavor and mood.
+Starlight is the third campaign taking place on the world of [Pulchra](../Locations/Planes/pulchra.md) and during the year 316 of the 5th Age. It is a multi-party campaign starring two adventuring groups in different locations of the Ismaian region in the [Old World](../Locations/Land/old_world.md). It follows a 5 Act structure, each with its distinct flavor and mood.
 
 | Basic Information | |
 | - | - |
@@ -45,14 +45,4 @@ words for intro here
 
 ## Arcs
 
-Below are the 5 arcs/acts for the story and their 3 sub-chapters within.
-
-### Act I - A New World
-
-### Act II - Poetic Realism
-
-### Act III - Red Sky
-
-### Act IV - The Cleverest Note
-
-### Act V - Heroes
+There are 6 arcs/acts.
