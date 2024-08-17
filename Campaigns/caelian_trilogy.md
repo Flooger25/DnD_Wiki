@@ -110,7 +110,9 @@ Our adventure starts nearly four decades later, in an age of regrowth and hope, 
 
 ### RoE Plot
 
-TODO
+The Rise of Ebrihan opens with a newly formed party at the inn in the little fishing town of Casta in the Ebrihan region of the continent island Caelus. They have been tasked with contacting an informant with a very secretive information.
+
+TODO more details.
 
 ## Death of a Dragon
 
