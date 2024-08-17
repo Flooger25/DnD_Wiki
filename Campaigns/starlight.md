@@ -45,14 +45,4 @@ words for intro here
 
 ## Arcs
 
-Below are the 5 arcs/acts for the story and their 3 sub-chapters within.
-
-### Act I - A New World
-
-### Act II - Poetic Realism
-
-### Act III - Red Sky
-
-### Act IV - The Cleverest Note
-
-### Act V - Heroes
+There are 6 arcs/acts.
