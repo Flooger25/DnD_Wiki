@@ -30,6 +30,23 @@ The Meridian Wars was a collection of invasions of [Meridian](../Locations/Land/
 | - | - |
 | 600,000 troops | 1.1-1.4 million troops<br>7.4-7.5 million civilians |
 
+## Contents
+
+- [Meridian Wars](#meridian-wars)
+  - [Contents](#contents)
+  - [Location](#location)
+  - [History](#history)
+    - [Causes](#causes)
+    - [War](#war)
+      - [Invasion of the East](#invasion-of-the-east)
+      - [Invasion of Meridia](#invasion-of-meridia)
+      - [Beginning of the End](#beginning-of-the-end)
+    - [Aftermath](#aftermath)
+  - [Statistics](#statistics)
+    - [Military forces per year](#military-forces-per-year)
+    - [Military losses per year](#military-losses-per-year)
+    - [Naval strength per year](#naval-strength-per-year)
+
 ## Location
 
 The Meridian Wars took place in the South Eastern Corner of Pulchra in locations such as [Caelus](../Locations/Land/caelus.md), the [Commodian Isles](../Locations/Land/commodian_isles.md), Pegren, the Eastern Isles, and [Meridia](../Locations/Land/meridia.md).

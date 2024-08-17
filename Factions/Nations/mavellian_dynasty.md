@@ -33,4 +33,12 @@ Ronin's life was cut short when he died of disease in 28 5A, however, his legacy
 
 ## History
 
-TODO
+### Pre-Cursor
+
+### Unification of Ronin I (3-28)
+
+### TODO
+
+### Rule of Zun Mavell ()
+
+### 

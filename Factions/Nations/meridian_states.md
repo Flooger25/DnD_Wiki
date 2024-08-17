@@ -3,11 +3,17 @@
 The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, including the rise and fall of states. This article details the information on the different states in the region of Meridia.
 
 ## Contents
+- [Meridian States](#meridian-states)
+  - [Contents](#contents)
+  - [Northern Meridia](#northern-meridia)
+  - [Western Meridia](#western-meridia)
+  - [Central Meridia](#central-meridia)
+  - [Eastern Meridia](#eastern-meridia)
+  - [Description](#description)
+  - [Geography](#geography)
+  - [Government](#government)
+  - [History](#history)
 
-- [Northern Meridia](#northern-meridia)
-- [Western Meridia](#western-meridia)
-- [Central Meridia](#central-meridia)
-- [Eastern Meridia](#eastern-meridia)
 
 ## Northern Meridia
 

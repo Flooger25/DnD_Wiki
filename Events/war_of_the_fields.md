@@ -31,6 +31,24 @@ The War of the Fields was a conflict that occurred on the continent of [Caelus](
 | - | - | - |
 | 44,262 troops<br>6,732 civilians | 31,693 troops<br>25,192 civilians | 22,171 undead |
 
+## Contents
+
+- [War of the Fields](#war-of-the-fields)
+  - [Contents](#contents)
+  - [Location](#location)
+  - [History](#history)
+    - [Causes](#causes)
+    - [Battle](#battle)
+      - [Invasion](#invasion)
+      - [Eastern Alliance](#eastern-alliance)
+      - [Power of the Northern Fields](#power-of-the-northern-fields)
+      - [The Necromancer](#the-necromancer)
+      - [Imperator of the Fields](#imperator-of-the-fields)
+      - [Degradation of Ebrihan](#degradation-of-ebrihan)
+    - [Aftermath](#aftermath)
+    - [Caelian Empire](#caelian-empire)
+  - [Statistics](#statistics)
+
 ## Location
 
 The War of the Fields took place entirely on the continent Caelus, and primarily on the eastern half.
