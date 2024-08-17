@@ -144,6 +144,8 @@ By the end of the age the Mavellian Dynasty had shrunk its borders and power by 
 
 #### New Iptian Alliance (211-244)
 
+#### TODO (244-291)
+
 #### First Age of Adventurers (263-291)
 
 In 263, a no name adventure group was formed in a small village in Protar. Over its 28 year time frame, this group had grown a following, reputation, and immense strength fighting extremely powerful enemies and saving their people time and time again.
@@ -154,9 +156,9 @@ It is commonly considered that the formation of the Titans was the start of the 
 
 #### Second Age of Adventurers (291+)
 
-The common understanding of the years after the dissolution of the Titans is considered to be the Age of Adventurers.
+The common understanding of the years after the dissolution of the Titans is considered to be the Second Age of Adventurers.
 
-Before the Titan's disbandment many powerful nations wanted to mimic and have their own powerful individuals, despite the fact that the Titans did not formally or informally represent any colors.
+Before the Titan's disbandment many powerful nations wanted to mimic and have their own powerful individuals, despite the fact that the Titans did not formally or informally represent any colors. With the Titans gone these kinds of parties were introduced publicly to the world, and soon many other nations followed.
 
 ## Demographics
 
