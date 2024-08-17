@@ -52,15 +52,17 @@ Below is a visual of the Empire's growth in power during it's invasion of Meridi
 
 ## Contents
 
-- [Description](#description)
-- [Geography](#geography)
-- [Government](#government)
-- [History](#history)
-  - [Rise of Ebrihan](#rise-of-ebrihan)
-  - [Local Purge](#local-purge)
-  - [Meridian Wars](#meridian-wars)
-  - [Death of the High Lord and Great Cataclysm](#death-of-the-high-lord-and-great-cataclysm)
-  - [Legacy](#legacy)
+- [Caelian Empire](#caelian-empire)
+  - [Contents](#contents)
+  - [Description](#description)
+  - [Geography](#geography)
+  - [Government](#government)
+  - [History](#history)
+    - [Rise of Ebrihan](#rise-of-ebrihan)
+    - [Local Purge](#local-purge)
+    - [Meridian Wars](#meridian-wars)
+    - [Death of the High Lord and Great Cataclysm](#death-of-the-high-lord-and-great-cataclysm)
+    - [Legacy](#legacy)
 
 ## Description
 
