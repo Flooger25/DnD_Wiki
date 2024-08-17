@@ -96,14 +96,12 @@ The war was devastating to both sides, economically and demographically, especia
 
 Our adventure starts nearly four decades later, in an age of regrowth and hope, as the new Duke of Ebrihan, Oric Valdes, has reshaped the region and brought stability under the rule of the Dominion. Rumors have spread of a mysterious force awakened in the north, and that of coastal villages disappearing completely. Meanwhile, the people of the Dominion face a new kind of corruption in their government and concerns arise as the King has fallen ill, and the last heir to the Vidroth line has not being seen in weeks. Our heroes start in the coastal city of Casta, as they have been told to look for an informant with information on a quest that could lead to riches, power, and adventure."
 
+### RoE Plot
+
 <details>
 <summary>Spoilers for the Rise of Ebrihan!</summary>
 
 The Rise of Ebrihan opens with a newly formed party at the inn in the little fishing town of Casta in the Ebrihan region of the continent island Caelus. They have been tasked with contacting an informant with a very secretive information.
-
-### RoE Plot
-
-TODO
 
 </details>
 
@@ -112,7 +110,7 @@ TODO
 ### DoD Introduction
 
 <details>
-<summary>Spoilers for Death of a Dragon!</summary>
+<summary>Spoilers for the Rise of Ebrihan!</summary>
 
 "In 1326, a group of novice adventurers who sought wealth, power, and adventure found and returned the missing heir to the Vidroth line, Princess Eilis, exposed a secret organization who plotted against the crown and controlled over the misfortunate, and eventually had slain a dark and deformed creature who was terrorizing the eastern coast of Caelus. As their adventure came to a close, a much darker plot was revealed, and despite their attempts, the duke of Ebrihan, Oric Valdes, was revealed to be the legend known as the Imperator of the Fields, an old war hero of immense power, and was finally able to fulfill his desire for revenge.**
 
@@ -124,7 +122,12 @@ Once the smaller states of Meridia were conquered and cleansed, the Empire shift
 
 Our adventure continues 17 years after the events of the first campaign, in the year 1343. The war draws to a narrow close for the Caelian Empire against Western Meridia, our heroes are dispersed, either in hiding or retirement, and the events many years ago has left our characters defeated and lost. Life seems hopeless for all, until a new opportunity emerges, promising of a way to strike back at the oppressors. Our heroes have just received news of the execution of an old beloved friend and ally, so our story begins with our party traveling to the funeral in a small village, Dorren, on the coast of Pelrock Isle. Little to their knowledge, a new adventure awaits."
 
+</details>
+
 ### DoD Plot
+
+<details>
+<summary>Spoilers for Death of a Dragon!</summary>
 
 TODO
 
@@ -135,11 +138,16 @@ TODO
 ### AoA Introduction
 
 <details>
-<summary>Spoilers for Ascension of the Ancient!</summary>
+<summary>Spoilers for Death of a Dragon!</summary>
 
 "In 1343, our group of heroes reunited during the funeral of a long friend and ally Lord Belda. They were soon tasked by Queen Eilis to help in bringing the High Lord down and restoring peace to the world. Through the group’s adventure, they traveled back in time to discover Oric Valdes’ secret to power, and to determine what can be used against him. Once discovered, the group found the Imperator’s spear, Fraemia, snuck and battled their way into the White Palace, and finally confronted the High Lord and slayed him. It was not over, however, for the party was deceived. As the High Lord fell, he warned the party of the next coming, and a dark energy was released in the Hall of the Lord. Our story continues in this moment."
 
+</details>
+
 ### AoA Plot
+
+<details>
+<summary>Spoilers for Ascension of the Ancient!</summary>
 
 TODO
 
