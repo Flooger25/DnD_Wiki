@@ -21,11 +21,11 @@ The United Republic of Ismaia is a major nation, and former colony of the [Mavel
 
 | Area | |
 | - | - |
-| 315 5A | 6,500,000 km<sup>2</sup> |
+| 316 5A | 6,500,000 km<sup>2</sup> |
 
 | Population | |
 | - | - |
-| 1326 PA | 10,600,000 |
+| 316 5A | TODO |
 
 ## Description
 

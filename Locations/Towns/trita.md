@@ -1,8 +1,13 @@
 # Trita
 
-Trita is both the capital and largest city of the [Republic of Ismaia](../../Factions/Nations/republic_of_ismaia.md), and that of the entire region of the [Old World](../Land/old_world.md).
+Trita is both the capital and largest city of the [Republic of Ismaia](../../Factions/Nations/republic_of_ismaia.md), and that of the entire region of the [Old World](../Land/old_world.md). It is positioned on the east coast of the Ismaian region and at the mouth of the Ismaian gateway/river.
 
+Trita is a rich city of culture, commerce, art, magic, science, and equality. It is known as the crowning jewel of Pulchra as it has become a safe haven for all peoples of the world and provides opportunity to those who seek it. In addition, historians have calculated that it is the biggest known city in history and has the largest GDP per capita.
 
+Besides being the capital of the Ismaian government, it is also the capital of the adventuring world and that of the League of Adventurers. Because of this it has become an incredibly valuable international city for those in the Old World, Meridia, and Caelus.
+
+"Trita is where anybody can be rich, because, well in fact, everyone is."
+-- Arcellus the Historian, circa 299 5A.
 
 | Geography | |
 | - | - |
@@ -21,7 +26,12 @@ Trita is both the capital and largest city of the [Republic of Ismaia](../../Fac
 | 0-24 5A | Cataclysm years |
 | 28 5A | Death of Ronin Garrik Mavell | 
 | 31-36 5A | War of the 4 Lords |
-| 36 | Founding of Council of the 3 Sisters<br>Founding of Trita |
+| 36 5A | Founding of Council of the 3 Sisters<br>Founding of Trita |
+| 68 5A | Death of sister Viessa |
+| 120 5A | First Tribal war and death of Sariandi |
+| 188 5A | Day of Red and beginning of Ismaian Revolution |
+| 188-195 5A | Ismaian Revolution |
+| 196 5A | Founding of Republic |
 
 | Population | |
 | - | - |
