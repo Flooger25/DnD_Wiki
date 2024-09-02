@@ -2,6 +2,10 @@
 
 The Meridian Wars was a collection of invasions of [Meridian](../Locations/Land/meridia.md) regions by the infamous [Caelian Empire](../Factions/Nations/caelian_empire.md). It was a catastrophic conflict that affected the entirety of the ancient world at the end of the [4th Age](timeline.md#4th---age-of-the-ancients) of [Pulchra](../Locations/Planes/pulchra.md).
 
+Below is a visual of the Empire's growth in borders during the war.
+
+![Caelian Empire Expansion](../Media/caelian_empire.gif)
+
 | Basic Information | |
 | - | - |
 | Other names | The Defining Conflict<br>War of Survival |

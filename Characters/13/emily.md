@@ -9,13 +9,12 @@ TODO
 | Sex | Dishwasher |
 | Race | Human |
 | Born | 1333 PA |
-| Age | 10 in 1343 PA |
+| Age | 10 in 1343 PA<br>199 in 188 5A |
 
 | Family | |
 | - | - |
-| Parent(s) | |
-| Partner(s) | wife |
-| Children | 3 of em |
+| Parent(s) | [Six](six.md) (adopted)|
+| Partner(s) | Her work |
 
 | Statistics | |
 | - | - |

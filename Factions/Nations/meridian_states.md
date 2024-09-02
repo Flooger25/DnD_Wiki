@@ -13,7 +13,7 @@ The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, i
   - [Geography](#geography)
   - [Government](#government)
   - [History](#history)
-
+    - [Meridian Union](#meridian-union)
 
 ## Northern Meridia
 
@@ -26,6 +26,8 @@ The history of [Meridia](../../Locations/Land/meridia.md) is vast and complex, i
 | Population | |
 | - | - |
 | 1326 PA | 22,211,840 |
+
+The north is the richest and most diverse of the 4 cardinal sub-regions of Meridia.
 
 ## Western Meridia
 
@@ -81,3 +83,5 @@ TODO
 ## Government
 
 ## History
+
+### Meridian Union
