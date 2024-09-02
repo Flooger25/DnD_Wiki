@@ -10,7 +10,7 @@ Naddin is a Dwarvan Paladin who was the 6th, and a core, member to the adventure
 | Sex | Male |
 | Race | Dwarf |
 | Born | 1101 PA |
-| Age | 225 in 1326 PA<br>242 in 1343 PA<br>429 in 162 PC |
+| Age | 225 in 1326 PA<br>242 in 1343 PA<br>431 in 188 5A |
 
 | Family | |
 | - | - |

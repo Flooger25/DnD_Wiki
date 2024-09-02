@@ -2,7 +2,7 @@
 
 The Commodian Isles are a collection of islands in the heart of the [South Eastern Sea](../Planes/pulchra.md#south-eastern-corner) and the primary location for the events of the [Commodian Tales](../../Campaigns/commodian_tales.md) adventure.
 
-![Commodian Isles](../../Media/commodian_isles.png)
+![Commodian Isles](../../Media/commodian_isles.jpg)
 
 | Basic Information | |
 | - | - |
@@ -24,21 +24,23 @@ The Commodian Isles are a collection of islands in the heart of the [South Easte
 
 ## Contents
 
-- [Geography](#geography)
-- [History](#history)
-  - [Full Timeline](#full-timeline)
-  - [Early Age](#early-age)
-  - [4th Age](#4th-age)
-  - [Eastern Invasion](#eastern-invasion)
-  - [Great Cataclysm](#great-cataclysm)
-  - [Post Cataclysm](#post-cataclysm)
-  - [Commodian Tales](#commodian-tales)
-- [Independent States](#independent-states)
-  - [Old Unified Commodia](#old-unified-commodia)
-  - [Brasshaven](#brasshaven)
-  - [(New) Unified Commodia](#new-unified-commodia)
-  - [Helrock](#helrock)
-  - [Kausso](#kausso)
+- [Commodian Isles](#commodian-isles)
+  - [Contents](#contents)
+  - [Geography](#geography)
+  - [History](#history)
+    - [Full Timeline](#full-timeline)
+    - [Early Age](#early-age)
+    - [4th Age](#4th-age)
+    - [Eastern Invasion](#eastern-invasion)
+    - [Great Cataclysm](#great-cataclysm)
+    - [Post Cataclysm](#post-cataclysm)
+    - [Commodian Tales](#commodian-tales)
+  - [Independent States](#independent-states)
+    - [Old Unified Commodia](#old-unified-commodia)
+    - [Brasshaven](#brasshaven)
+    - [(New) Unified Commodia](#new-unified-commodia)
+    - [Helrock](#helrock)
+    - [Kausso](#kausso)
 
 ## Geography
 

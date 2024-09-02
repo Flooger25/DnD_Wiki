@@ -40,5 +40,3 @@ Ronin's life was cut short when he died of disease in 28 5A, however, his legacy
 ### TODO
 
 ### Rule of Zun Mavell ()
-
-### 

@@ -21,14 +21,31 @@ Map of the Old World in 186 5A:
 | - | - |
 | 1326 PA | 90,000,000 |
 
-- [Geography](#description)
-  - [Regions](#regions)
-  - [Geographic Locations](#geographic-locations)
-- [History](#history)
-  - [3rd Age](#3rd-age)
-  - [4th Age](#4th-age)
-  - [5th Age](#5th-age)
-- [Demographics](#demographics)
+- [Old World](#old-world)
+  - [Geography](#geography)
+    - [Regions](#regions)
+    - [Geographic Locations](#geographic-locations)
+  - [History](#history)
+    - [3rd Age](#3rd-age)
+    - [4th Age](#4th-age)
+      - [0-500](#0-500)
+      - [500-1000](#500-1000)
+      - [1000-1500](#1000-1500)
+      - [1500-2000](#1500-2000)
+      - [2000-2600](#2000-2600)
+    - [5th Age](#5th-age)
+      - [Post-Cataclysm (0-24)](#post-cataclysm-0-24)
+      - [First Western Migration (24-29)](#first-western-migration-24-29)
+      - [Reconstruction \& Colonization (29-153)](#reconstruction--colonization-29-153)
+      - [Mavell Conquests (153-186)](#mavell-conquests-153-186)
+      - [Commodian Intervention (186-188)](#commodian-intervention-186-188)
+      - [Wars of Independence (188-211)](#wars-of-independence-188-211)
+      - [New Iptian Alliance (211-244)](#new-iptian-alliance-211-244)
+      - [Ismaian-Silandrian War of 233](#ismaian-silandrian-war-of-233)
+      - [TODO (244-291)](#todo-244-291)
+      - [First Age of Adventurers (263-291)](#first-age-of-adventurers-263-291)
+      - [Second Age of Adventurers (291+)](#second-age-of-adventurers-291)
+  - [Demographics](#demographics)
 
 ## Geography
 
@@ -118,11 +135,11 @@ Adamo's preemptive request for assistance proved to be wise in the short term as
 
 #### Wars of Independence (188-211)
 
-Years of tensions culminated in a massive riot in the streets of Trita, the largest city of the western colonies of Mavellia in the geographic region of Ismaia. Known as the Day of Red, on October 10th of 188 in Trita the riot turned extremely violent when one of the Mavellian keepers of peace had their wizard cast a fireball on the crowd. The keeper denies these allegations saying the message was misunderstood, but the damage was done regardless. This led to a revolt where the colonists took the city into their own hands.
+Years of tensions culminated in a massive riot in the streets of [Trita](../Towns/trita.md), the largest city of the western colonies of Mavellia in the geographic region of Ismaia. Known as the Day of Red, on October 10th of 188 in Trita the riot turned extremely violent when one of the Mavellian keepers of peace had their wizard cast a fireball on the crowd. The keeper denies these allegations saying the message was misunderstood, but the damage was done regardless. This led to a revolt where the colonists took the city into their own hands.
 
 News of the events spread throughout the western colonies and this created protests and disorder to such a degree that the empire could not control it. The largest cities on the coast banded together to create a defensive blockade of the colonies from the Mavellians. Independence was declared and any and all western colonies were invited to join in their movement. The western colonies were agnostic to the movement, intending to side with whichever would maintain security and control of the trade networks. The coastal colonies, however banded together and sent a message to the king simply saying, "The West is ours. If his majesty wishes to intervene, he brings death upon him."
 
-In response to the events, the king sent half of his remaining navy to encounter the blockade. Talks occurred hoping to reduce tensions and slowly bring the colonies back into Mavellian control, but they were not receptive to these deceptive tactics. It is unknown who exactly fired first, but a skirmish occurred between an Ismaian and Mavellian warship that triggered a full scale naval battle on the coast of Trita. This became known as the Battle for Trita since if the revolutionaries had lost, it was commonly believed the king's forces could capture the city and the whole revolution would fall apart.
+In response to the events, the king sent half of his remaining navy to encounter the blockade. Talks occurred hoping to reduce tensions and slowly bring the colonies back into Mavellian control, but they were not receptive to these deceptive tactics. It is unknown who exactly fired first, but a skirmish occurred between an Ismaian and Mavellian warship that triggered a full scale naval battle on the coast of [Trita](../Towns/trita.md). This became known as the Battle for Ismaia since if the revolutionaries had lost, it was commonly believed the king's forces could capture the city and the whole revolution would fall apart.
 
 The Mavellians were victorius on the water due to the sheer numbers, however the city was extremely well fortified due to years of preparations by the Mavellians on a potential attack from one of her rivals. The city did not fall, so the Mavellian navy could do nothing but bombard and form their own blockade. The blockade went on for months and well into 189. During this time the revolutionaries were spreading word of these events to the rest of Mavellia's colonies.
 
