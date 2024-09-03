@@ -85,7 +85,7 @@ The marriage offering angered the Tilda house, one of the 4, which in response a
 
 ### Council of the 3 Sisters and Founding of Trita
 
-It was agreed by the founding 3 houses that a formal government should be established as the law of the land. The 3 sisters, being the bridge between the houses, came together as the Council of the 3 Sister and created a document of confederation they nicknamed the "Confederation of the 3." This became more publicly known as the Treaty of Trita, which inspired the sisters to name their settlement Trita. Thus the city was founded in year 36 of the 5th Age.
+It was agreed by the founding 3 houses that a formal government should be established as the law of the land. The 3 sisters, being the bridge between the houses, came together as the Council of the 3 Sisters and created a document of confederation they nicknamed the "Confederation of the 3." This became more publicly known as the Treaty of Trita, which inspired the sisters to name their settlement Trita. Thus the city was founded in year 36 of the 5th Age.
 
 The three sisters governed the city for several decades. Naesala expressed she no longer wanted to govern but rather spend her time caring for the people and performing druidic research, as she was worried about a growing threat from the west. The three agreed to open the council up to the people, which increased the size by 12, representing the 12 districts of the city. Each house would name their speaker through democratic means, but this was not enforced which eventually let the council be populated by the lords of the houses.
 
@@ -147,7 +147,7 @@ The war was practically over for Ismaia as the Mavellians would never be able to
 
 The following year, in 196, a Tritan-led convention was established to unite the Ismaian lords to negotiate an armistice with the king. During this they debated what to do with Ismaia's future. Months of discussion went on and by the fall of that year the rulers of each duchy in Ismaia agreed to form a new nation bounded by law and freedom for all those who have been or could be harmed by a central power.
 
-The nation of the United Republic of Ismaia was formed with Trita representing its capital. It would be a two branch government comprised of a senate and judicial court. Trita would house all senate hearings and be the location of the national supreme court. Each sub-state of Ismaia would be represented by 3 senators; a lord, a designated intellectual/historian/scientist, and a chosen citizen. The first would be chosen by each sub state's own laws, whereas the other two would be elected by the people.
+The nation of the United [Republic of Ismaia](../../Factions/Nations/republic_of_ismaia.md) was formed with Trita representing its capital. It would be a two branch government comprised of a senate and judicial court. Trita would house all senate hearings and be the location of the national supreme court. Each sub-state of Ismaia would be represented by 3 senators; a lord, a designated intellectual/historian/scientist, and a chosen citizen. The first would be chosen by each sub state's own laws, whereas the other two would be elected by the people.
 
 This model was inspired heavily by the council of 12 of Trita, especially that of the democratic wishes of the three sisters.
 

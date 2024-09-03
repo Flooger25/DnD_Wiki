@@ -7,16 +7,16 @@ The Bean Team is a band of adventurers based in the Commodian Isles during the y
 | Alias(es) | Bean Team |
 | Type | Adventuring party |
 | Base of operations | unknown |
-| Leader(s) | unknown |
-| Goals | unknown |
+| Leader(s) | Ord Pyraxtallinost<br>Dawn Baertish |
+| Goals | be cool pirates |
 
 | History | |
 | - | - |
-| Formed | 162 PC |
+| Formed | 162 PC<br>186 5A |
 
 | Membership | |
 | - | - |
 | Total Members | 5 |
-| Notable Members | Ord Pyraxtallinost<br>Dawn<br>Samaria Venga<br>Pok<br>Tazirin Onyxstone<br>Ormyn Stonelight |
+| Notable Members | [Ord Pyraxtallinost](ord.md)<br>[Dawn](dawn.md)<br>[Samaria Venga](samaria.md)<br>[Pok](pok.md)<br>Tazirin Onyxstone<br>[Ormyn Stonelight](ormyn.md) |
 
 TODO

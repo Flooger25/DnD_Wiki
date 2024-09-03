@@ -15,7 +15,7 @@ Below is a list of different factions divided into their separate sub-categories
 | *New* [Unified Commodia](Nations/unified_commodia.md) | Aristocracy | 82 [5A](../Events/timeline.md#5th---age-of-the-kings) | - | 104 in 162 PC | [Commodian Isles](../Locations/Land/commodian_isles.md) |
 | Regent of the Lord | ?? | 115 5A | ?? | 201 in 316 5A | Old World |
 | Silandria | ?? | ?? | ?? | ?? | Old World |
-| [United Republic of Ismaia](Nations/republic_of_ismaia.md) | Republic | 202 5A | ?? | 114 in 316 5A | Ismaia |
+| [United Republic of Ismaia](Nations/republic_of_ismaia.md) | Republic | 196 5A | ?? | 120 in 316 5A | Ismaia |
 
 ## Organizations
 
@@ -26,6 +26,7 @@ Below is a list of different factions divided into their separate sub-categories
 | [Randy's Handy Co.](Organizations/randys_co.md) | Company | 2582 4A | - | 204 in 162 PC | [Orham](../Locations/Towns/orham.md), Ebrihan | ?? |
 | Legion of Man | Religious Rebels | 158 PC | - | 4 in 162 PC | - | 202 |
 | Loyalists | - | 2582 4A | - | 204 in 186 4A | - | - |
+| League of Adventurers | - | 212 5A | - | 104 in 5A | - | 200,000+ in 316 5A |
 
 ## Races
 
