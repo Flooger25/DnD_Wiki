@@ -35,11 +35,11 @@ Six was born to an Elf family in Meridia nearly 300 years prior to our story. Wh
 
 ## Time-Skip
 
-“For the 17 years Six would go back to bounty hunting for cash, practice, and bitches.” - Ryan
+"For the 17 years Six would go back to bounty hunting for cash, practice, and bitches." - Ryan
 
 ## After 13/Post-Caelian Trilogy
 
-After the events of the Caelian Trilogy, the members of 13 parted ways, while Six made sure to note how old everyone at the time was. Six took [Emily](emily.md) back to the Mors Marauders base of operations. When he arrived he learned the Big 3 in the Marauders had been taken out by [Kisiri](../kisiri.md). Six being the highest ranked/most experienced saw the opportunity to take the reigns of the organization. Very, very few of the members remained, but Six used his influence to gather the leftover forces to clear out the demons and devils Kisiri had brought into the world. This gave the Mors Marauders a lot of popularity and new members.
+After the events of the [Caelian Trilogy](../../Campaigns/caelian_trilogy.md), the members of 13 parted ways, while Six made sure to note how old everyone at the time was. Six took [Emily](emily.md) back to the Mors Marauders base of operations. When he arrived he learned the Big 3 in the Marauders had been taken out by [Kisiri](../kisiri.md). Six being the highest ranked/most experienced saw the opportunity to take the reigns of the organization. Very, very few of the members remained, but Six used his influence to gather the leftover forces to clear out the demons and devils Kisiri had brought into the world. This gave the Mors Marauders a lot of popularity and new members.
 
 This continued for about 3 decades. Six was leading the rebuilding of the Marauders and the rebuilding of Eastern Meridia, with himself as the head, and with this new found power Six began to start on his real plans. He sought out a powerful yet secluded necromancer and handsomely paid him to cast the clone spell on Emily. Knowing she would not live as long as him this would allow her to become a form of immortal.
 

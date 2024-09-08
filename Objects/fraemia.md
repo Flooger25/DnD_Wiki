@@ -16,7 +16,7 @@ NOTE: Fraemia is the Ring of Power of Pulchra
 | Created | [3rd age](../Events/timeline.md#3rd---age-of-stillness) or earlier |
 | Price | Priceless |
 | Owners | Unknown god<br>[Anduin](../Characters/anduin_the_great.md)<br>[Andurin](../Characters/andurin.md)<br>[Oric Valdes](../Characters/oric_valdes.md)<br>Monte Pichon<br>[Burk Kvak](../Characters/13/burk.md) |
-| Wielders | Unknown god<br>Andurin<br>Oric Valdes<br>Burk Kvak |
+| Wielders | Unknown god<br>Andurin<br>[Oric Valdes](../Characters/oric_valdes.md)<br>Burk Kvak |
 
 ## Description
 

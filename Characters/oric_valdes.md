@@ -1,3 +1,10 @@
+---
+aliases:
+  - oric valdes
+  - high lord
+  - imperator of the fields
+  - imperator
+---
 # Oric Valdes
 
 Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/fraemia.md), Imperator, and eventually the High Lord of the [Caelian Empire](../Factions/Nations/caelian_empire.md). He acted as one of the primary antagonists of the [Caelian Trilogy](../Campaigns/caelian_trilogy.md). Oric was born to war and blessed with divine strength. He was a powerful opponent, and ally, for he was cunning, ruthless, and a political mastermind. Besides his intellect, his physical strength was unrivaled between mortals.
@@ -25,16 +32,18 @@ Oric Valdes was the 8th Duke of Ebrihan, second wielder of [Fraemia](../Objects/
 
 ## Contents
 
-- [Description](#description)
-- [History](#history)
-  - [Early Life](#early-life)
-  - [The Imperator](#the-imperator)
-  - [Silver Guardians](#silver-guardians)
-  - [Duke of Ebrihan](#duke-of-ebrihan)
-  - [High Lord Valdes](#high-lord-valdes)
-  - [Redemption](#redemption)
-- [Powers](#powers)
-- [Quotes](#quotes)
+- [Oric Valdes](#oric-valdes)
+  - [Contents](#contents)
+  - [Description](#description)
+  - [History](#history)
+    - [Early life](#early-life)
+    - [The Imperator](#the-imperator)
+    - [Silver Guardians](#silver-guardians)
+    - [Duke of Ebrihan](#duke-of-ebrihan)
+    - [High Lord Valdes](#high-lord-valdes)
+    - [Redemption](#redemption)
+  - [Powers](#powers)
+  - [Quotes](#quotes)
 
 ## Description
 
@@ -78,7 +87,7 @@ For the following 21 years, Oric grows his political career, with his public his
 
 In 1312, Oric is crowned Duke of Ebrihan, after many years of working for and with the nobles of the region. He promises a bright future for Ebrihan by claiming that he will build the region into a regional superpower that cannot go unnoticed by others.
 
-Scarred, but impressed, by the natural existence of the great dragon [Miirakail](miirakail.md), Oric desires to recreate that power by biologically and magically forming his own predator. In 1318 he secretly forms a laboratory under the ruins of Kisirith, and secretly funded with the aid of the Raven's and Ebrihan's treasury. The following year, the vile creature Reigith the Deformed [](TODO) was born into creation.
+Scarred, but impressed, by the natural existence of the great dragon [Miirakail](miirakail.md), Oric desires to recreate that power by biologically and magically forming his own predator. In 1318 he secretly forms a laboratory under the ruins of Kisirith, and secretly funded with the aid of the Raven's and Ebrihan's treasury. The following year, the vile creature [Reigith the Deformed](reigith.md) was born into creation.
 
 For the following 7 years, Oric plots to usurp the king and take over the Dominion, thus fulfilling the punishment deserved for invading and destroying the Dominion's own people, those in Ebrihan. He takes advantage of his anonymous political tie with the Ravens to slowly indoctrinate and take over the very skilled black knights of Ebrihan. They soon act as eyes and ears on the ground for the Ravens, and Duke Oric.
 

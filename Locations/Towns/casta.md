@@ -24,7 +24,7 @@ Below is an image of Casta before its destruction:
 
 | History | |
 | - | - |
-| May, 1326 PA | Destruction <sub><sup>(by Reigith)</sup></sub> |
+| May, 1326 PA | Destruction <sub><sup>(by [Reigith](../../Characters/reigith.md))</sup></sub> |
 | Population | 600 in March, 1326 PA |
 
 ## Geography

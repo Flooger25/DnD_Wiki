@@ -8,7 +8,7 @@ The Empire was founded and ruled by [High Lord Oric Valdes](../../Characters/ori
 
 For the following few centuries after its fall, long living loyalists to the regime continued to influence other nations' politics in the [South Eastern Corner](../../Locations/Planes/pulchra.md#south-eastern-corner).
 
-Below is a visual of the Empire's growth in power during it's invasion of Meridia, known as the [Meridian Wars](../../Events/meridian_wars.md).
+Below is a visual of the Empire's growth in power during it's invasion of [Meridia](../../Locations/Land/meridia.md), known as the [Meridian Wars](../../Events/meridian_wars.md).
 
 ![Caelian Empire Expansion](../../Media/caelian_empire.gif)
 
@@ -16,7 +16,7 @@ Below is a visual of the Empire's growth in power during it's invasion of Meridi
 | - | - |
 | Type | Absolute-Dictatorship |
 | Capital | The White Palace, Athal |
-| Sub-states | Caelus<br>Meridia<br>Various Isles in South Eastern Sea |
+| Sub-states | [Caelus](../../Locations/Land/caelus.md)<br>Meridia<br>Various Isles in South Eastern Sea |
 
 | History | |
 | - | - |

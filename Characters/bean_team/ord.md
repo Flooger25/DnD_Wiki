@@ -1,6 +1,6 @@
 # Ord Pyraxtallinost
 
-TODO
+Ord was a former, founding, and central member of the adventuring party [Bean Team](bean_team.md).
 
 | Basic Information | |
 | - | - |
@@ -21,7 +21,7 @@ TODO
 
 ## Backstory
 
-TODO
+Ord was born into a small farming village on the biggest island in [Unified Commodia](../../Factions/Nations/unified_commodia.md), Acodela. One night, at age 14, he heard a voice calling to him to wake up and run. His village was being attacked, his parents were killed but the voice led him to safety in a forest nearby to an abandoned church and on the podium was The Book of Dan. Since then he has devoted himself to Danism and trains as a Paladin with a focus of fending off thieves, ravagers, and highwaymen. Ord wonders why the voice, whom he believes is Dan, chose him to survive, but he goes out of his way to do good looking for the answer, to find the reason he was chosen to survive, and perhaps one day hear the voice again. He doesn’t know if it’s to protect those like him and stop raiders from attacking villagers or if he’s destined for some great purpose but he believes that he was chosen to be saved for some greater purpose and he won’t stop fighting evil and doing good to find that purpose and live up to it and beyond.
 
 ## After Bean Team
 
@@ -38,4 +38,12 @@ As more years went by, Ord grew old and frail. One day, a mysterious ship arrive
 The night before they were to set sail, a peaceful darkness settled over Ord, and he passed away in his sleep. He left behind a letter addressed to Gilligan, expressing his gratitude for helping him find his purpose and requesting to be buried at sea, alongside the greatest adventure he had ever known. Dalry mourned as Ord’s body was carried to the ship, and he was cast into the sea to be with Dan.
 
 Ord's legacy was twofold: he was the original leader and the glue that held the Bean Team together, the most famous pirate crew in the world, and he was a key figure in the adventuring party that saved the world from ancient evil.
+
+## Legacy
+
+Ord's legacy is shaped by his unwavering dedication to justice, his faith in Danism, and his role as a leader within the Bean Team. As a paladin, Ord's story begins with a traumatic event where his village is destroyed, but he is saved by a mysterious voice, which he believes to be the god Dan. This event sets him on a path of righteous duty, where he continually seeks to understand why he was spared and how he can fulfill his greater purpose.
+
+Throughout his adventures with the [Bean Team](bean_team.md), Ord is known for his strong moral compass and his relentless fight against evil. He stands as a protector of the downtrodden, battling thieves, raiders, and dark forces that threaten the world. Ord's faith in Dan is central to his identity, and his actions are driven by his desire to live up to the expectations of his god. His leadership within the group is marked by his courage and sense of responsibility, often taking charge during dangerous missions.
+
+Ord’s legacy is further cemented by his role in pivotal battles, such as those against corrupt leaders like the Baroness and the evil forces connected to the Caelian Empire. His quest to stop the exploitation of the Garnet Stones and uncover the mysteries behind his survival become central themes in his story, reflecting his deep internal drive to fulfill a divine purpose. Ultimately, Ord's legacy is one of faith, leadership, and a commitment to fighting evil, leaving a lasting impact on the world and those he fights alongside.
 

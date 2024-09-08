@@ -1,6 +1,6 @@
 # Sichel
 
-TODO
+Sichel was a former, and founding member of the adventuring party [13](13.md).
 
 | Basic Information | |
 | - | - |
@@ -24,4 +24,8 @@ Sichel was abandoned at the footsteps of an orphanage when he was a mere baby. A
 
 ## Time-Skip
 
-Sichel simply wandered about continuing on his monk journey. He gambled his way into the good graces of some mafia, began dealing fake antique furniture, got out of that to go into entertainment, and eventually started a colosseum in Fallcrest City.
+Sichel simply wandered about continuing on his monk journey. He gambled his way into the good graces of some mafia, began dealing fake antique furniture, got out of that to go into entertainment, and eventually started a colosseum in [Fallcrest City](../../Locations/Towns/fallcrest_city.md).
+
+## Legacy
+
+Sichel's legacy was being that of a obtuse chaotic individual who took great risks with minimal reward for his party. His actions made his monastery so bad they had to begin and advertising campaign to bring in new followers. They eventually recovered. He was also disliked by many business owners in Fallcrest City due to his fake antique furniture business, however, the people loved him for he brought much entertainment due to his monster pit colosseum.
