@@ -15,6 +15,8 @@ def resolve(page, link):
             # Link resolved
             #print("[INFO] Resolved link[", link, "] in page[", page, "]")
             return True
+        # Check to see if the link destination is a header/sub-section in a file
+        # TODO: Eventually we want to verify the header link is valid
         header_result = re.compile(r'#').findall(link)
         if (len(header_result) > 0):
             #print("Header link [", link, "] in page[", page, "]")
