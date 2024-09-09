@@ -1,6 +1,6 @@
 # Zarmoth
 
-TODO
+Zarmoth was a former, and central member of the adventuring party [13](13.md).
 
 | Basic Information | |
 | - | - |

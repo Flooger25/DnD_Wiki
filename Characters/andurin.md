@@ -18,10 +18,10 @@ TODO
 | Parent(s) | [Anduin the Great](anduin_the_great.md) |
 | Sibling(s) | [Kisiri](kisiri.md) |
 
-| Statistics | |
-| - | - |
-| Alignment | Neutral Good |
-| Challenge Rating | 25+ |
+| Statistics       |              |
+| ---------------- | ------------ |
+| Alignment        | Neutral Good |
+| Challenge Rating | 25+          |
 
 ## Description
 

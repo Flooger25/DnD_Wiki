@@ -4,36 +4,39 @@ Gods, or deities, are divine beings with extraordinary power, often worshipped b
 
 ## Contents
 
-- [Deity Ranks](#deity-ranks)
-  - [Quasi-deity](#quasi-deity)
-  - [Demigod](#demigod)
-  - [Lesser deity](#lesser-deity)
-  - [Intermediate deity](#intermediate-deity)
-  - [Greater deity](#greater-deity)
-  - [Overdeity](#overdeity)
-  - [Other](#other)
-- [Faith of the White](#faith-of-the-white)
-- [The Dwarven Pantheon](#the-dwarven-pantheon)
-- [The Elven Pantheon](#the-elven-pantheon)
-- [The Drow Pantheon](#the-drow-pantheon)
-- [The Halfling Pantheon](#the-halfling-pantheon)
-- [The Gnomish Pantheon](#the-gnomish-pantheon)
-- [The Orc Pantheon](#the-orc-pantheon)
-- [Deities of the Forgotten Realms](#deities-of-the-forgotten-realms)
-- [Deities of Greyhawk](#deities-of-greyhawk)
-- [Deities of Dragonlance](#deities-of-dragonlance)
-  - [The Gods of Good](#the-gods-of-good)
-  - [The Gods of Neutrality](#the-gods-of-neutrality)
-  - [The Gods of Evil](#the-gods-of-evil)
-- [Deities of Eberron](#deities-of-eberron)
-  - [The Sovereign Host](#the-sovereign-host)
-  - [The Dark Six](#the-dark-six)
-  - [Other Faiths of Eberron](#other-faiths-of-eberron)
-  - [Nonhuman Deities](#nonhuman-deities)
-- [Celtic Deities](#celtic-deities)
-- [Greek Deities](#greek-deities)
-- [Egyptian Deities](#egyptian-deities)
-- [Norse Deities](#norse-deities)
+- [Gods](#gods)
+  - [Contents](#contents)
+  - [Deity Ranks](#deity-ranks)
+    - [Quasi-deity](#quasi-deity)
+    - [Demigod](#demigod)
+    - [Lesser deity](#lesser-deity)
+    - [Intermediate deity](#intermediate-deity)
+    - [Greater deity](#greater-deity)
+    - [Overdeity](#overdeity)
+    - [Other](#other)
+  - [Faith of the White](#faith-of-the-white)
+  - [The Dwarven Pantheon](#the-dwarven-pantheon)
+  - [The Elven Pantheon](#the-elven-pantheon)
+  - [The Drow Pantheon](#the-drow-pantheon)
+  - [The Halfling Pantheon](#the-halfling-pantheon)
+  - [The Gnomish Pantheon](#the-gnomish-pantheon)
+  - [The Orc Pantheon](#the-orc-pantheon)
+  - [Deities of the Forgotten Realms](#deities-of-the-forgotten-realms)
+  - [Deities of Greyhawk](#deities-of-greyhawk)
+  - [Deities of Dragonlance](#deities-of-dragonlance)
+    - [The Gods of Good](#the-gods-of-good)
+    - [The Gods of Neutrality](#the-gods-of-neutrality)
+    - [The Gods of Evil](#the-gods-of-evil)
+  - [Deities of Eberron](#deities-of-eberron)
+    - [The Sovereign Host](#the-sovereign-host)
+    - [The Dark Six](#the-dark-six)
+    - [Other Faiths of Eberron](#other-faiths-of-eberron)
+    - [Nonhuman Deities](#nonhuman-deities)
+  - [Celtic Deities](#celtic-deities)
+  - [Greek Deities](#greek-deities)
+  - [Egyptian Deities](#egyptian-deities)
+  - [Norse Deities](#norse-deities)
+
 
 ## Deity Ranks
 
@@ -153,7 +156,7 @@ Berronar Truesilver, goddess of hearth and home	| LG | Life, Light | Intertwined
 | Bahgtru, god of strength | LE | War | Broken thigh bone
 | Gruumsh, god of storms and war | CE | Tempest, War | Unblinking eye
 | Ilneval, god of strategy and hordes | LE | War | Upright blood-spattered sword
-| Luthic, mother-goddess of fertility and healing | LE | Life, Nature | Orcish rune meaning “cave entrance”
+| Luthic, mother-goddess of fertility and healing | LE | Life, Nature | Orcish rune meaning "cave entrance"
 | Shargaas, god of stealth and darkness | NE | Trickery | Red crescent moon with a skull between the moon’s horns
 | Yurtrus, god of death and disease | NE | Death | White hand, palm outward
 

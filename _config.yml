@@ -12,7 +12,7 @@ tipue_search:
   include:
     pages: true
   exclude:
-    files: [index.md, search.html, random.html]
+    files: [index.md, search.html, random.html, verifier.py]
 
 # Build settings
 exclude:

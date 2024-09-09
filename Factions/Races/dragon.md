@@ -13,7 +13,8 @@ TODO
 
 Over the course of history there have been several dragons to have been known and/or discovered by various societies and individuals. Some known dragons, even by few, are listed here:
 
-| Name | Aliases | Species | Age | Sex | Status | Homes | CR |
+| Name | Aliases | Species | Age (Years) | Sex | Status | Homes | CR |
 | - | - | - | - | - | - | - | - |
 | [Miirakail](../../Characters/miirakail.md) | Father of Caelus<br>The Clairvoyant One | Silver | 2000-2500 | Male | Deceased (1343 PA) | Caelus | 23 (epic)
-| [Rystrasz](../../Characters/rystrasz.md) | The Ill Tempered One<br>Big Red<br>King of Rock<br>The Red Sky | Red | Thousands | Male | Unknown | Unknown | 28 (epic)
+| Nizrat | The Enraged | White | 800-1000 | Male | Deceased (1343 PA) | Central Meridian Mountains | 20
+| [Rystrasz](../../Characters/rystrasz.md) | The Ill Tempered One<br>Big Red<br>King of Rock<br>The Red Sky | Red | Thousands | Male | Unknown | Unknown | 28+ (epic)

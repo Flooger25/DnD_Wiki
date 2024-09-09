@@ -7,7 +7,7 @@ The Ancient Cataclysm, or formerly understood at the Great Cataclysm, was a cata
 | Other names | Ancient Cataclysm |
 | Type | Cataclysm |
 | Location(s) | [Caelus](../Locations/Land/caelus.md)<br>Meridia<br>South Eastern Sea |
-| Date | 1334 PA - 1354 PA<br>-24 PC - 0 PC<br>0 5A - 24 5A|
+| Date | 2600 4A (start)<br>1334 PA - 1354 PA<br>-24 PC - 0 PC<br>0 5A - 24 5A|
 | Duration | 24 years |
 
 | History | |
@@ -26,4 +26,8 @@ TODO
 
 ## The Cataclysm
 
+TODO
+
 ## Aftermath
+
+TODO

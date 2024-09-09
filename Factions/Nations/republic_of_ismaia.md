@@ -17,7 +17,7 @@ The United Republic of Ismaia is a major nation, and former colony of the [Mavel
 | First Government | Senate of Nine |
 | Established | 196 5A |
 | Predecessor | Mavell-Ismaia Colonies |
-| Notable events | [First Migration](../../Locations/Land/old_world.md#first-western-migration-24-29)<br>[Ismaian Revolution](../../Locations/Land/old_world.md#wars-of-independence-188-211) |
+| Notable events | [First Migration](../../Locations/Land/old_world.md#first-western-migration-24-29)<br>Founding of [Trita](../../Locations/Towns/trita.md)<br>[Ismaian Revolution](../../Locations/Land/old_world.md#wars-of-independence-188-211) |
 
 | Area | |
 | - | - |

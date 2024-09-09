@@ -76,8 +76,7 @@ Quick timeline of the events of the Meridian Wars using the [Post-Anduin (PA)](t
   - Assassination of High Lord Valdes
 - 1344
   - Fall of Caelian Empire
-- 1344
-  - Great Cataclysm
+  - [Great Cataclysm](../Events/great_cataclysm.md)
 
 ### Causes
 

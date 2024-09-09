@@ -72,7 +72,7 @@ The [Dominion](../../Factions/Nations/dominion_of_anduin.md) was founded in 0 PA
 
 ### Caelian Empire
 
-In 1326 PA, under the command of [Oric Valdes](../../Characters/oric_valdes.md), the Dominion was usurped and reorganized into the [Caelian Empire](../../Factions/Nations/caelian_empire.md). For 17 years the Empire ruled and invaded surrounding lands by land and sea, nearly conquering the entirety of the south eastern corner and far beyond until its collapse with the death of High Lord Oric Valdes. The invasions are known as the [Meridian Wars](../../Events/meridian_wars.md), and the death toll and destruction caused was so great it paved the struggle for the next several generations. After the occurrence of the [Great Cataclysm](../../Events/great_cataclysm.md), the years required for full societal recovery required many generations.
+In 1326 PA, under the command of [Oric Valdes](../../Characters/oric_valdes.md), the Dominion was usurped and reorganized into the [Caelian Empire](../../Factions/Nations/caelian_empire.md). For 17 years the Empire ruled and invaded surrounding lands by land and sea, nearly conquering the entirety of the south eastern corner and far beyond until its collapse with the death of High Lord [Oric Valdes](../../Characters/oric_valdes.md). The invasions are known as the [Meridian Wars](../../Events/meridian_wars.md), and the death toll and destruction caused was so great it paved the struggle for the next several generations. After the occurrence of the [Great Cataclysm](../../Events/great_cataclysm.md), the years required for full societal recovery required many generations.
 
 ### Caelian Union
 

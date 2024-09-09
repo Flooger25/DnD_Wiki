@@ -40,12 +40,13 @@ Map of the Old World in 186 5A:
       - [Mavell Conquests (153-186)](#mavell-conquests-153-186)
       - [Commodian Intervention (186-188)](#commodian-intervention-186-188)
       - [Wars of Independence (188-211)](#wars-of-independence-188-211)
-      - [New Iptian Alliance (211-244)](#new-iptian-alliance-211-244)
-      - [Ismaian-Silandrian War of 233](#ismaian-silandrian-war-of-233)
+      - [Iptian Civil War \& New Iptian Alliance (211-244)](#iptian-civil-war--new-iptian-alliance-211-244)
+      - [Ismaian-Silandrian War of (233-236)](#ismaian-silandrian-war-of-233-236)
       - [TODO (244-291)](#todo-244-291)
       - [First Age of Adventurers (263-291)](#first-age-of-adventurers-263-291)
       - [Second Age of Adventurers (291+)](#second-age-of-adventurers-291)
   - [Demographics](#demographics)
+
 
 ## Geography
 
@@ -93,7 +94,7 @@ TODO
 
 #### Post-Cataclysm (0-24)
 
-Due to the events of the Great Cataclysm, a great famine had occurred, affecting most, if not all, of the regions in the Old World. Over the first months and years, political stability began to wane, until eventually chaos had enveloped the populous cities. Some of the more powerful kings and lords were able to hold their own against mobs, but most perished as their government fell before them.
+Due to the events of the [Great Cataclysm](../../Events/great_cataclysm.md), a great famine had occurred, affecting most, if not all, of the regions in the Old World. Over the first months and years, political stability began to wane, until eventually chaos had enveloped the populous cities. Some of the more powerful kings and lords were able to hold their own against mobs, but most perished as their government fell before them.
 
 The following decades, new lords rose and united small lands, and the old perished. This time period was filled with constant warring and lack of stability.
 
@@ -159,9 +160,24 @@ The age of independence was formally recognized to be concluded when the Silandr
 
 By the end of the age the Mavellian Dynasty had shrunk its borders and power by 65% and the lands lost had split into over 5 major states. In addition, the original progeniture of the revolutions had formed their own democratic republic based on a constitution. Officially they were recognized as the United Republic of Ismaia.
 
-#### New Iptian Alliance (211-244)
+#### Iptian Civil War & New Iptian Alliance (211-244)
 
-#### Ismaian-Silandrian War of 233
+Now that the war with Mavellia was concluded, the Iptian Alliance became disorganized and quickly disestablished. Despite this, talks of reuniting the alliance to protect the interests of the native Iptian peoples continued.
+
+With the thumb of Mavellia no longer pressured on the Iptian region the lords of the land felt they could pursue their own interests uninterrupted. Some of these conflicted with the other Iptian lords, and soon conflict began to brew. There were two primary beliefs among the lords with respect to what the future of their territories ought to look:
+
+- The Iptian peoples ought to integrate with the rest of the world through trade. No longer should the region be focused on what is within as they are free to trade with the rest of the world and unite with them.
+- The Iptian peoples are not safe from the rest of the world and must build a military and create buffer territoris to preserve their existence.
+
+The 22 lords of the Iptayabur soon were pressured into siding with one philosophy or the other due to the growth of each side. Naturally, war soon followed and the region was sent onto a path of destruction.
+
+The Iptian Civil War, or known as the War of 22 Lords, reshaped the local region and became the most catastrophic event since the [Great Cataclysm](../../Events/great_cataclysm.md). Starvation became pervasive in the whole region and entire kingdoms were destroyed. By the end of the war only 6 of the original lords/kingdoms remained in tact. None of the remaining lords were the most motivated of the original, so they decided to redraw borders that favored those 6. Peace was established after 15 years of war.
+
+Due to the economic growth of the rest of the Old World, the Iptian kingdoms lagged behind the other significantly. An economic initiative was introduced to unite the 6 kingdoms into a union. After 3 years of discussions the 6 kingdoms formed the New Iptian Alliance in 244.
+
+#### Ismaian-Silandrian War of (233-236)
+
+The Republic of Ismaia continued their expansion to the west including that of the neutral former western colonies of Mavellia. There was disagreement between the still young republic and Silandrian country as to which regions of the colonies belonged to whom. Similar to Ismaia, Silandria saw much growth since the independence from the Mavellians, and after 2 decades they were fully prepared to use military force to protect their claims.
 
 #### TODO (244-291)
 

@@ -17,7 +17,7 @@ Ronin's life was cut short when he died of disease in 28 5A, however, his legacy
 | Formed from | Chaos of Western Meridia during the [Meridian Wars](../../Events/meridian_wars.md)<br>Unification following the [Great Cataclysm](../../Events/great_cataclysm.md) |
 | Established | 3 5A |
 | Predecessor | [Western Meridian States](meridian_states.md) |
-| Notable events | Meridian Wars<br>Death of the High Lord<br>Great Cataclysm |
+| Notable events | Meridian Wars<br>Death of the [High Lord](../../Characters/oric_valdes.md)<br>Great Cataclysm |
 
 | Area | |
 | - | - |
