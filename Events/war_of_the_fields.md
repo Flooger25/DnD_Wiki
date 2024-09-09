@@ -111,7 +111,7 @@ It soon looked as if Italiath was to fall, until yellow lighting wiped out hundr
 
 By 1289 PA, the Imperator is able to lead victory after victory against the undead and Dominion.
 
-In the same year, the Imperator is summoned by the Necromancer who asks for him to do a great task, and if that task is completed, the war will end. The task is to find and kill the ancient dragon of the name [Miirakail](miirakail.md). The deal is made, and the Imperator and newly formed warrior group known as the Silver Guardians[](TODO) venture out.
+In the same year, the Imperator is summoned by the Necromancer who asks for him to do a great task, and if that task is completed, the war will end. The task is to find and kill the ancient dragon of the name [Miirakail](../Characters/miirakail.md). The deal is made, and the Imperator and newly formed warrior group known as the Silver Guardians[](TODO) venture out.
 
 While away from the battlefield, the Necromancer continues to take land from the Dominion, and even expand into the lands of the former alliance. Soon, the Guardians learn of the Necromancer's betrayal, and more from Miirakail once encountered, so they return to the war to combat against the Necromancer and destroy her for good.
 

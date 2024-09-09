@@ -4,7 +4,7 @@
 
 The Caelian Empire, commonly referred to as just "the Empire" at the end of the 4th and beginning of the 5th age, and later known as the Ancient Empire, was a dictatorial human-run regime bent on cleansing the world of undesirables and forming a world of only humans. To achieve this goal, the Empire indulged in horrific acts such as enslavement, genocide, and war with neighboring countries. The Empire became the first example of totalitarian extremes, to which many later dark kingdoms draw their influences.
 
-The Empire was founded and ruled by [High Lord Oric Valdes](../../Characters/oric_valdes), while under the spiritual influence of [Arch Witch Kisiri](../../Characters/kisiri.md), until his inevitable assassination by the hands of the legendary adventure group known as [13](../../Characters/13/13.md). After the High Lord's death, the Empire began to crumble until its dissolution in 1344 PA.
+The Empire was founded and ruled by [High Lord Oric Valdes](../../Characters/oric_valdes.md), while under the spiritual influence of [Arch Witch Kisiri](../../Characters/kisiri.md), until his inevitable assassination by the hands of the legendary adventure group known as [13](../../Characters/13/13.md). After the High Lord's death, the Empire began to crumble until its dissolution in 1344 PA.
 
 For the following few centuries after its fall, long living loyalists to the regime continued to influence other nations' politics in the [South Eastern Corner](../../Locations/Planes/pulchra.md#south-eastern-corner).
 
